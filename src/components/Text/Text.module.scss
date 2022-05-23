@@ -1,0 +1,87 @@
+
+@import 'common/styles.module.scss';
+
+.base-text-style {
+  max-width: 45em;
+  margin: 0;
+}
+
+.size-h1 {
+  font-size: $base-size * 3;
+}
+
+.size-h2 {
+  font-size: $base-size * 2.5;
+}
+
+.size-h3 {
+  font-size: $base-size * 2;
+}
+
+.size-h4 {
+  font-size: $base-size * 1.75;
+}
+
+.size-h5 {
+  font-size: $base-size * 1.5;
+}
+
+.size-h6 {
+  font-size: $base-size * 1.25;
+}
+
+.size-lg {
+  font-size: $base-size * 1.25;
+}
+
+.size-md {
+  font-size: $base-size;
+}
+
+.size-sm {
+  font-size: $base-size * 0.75;
+}
+
+.align-start {
+  text-align: start;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-end {
+  text-align: end;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+.spacing-6x {
+  margin-bottom: $base-size * 6; 
+}
+
+.spacing-4x {
+  margin-bottom: $base-size * 4; 
+}
+
+.spacing-3x {
+  margin-bottom: $base-size * 3; 
+}
+
+.spacing-2x {
+  margin-bottom: $base-size * 2; 
+}
+
+.spacing-1x {
+  margin-bottom: $base-size;
+}
+
+.spacing-half {
+  margin-bottom: $base-size * 0.5;
+}
+
+.spacing-none {
+  margin-bottom: 0;
+}
