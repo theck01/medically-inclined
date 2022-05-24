@@ -1,0 +1,25 @@
+@import 'common/styles.module.scss';
+
+.base-button-style {
+  display: inline-flex;
+  font-size: $base-size * 1.25;  
+  padding: ($base-size / 2);
+  border-radius: ($base-size / 4);
+  font-weight: 600;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.variant-minimal {
+  background: transparent;
+  border: none;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.15);
+  }
+
+  &:active {
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
