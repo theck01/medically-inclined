@@ -4,18 +4,20 @@ import classnames from 'classnames';
 
 import styles from './Link.module.scss';
 
-export type LinkVariant = 'inline' | 'button';
+export type LinkVariant = 'inline' | 'button' | 'minimal-button';
 
 export interface Props {
-  text: string;
-  path: string;
-  variant? : LinkVariant;
+  readonly path: string;
+  readonly variant? : LinkVariant;
+  readonly external?: boolean;
+  readonly children?: React.ReactNode;
 }
 
 export const Link: React.FC<Props> = ({ 
-  text,
   path,
   variant = 'inline',
+  external,
+  children
 }) => {
   const linkClassName = classnames(
     styles[`variant-${variant}`], 
@@ -23,7 +25,11 @@ export const Link: React.FC<Props> = ({
 
   return (
     <div className={linkClassName}>
-      <BaseLink to={path}>{text}</BaseLink>
+      {external ? (
+        <a href={path} target="_blank" rel="noreferrer">{children}</a>
+      ) : (
+        <BaseLink to={path}>{children}</BaseLink>
+      )}
     </div>
   );
 };

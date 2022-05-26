@@ -8,22 +8,37 @@
   padding: ($base-size / 2);
   border-radius: ($base-size / 4);
 
-  font-size: $base-size * 1.5;  
+  font-size: $base-size * 1.25;  
   font-weight: 700;
   font-variant: small-caps;
   letter-spacing: $base-size / 8;
 }
 
-.variant-minimal {
-  color: color(text);
-  background: transparent;
-  border: none;
+.variant-default {
+  background: color(text);
+  color: #F0F0F0;
 
   &:hover {
-    background: rgba(0, 0, 0, 0.15);
+    box-shadow: shadow(1);
+    color: color('blue', 'lightest');
   }
 
   &:active {
-    background: rgba(0, 0, 0, 0.3);
+    box-shadow: none;
+    color: color('blue', 'lighter');
+  }
+}
+
+.variant-minimal {
+  background: transparent;
+  border: none;
+  color: color(text);
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  &:active {
+    background: rgba(0, 0, 0, 0.2);
   }
 }

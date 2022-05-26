@@ -1,0 +1,14 @@
+
+@import 'common/styles.module.scss';
+
+.about-container {
+  display: flex;
+  align-items: center;
+  
+  & > :first-child {
+    width: $base-size * 20;
+    margin-right: $base-size * 2;
+    box-shadow: shadow(1);
+    border-radius: $base-size / 2;
+  }
+}

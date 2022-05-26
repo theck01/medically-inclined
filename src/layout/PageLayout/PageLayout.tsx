@@ -1,8 +1,9 @@
 import React from 'react';
 
+import Link from 'components/Link';
 import TabBar from 'components/TabBar';
 import Text from 'components/Text';
-import titleImg from 'img/title.webp';
+import titleImg from 'data/img/title.webp';
 
 import styles from './PageLayout.module.scss';
 
@@ -27,8 +28,8 @@ export const PageLayout: React.FC<Props> = ({ children }) => (
         {children}
       </div>
       <div className={styles['page-footer']}>
+        <Link path="https://www.instagram.com/themedicallyinclined/" external>@themedicallyinclined</Link>
         <Text size='sm'>{`© 2018-${new Date().getFullYear()} by Caroline Chen`}</Text>
-        <Text size='sm'>@illustrationsforthemedicallyinclined</Text>
       </div>
     </div>
   </div>

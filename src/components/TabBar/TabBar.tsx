@@ -12,7 +12,7 @@ export interface Props {
 
 export const TabBar: React.FC<Props> = ({ tabs }) => (
   <div className={styles['tab-bar']}>
-    { tabs.map((t) => (<Tab label={t.label} path={t.path} />)) }
+    { tabs.map((t) => (<Tab label={t.label} path={t.path} key={t.label} />)) }
   </div>
 );
 
@@ -34,7 +34,7 @@ const Tab: React.FC<TabProps> = ({ label, path }) => {
   
   return (
     <div className={className}>
-      <Link text={label} path={path} variant='button' />
+      <Link path={path} variant='minimal-button' >{label}</Link>
       <div className={styles['active-indicator']} />
     </div>
   );

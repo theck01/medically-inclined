@@ -5,8 +5,20 @@ $base-size: 16px;
 // Shades: lightest, lighter, light, mid, dark, darker, darkest, default
 @function color($name, $shade: 'default') {
   @if $name == 'blue' {
+    @if $shade == 'darker' {
+      @return #10384D;
+    }
+    @if $shade == 'dark' {
+      @return #17516E;
+    }
     @if $shade == 'light' {
       @return #2EA0D8;
+    }
+    @if $shade == 'lighter' {
+      @return #36BDFF;
+    }
+    @if $shade == 'lightest' {
+      @return #99DEFF;
     }
   }
   @else if $name == 'text' {
@@ -17,3 +29,12 @@ $base-size: 16px;
   @return red;
 }
 
+// Height: 0 - 3;
+@function shadow($height) {
+  @if $height = 1 {
+    @return 
+      0 6px 8px 0 rgba(color(text), 0.25),
+      0 4px 4px 0 rgba(color(text), 0.25);
+  }
+  @return none;
+}

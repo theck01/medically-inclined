@@ -1,11 +1,18 @@
 @import 'common/styles.module.scss';
 @import 'components/Button/Button.module.scss';
 
-.variant-inline {
-
+.variant-inline a {
+  color: color('blue', 'dark');
 }
 
-.variant-button > a {
+.variant-button a {
+  @extend .base-button-style;
+  @extend .variant-default;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.variant-minimal-button a {
   @extend .base-button-style;
   @extend .variant-minimal;
   color: color(text);
