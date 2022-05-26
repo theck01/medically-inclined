@@ -1,2 +1,19 @@
 
 $base-size: 16px;
+
+// Colors: blue, text
+// Shades: lightest, lighter, light, mid, dark, darker, darkest, default
+@function color($name, $shade: 'default') {
+  @if $name == 'blue' {
+    @if $shade == 'light' {
+      @return #2EA0D8;
+    }
+  }
+  @else if $name == 'text' {
+    @if $shade == 'default' {
+      @return #101010;
+    }
+  }
+  @return red;
+}
+

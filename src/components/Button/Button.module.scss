@@ -2,16 +2,20 @@
 
 .base-button-style {
   display: inline-flex;
-  font-size: $base-size * 1.25;  
-  padding: ($base-size / 2);
-  border-radius: ($base-size / 4);
-  font-weight: 600;
-
   justify-content: center;
   align-items: center;
+
+  padding: ($base-size / 2);
+  border-radius: ($base-size / 4);
+
+  font-size: $base-size * 1.5;  
+  font-weight: 700;
+  font-variant: small-caps;
+  letter-spacing: $base-size / 8;
 }
 
 .variant-minimal {
+  color: color(text);
   background: transparent;
   border: none;
 

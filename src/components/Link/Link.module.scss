@@ -1,0 +1,14 @@
+@import 'common/styles.module.scss';
+@import 'components/Button/Button.module.scss';
+
+.variant-inline {
+
+}
+
+.variant-button > a {
+  @extend .base-button-style;
+  @extend .variant-minimal;
+  color: color(text);
+  text-decoration: none;
+  font-weight: 700;
+}

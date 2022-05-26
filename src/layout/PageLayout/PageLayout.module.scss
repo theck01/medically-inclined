@@ -8,6 +8,7 @@
 .page-column {
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin: 0 ($base-size * 4);
 
   min-height: 100vh;
@@ -28,15 +29,13 @@
 
 .page-header {
   display: flex;
-  align-items: end;
-  justify-content: space-between;
+  align-items: flex-end;
+  padding: $base-size * 2;
+  margin-bottom: $base-size * 2;
   
   & > :first-child {
-    flex: 0 0 auto;
-  }
-
-  & > :last-child {
-    flex: 1 0 0;
+    margin-right: $base-size * 4;
+    margin-bottom: -44px;
   }
 }
 

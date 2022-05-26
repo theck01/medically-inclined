@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Navigate, Routes, Route } from 'react-router-dom';
 
-import Button from 'components/Button';
 import Text from 'components/Text';
 import PageLayout from 'layout/PageLayout';
 
