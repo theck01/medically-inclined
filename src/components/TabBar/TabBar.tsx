@@ -25,7 +25,7 @@ interface TabProps {
 }
 
 const Tab: React.FC<TabProps> = ({ label, path }) => {
-  const pathMatch = useMatch(path);
+  const pathMatch = useMatch({ path, end: false });
 
   const className = classnames(
     styles['tab'], 

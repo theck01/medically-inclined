@@ -17,14 +17,14 @@ export interface Props {
 export const Text: React.FC<Props> = ({ 
   size = 'md', 
   align = 'start', 
-  spacing,
+  spacing = defaultSpacingForSize(size),
   children
 }) => {
   const textClassName = classnames(
     styles['base-text-style'],
     styles[`size-${size}`], 
     styles[`align-${align}`],
-    styles[`spacing-${spacing ?? defaultSpacingForSize(size)}`],
+    styles[`spacing-${spacing}`],
   );
 
   switch(size) {
@@ -41,12 +41,12 @@ function defaultSpacingForSize(size: TextSize): TextSpacing {
   switch(size) {
     case 'h1': 
     case 'h2': {
-      return '6x';
+      return '4x';
     }
     case 'h3':
     case 'h4':
     case 'h5': {
-      return '4x';
+      return '3x';
     }
     default: {
       return '2x';

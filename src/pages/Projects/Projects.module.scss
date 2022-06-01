@@ -24,6 +24,6 @@ $project-card-gaps: $base-size * 4;
   & > :last-child {
     position: absolute;
     left: $base-size * 2;
-    bottom: $base-size * 2;
+    bottom: $base-size * 1.5;
   }
 }

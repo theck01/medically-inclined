@@ -5,6 +5,10 @@
   color: color('blue', 'dark');
 }
 
+.variant-minimal-inline a {
+  text-decoration: none;
+}
+
 .variant-button a {
   @extend .base-button-style;
   @extend .variant-default;

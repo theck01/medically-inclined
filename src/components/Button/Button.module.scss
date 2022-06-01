@@ -12,6 +12,10 @@
   font-weight: 700;
   font-variant: small-caps;
   letter-spacing: $base-size / 8;
+
+  & :global(.material-icons) {
+    font-variant: initial;
+  }
 }
 
 .variant-default {

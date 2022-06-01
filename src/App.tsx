@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Navigate, Routes, Route } from 'react-router-dom';
 
-import Text from 'components/Text';
 import PageLayout from 'layout/PageLayout';
 import About from 'pages/About';
 import Projects from 'pages/Projects';
+import ProjectIllustrations from 'pages/ProjectIllustrations';
 import StudyTables from 'pages/StudyTables';
 
 function App() {
@@ -15,6 +15,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/study-tables" element={<StudyTables />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path="/projects/:name" element={<ProjectIllustrations />} />
           <Route path="/" element={<Navigate to="/projects" replace />} />
         </Routes>
       </PageLayout>

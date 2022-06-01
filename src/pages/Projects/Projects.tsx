@@ -1,7 +1,10 @@
 import React from 'react';
 
 import Card from 'components/Card';
+import Link from 'components/Link';
 import Text from 'components/Text';
+
+import { urlFormat } from 'helpers/url';
 
 import clerkshipImg from 'data/img/clerkship.gif'
 import stepImg from 'data/img/step-1.gif'
@@ -11,42 +14,26 @@ import anatomyImg from 'data/img/anatomy.gif'
 
 import styles from './Projects.module.scss';
 
+const projects = [
+  { name: 'Clerkship', img: clerkshipImg },
+  { name: 'Step 1', img: stepImg },
+  { name: 'MS2', img: ms2Img },
+  { name: 'MS1', img: ms1Img },
+  { name: 'Anatomy', img: anatomyImg },
+];
+
 export const Projects: React.FC = () => (
   <div className={styles['projects-container']}>
-    <Card padding="none">
-      <div className={styles['project-card']}>
-        <img src={clerkshipImg} alt="Clerkship" />
-        <Text size="h4" spacing="none">Clerkship</Text>
-      </div>
-    </Card>
-
-    <Card padding="none">
-      <div className={styles['project-card']}>
-        <img src={stepImg} alt="Step 1" />
-        <Text size="h4" spacing="none">Step 1</Text>
-      </div>
-    </Card>
-
-    <Card padding="none">
-      <div className={styles['project-card']}>
-        <img src={ms2Img} alt="MS2" />
-        <Text size="h4" spacing="none">MS2</Text>
-      </div>
-    </Card>
-
-    <Card padding="none">
-      <div className={styles['project-card']}>
-        <img src={ms1Img} alt="MS1" />
-        <Text size="h4" spacing="none">MS1</Text>
-      </div>
-    </Card>
-
-    <Card padding="none">
-      <div className={styles['project-card']}>
-        <img src={anatomyImg} alt="Anatomy" />
-        <Text size="h4" spacing="none">Anatomy</Text>
-      </div>
-    </Card>
+    {projects.map((p) => (
+      <Link path={`/projects/${urlFormat(p.name)}`} key={p.name}>
+        <Card padding="none">
+          <div className={styles['project-card']}>
+            <img src={p.img} alt={p.name} />
+            <Text size="h4" spacing="none">{p.name}</Text>
+          </div>
+        </Card>
+      </Link>
+    ))}
   </div>
 );
 

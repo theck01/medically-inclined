@@ -4,7 +4,7 @@ import classnames from 'classnames';
 
 import styles from './Link.module.scss';
 
-export type LinkVariant = 'inline' | 'button' | 'minimal-button';
+export type LinkVariant = 'inline' | 'minimal-inline' | 'button' | 'minimal-button';
 
 export interface Props {
   readonly path: string;

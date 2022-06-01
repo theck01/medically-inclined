@@ -4,56 +4,110 @@
 .base-text-style {
   max-width: 45em;
   margin: 0;
+
+  & > :global(.material-icons) {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 .size-h1 {
   font-size: $base-size * 3;
   font-weight: 700;
   line-height: $base-size * 6;
+
+  & > :global(.material-icons) {
+    width: $base-size * 6;
+    height: $base-size * 6;
+  }
 }
 
 .size-h2 {
   font-size: $base-size * 2.5;
   font-weight: 700;
   line-height: $base-size * 5;
+
+  & > :global(.material-icons) {
+    width: $base-size * 5;
+    height: $base-size * 5;
+  }
 }
 
 .size-h3 {
   font-size: $base-size * 2;
   font-weight: 600;
   line-height: $base-size * 4;
+
+  & > :global(.material-icons) {
+    width: $base-size * 4;
+    height: $base-size * 4;
+  }
 }
 
 .size-h4 {
   font-size: $base-size * 1.75;
   font-weight: 600;
   line-height: $base-size * 3.5;
+
+  & > :global(.material-icons) {
+    width: $base-size * 3.5;
+    height: $base-size * 3.5;
+  }
 }
 
 .size-h5 {
   font-size: $base-size * 1.5;
   font-weight: 600;
   line-height: $base-size * 3;
+  letter-spacing: $base-size / 8;
+
+  & > :global(.material-icons) {
+    width: $base-size * 3;
+    height: $base-size * 3;
+  }
 }
 
 .size-h6 {
   font-size: $base-size * 1.25;
+  font-weight: 600;
   line-height: $base-size * 2.5;
+  letter-spacing: $base-size / 8;
+
+  & > :global(.material-icons) {
+    width: $base-size * 2.5;
+    height: $base-size * 2.5;
+  }
 }
 
 .size-lg {
   font-size: $base-size * 1.25;
   line-height: $base-size * 2.5;
+
+  & > :global(.material-icons) {
+    width: $base-size * 2.5;
+    height: $base-size * 2.5;
+  }
 }
 
 .size-md {
   font-size: $base-size;
   line-height: $base-size * 2;
+
+  & > :global(.material-icons) {
+    width: $base-size * 2;
+    height: $base-size * 2;
+  }
 }
 
 .size-sm {
   font-size: $base-size * 0.75;
   line-height: $base-size * 1.5;
+
+  & > :global(.material-icons) {
+    width: $base-size * 1.5;
+    height: $base-size * 1.5;
+  }
 }
 
 .align-start {
