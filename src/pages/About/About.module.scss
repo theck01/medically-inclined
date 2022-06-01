@@ -4,11 +4,17 @@
 .about-container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   
-  & > :first-child {
+  & > :last-child {
     width: $base-size * 20;
-    margin-right: $base-size * 2;
+    margin-left: $base-size * 2;
     box-shadow: shadow(1);
     border-radius: $base-size / 2;
   }
+
+  & > :first-child {
+    width: 30em;
+  }
 }
+

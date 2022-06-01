@@ -1,0 +1,29 @@
+
+@import "common/styles.module.scss";
+
+$max-cards-wide: 3;
+$project-card-size: 320px;
+$project-card-gaps: $base-size * 4;
+
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, $project-card-size);
+  grid-gap: $project-card-gaps;
+  width: 100%;
+  max-width: $project-card-size * $max-cards-wide + $project-card-gaps * ($max-cards-wide - 1);
+}
+
+.project-card {
+  position: relative;
+
+  & > img {
+    width: $project-card-size;
+
+  }
+
+  & > :last-child {
+    position: absolute;
+    left: $base-size * 2;
+    bottom: $base-size * 2;
+  }
+}

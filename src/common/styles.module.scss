@@ -1,7 +1,9 @@
 
 $base-size: 16px;
 
-// Colors: blue, text
+$desktop-screen-size: 1024px;
+
+// Colors: blue, text, white (shade ignored)
 // Shades: lightest, lighter, light, mid, dark, darker, darkest, default
 @function color($name, $shade: 'default') {
   @if $name == 'blue' {
@@ -26,15 +28,28 @@ $base-size: 16px;
       @return #101010;
     }
   }
+  @else if $name == 'white' {
+    @return #FFFFFF;
+  }
   @return red;
 }
 
 // Height: 0 - 3;
 @function shadow($height) {
-  @if $height = 1 {
+  @if $height == 0 {
+    @return 
+      0 4px 4px 0 rgba(color(text), 0.25);
+  }
+  @if $height == 1 {
     @return 
       0 6px 8px 0 rgba(color(text), 0.25),
-      0 4px 4px 0 rgba(color(text), 0.25);
+      0 4px 4px 0 rgba(color(text), 0.15);
+  }
+  @if $height == 2 {
+    @return 
+      0 9px 16px 0 rgba(color(text), 0.25),
+      0 6px 8px 0 rgba(color(text), 0.15),
+      0 4px 4px 0 rgba(color(text), 0.05);
   }
   @return none;
 }

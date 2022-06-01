@@ -7,7 +7,6 @@ import styles from './About.module.scss';
 
 export const About: React.FC = () => (
   <div className={styles['about-container']}>
-    <img src={aboutGif} alt="Medical student waving hello" />
     <div>
       <Text>
         Hi! My name is Caroline. I am a third year medical student, a wife, a
@@ -23,6 +22,7 @@ export const About: React.FC = () => (
         updates on recent illustration posts and edits!
       </Text>
     </div>
+    <img src={aboutGif} alt="Medical student waving hello" />
   </div>
 );
 

@@ -41,15 +41,15 @@ function defaultSpacingForSize(size: TextSize): TextSpacing {
   switch(size) {
     case 'h1': 
     case 'h2': {
-      return '3x';
+      return '6x';
     }
     case 'h3':
     case 'h4':
     case 'h5': {
-      return '2x';
+      return '4x';
     }
     default: {
-      return '1x';
+      return '2x';
     }
   }
 }

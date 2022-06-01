@@ -17,18 +17,20 @@ export const StudyTables: React.FC = () => (
       red. Information highlighted in blue is particularly pertinent for boards.
     </Text>
     <Text>
-      Similar to my illustrations, these are free to download for your own study. However, if you would like to show your appreciation, please donate to Heart of Dinner, a non-profit that I truly believe in.
+      Similar to my illustrations, these are free to download for your own
+      study. However, if you would like to show your appreciation, please donate
+      to Heart of Dinner, a non-profit that I truly believe in.
     </Text>
     <Text>
       <i>"Founded at the onset of COVID-19, Heart of Dinner works to fight food insecurity and isolation experienced by Asian American seniors -- two long-standing community issues heightened by the pandemic. They now serve 1,500+ elders in Lower Manhattan, Brooklyn and Queens, delivering weekly hot lunches, fresh produce and bulk ingredients while supporting local small businesses during their COVID-related recovery process."</i>
     </Text>
     <div className={styles['donate-button-container']}>
       <Link path="https://www.heartofdinner.org/donate" variant="button" external >
-        Donate Now
+        Donate Now &gt;
       </Link>
     </div>
-    <Text spacing="4x">
-      -- Thank you for your support!
+    <Text spacing="6x">
+      -- Thank you for your support! 
     </Text>
 
     <div className={styles['pdf-container']}>
