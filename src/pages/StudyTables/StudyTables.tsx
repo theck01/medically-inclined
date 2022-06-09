@@ -2,6 +2,7 @@ import React from 'react';
 
 import Link from 'components/Link';
 import Text from 'components/Text';
+import { publicUrlForPDF } from 'helpers/url';
 
 import pdfImg from 'data/img/pdf.webp';
 
@@ -34,24 +35,30 @@ export const StudyTables: React.FC = () => (
     </Text>
 
     <div className={styles['pdf-container']}>
-      <div className={styles['pdf-file']}>
-        <img src={pdfImg} alt="Download PDF file" />
-        <Text size="lg">
-          Pharmacology
-        </Text>
-      </div>
-      <div className={styles['pdf-file']}>
-        <img src={pdfImg} alt="Download PDF file" />
-        <Text size="lg">
-          Pathology
-        </Text>
-      </div>
-      <div className={styles['pdf-file']}>
-        <img src={pdfImg} alt="Download PDF file" />
-        <Text size="lg">
-          Microbiology
-        </Text>
-      </div>
+      <Link path={publicUrlForPDF('pharm.pdf')} external>
+        <div className={styles['pdf-file']}>
+          <img src={pdfImg} alt="Download PDF file" />
+          <Text size="lg">
+            Pharmacology
+          </Text>
+        </div>
+      </Link>
+      <Link path={publicUrlForPDF('path.pdf')} external>
+        <div className={styles['pdf-file']}>
+          <img src={pdfImg} alt="Download PDF file" />
+          <Text size="lg">
+            Pathology
+          </Text>
+        </div>
+      </Link>
+      <Link path={publicUrlForPDF('micro.pdf')} external>
+        <div className={styles['pdf-file']}>
+          <img src={pdfImg} alt="Download PDF file" />
+          <Text size="lg">
+            Microbiology
+          </Text>
+        </div>
+      </Link>
     </div>
   </div>
 );

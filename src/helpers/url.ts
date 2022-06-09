@@ -6,3 +6,7 @@ export function urlFormat(str: string): string {
 export function publicUrlForImg(fileName: string): string {
   return `${process.env.PUBLIC_URL}/img/${fileName}`;
 }
+
+export function publicUrlForPDF(fileName: string): string {
+  return `${process.env.PUBLIC_URL}/pdf/${fileName}`;
+}
