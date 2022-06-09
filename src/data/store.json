@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "name": "Clerkship",
+      "coverImg": { 
+        "fixed": {
+          "fileName": "clerkship-cover.jpg",
+          "altText": "EKG wave"
+        },
+        "gif": {
+          "fileName": "clerkship.gif",
+          "altText": "Looping EKG wave"
+        }
+      },
+      "children": []
+    },
+    {
+      "name": "Step 1",
+      "coverImg": { 
+        "fixed": {
+          "fileName": "step-1-cover.jpg",
+          "altText": "Stethoscope"
+        },
+        "gif": {
+          "fileName": "step-1.gif",
+          "altText": "Wiggling Stethoscope"
+        }
+      },
+      "children": []
+    },
+    {
+      "name": "MS2",
+      "coverImg": { 
+        "fixed": {
+          "fileName": "ms2-cover.jpg",
+          "altText": "Second year medical student"
+        },
+        "gif": {
+          "fileName": "ms2.gif",
+          "altText": "Second year medical student waving"
+        }
+      },
+      "children": []
+    },
+    {
+      "name": "MS1",
+      "coverImg": { 
+        "fixed": {
+          "fileName": "ms1-cover.jpg",
+          "altText": "First year medical student"
+        },
+        "gif": {
+          "fileName": "ms1.gif",
+          "altText": "First year medical student waving"
+        }
+      },
+      "children": []
+    },
+    {
+      "name": "Anatomy",
+      "coverImg": { 
+        "fixed": {
+          "fileName": "anatomy-cover.jpg",
+          "altText": "Surgeons hands with a scalpel"
+        },
+        "gif": {
+          "fileName": "anatomy.gif",
+          "altText": "Surgeons hands cutting motion with a scalpel"
+        }
+      },
+      "children": []
+    }
+  ],
+  "illustrations": {
+  }
+}
