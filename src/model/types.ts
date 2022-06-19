@@ -1,10 +1,11 @@
 
 export interface Store {
-  readonly projects: Project<ImgId>[];
-  readonly illustrations: { [id: ImgId]: Img };
+  readonly projects: Project<Id>[];
+  readonly illustrations: { [id: Id]: Img };
 }
 
 export interface Project<T> {
+  readonly id: Id;
   readonly name: string;
   readonly coverImg: { 
     fixed: { fileName: string, altText: string },
@@ -14,10 +15,10 @@ export interface Project<T> {
 }
 
 export interface Img {
-  readonly id: ImgId;
+  readonly id: Id;
   readonly name: string;
   readonly altText: string;
-  readonly fileName: string;
+  readonly fileName: { small: string, full: string };
 }
 
-export type ImgId = string;
+export type Id = number;
