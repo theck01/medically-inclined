@@ -5,9 +5,9 @@ import Link from 'components/Link';
 import Text from 'components/Text';
 import { useProjectByUrl } from 'hooks/byUrl';
 
-import styles from './ProjectIllustrations.module.scss';
+import styles from './IllustrationGrid.module.scss';
 
-export const ProjectIllustrations: React.FC = () => {
+export const IllustrationGrid: React.FC = () => {
   const project = useProjectByUrl();
 
   return (
@@ -40,4 +40,4 @@ export const ProjectIllustrations: React.FC = () => {
   );
 };
 
-export default ProjectIllustrations;
+export default IllustrationGrid;

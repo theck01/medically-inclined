@@ -7,13 +7,13 @@ import Text from 'components/Text';
 import { publicUrlForImg, urlFormat } from 'helpers/url';
 import { Project, Img } from 'model/types';
 
-import styles from './Projects.module.scss';
+import styles from './ProjectGrid.module.scss';
 
 export interface Props {
   readonly projects: Project<Img>[];
 }
 
-export const Projects: React.FC<Props> = ({ projects }) => (
+export const ProjectGrid: React.FC<Props> = ({ projects }) => (
   <div className={styles['projects-container']}>
     {projects.map((p) => (
       <Link path={`/projects/${urlFormat(p.name)}`} key={p.name}>
@@ -41,4 +41,4 @@ export const Projects: React.FC<Props> = ({ projects }) => (
   </div>
 );
 
-export default Projects;
+export default ProjectGrid;
