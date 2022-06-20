@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Navigate, Routes, Route } from 'react-router-dom';
 
+import { projects } from 'model/store';
 import PageLayout from 'layout/PageLayout';
 import About from 'pages/About';
 import Projects from 'pages/Projects';
@@ -14,8 +15,8 @@ function App() {
         <Routes>
           <Route path="/about" element={<About />} />
           <Route path="/study-tables" element={<StudyTables />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/projects/:name" element={<ProjectIllustrations />} />
+          <Route path="/projects" element={<Projects projects={projects} />} />
+          <Route path="/projects/:project" element={<ProjectIllustrations />} />
           <Route path="/" element={<Navigate to="/projects" replace />} />
         </Routes>
       </PageLayout>

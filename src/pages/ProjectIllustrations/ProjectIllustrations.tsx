@@ -1,14 +1,14 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
 
 import Card from 'components/Card';
 import Link from 'components/Link';
 import Text from 'components/Text';
+import { useProjectByUrl } from 'hooks/byUrl';
 
 import styles from './ProjectIllustrations.module.scss';
 
 export const ProjectIllustrations: React.FC = () => {
-  const { name } = useParams();
+  const project = useProjectByUrl();
 
   return (
     <div>
@@ -21,19 +21,19 @@ export const ProjectIllustrations: React.FC = () => {
       </div>
       <div className={styles['illustrations-container']}>
         <Card>
-          <Text spacing="none">A {name} illustrations</Text>
+          <Text spacing="none">A {project?.name ?? 'unknown'} illustrations</Text>
         </Card>
         <Card>
-          <Text spacing="none">Another {name} illustrations</Text>
+          <Text spacing="none">Another {project?.name ?? 'unknown'} illustrations</Text>
         </Card>
         <Card>
-          <Text spacing="none">Yet another {name} illustrations</Text>
+          <Text spacing="none">Yet another {project?.name ?? 'unknown'} illustrations</Text>
         </Card>
         <Card>
-          <Text spacing="none">Even more {name} illustrations</Text>
+          <Text spacing="none">Even more {project?.name ?? 'unknown'} illustrations</Text>
         </Card>
         <Card>
-          <Text spacing="none">Even more {name} illustrations</Text>
+          <Text spacing="none">Even more {project?.name ?? 'unknown'} illustrations</Text>
         </Card>
       </div>
     </div>

@@ -9,7 +9,7 @@ export interface Project<T> {
   readonly name: string;
   readonly coverImg: { 
     fixed: { fileName: string, altText: string },
-    gif: { fileName: string, altText: string }
+    gif?: { fileName: string, altText: string }
   };
   readonly children: Project<T>[] | Array<T>;
 }

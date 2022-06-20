@@ -26,7 +26,7 @@ $project-card-gaps: $base-size * 4;
     bottom: $base-size * 1.5;
   }
 
-  &:hover > .cover-image {
+  &:hover > .animated-image + .cover-image {
     display: none;
   }
 
