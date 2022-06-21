@@ -70,9 +70,11 @@ projectParents.forEach((parentId) => {
 const dataPath = path.resolve(__dirname, '../src/data');
 const storePath = path.join(dataPath, 'store.json');
 const imgExt = path.extname(filePath);
-const newBaseName = name.toLowerCase().replace(/\s+/g, '-');
-const newImageFile = path.join(dataPath, 'img',  `${newBaseName}${imgExt}`);
-const newThumbImageFile = path.join(dataPath, 'img', `${newBaseName}.thumb${imgExt}`);
+
+const publicPath = path.resolve(__dirname, '../public');
+const newBaseName = name.toLowerCase().replace(/[^-\w\s]/g, '').replace(/\s+/g, '-');
+const newImageFile = path.join(publicPath, 'img', `${newBaseName}${imgExt}`);
+const newThumbImageFile = path.join(publicPath, 'img', `${newBaseName}.thumb${imgExt}`);
 
 if (fs.existsSync(newImageFile) || fs.existsSync(newThumbImageFile)) {
   console.error(`Added image already exists:\n${newImageFile}\n${newThumbImageFile}`);
@@ -103,7 +105,7 @@ async function runCommands() {
   }
 
   console.log('Copying image into data directory...');
-  await exec(`cp ${filePath} ${newImageFile}`);
+  await exec(`cp "${filePath}" "${newImageFile}"`);
 
   console.log('Generating thumbnail image...');
   await exec(`convert ${newImageFile} -resize ${THUMBNAIL_DIMENSION_PX}x${THUMBNAIL_DIMENSION_PX} ${newThumbImageFile}`);

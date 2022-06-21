@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Clerkship",
-      "coverImg": { 
+      "coverImg": {
         "fixed": {
           "fileName": "clerkship-cover.jpg",
           "altText": "EKG wave"
@@ -14,12 +14,26 @@
         }
       },
       "childType": "illustration",
-      "children": []
+      "children": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
     },
     {
       "id": 1,
       "name": "Step 1",
-      "coverImg": { 
+      "coverImg": {
         "fixed": {
           "fileName": "step-1-cover.jpg",
           "altText": "Stethoscope"
@@ -132,7 +146,7 @@
     {
       "id": 2,
       "name": "MS2",
-      "coverImg": { 
+      "coverImg": {
         "fixed": {
           "fileName": "ms2-cover.jpg",
           "altText": "Second year medical student"
@@ -233,7 +247,7 @@
     {
       "id": 3,
       "name": "MS1",
-      "coverImg": { 
+      "coverImg": {
         "fixed": {
           "fileName": "ms1-cover.jpg",
           "altText": "First year medical student"
@@ -382,7 +396,7 @@
     {
       "id": 4,
       "name": "Anatomy",
-      "coverImg": { 
+      "coverImg": {
         "fixed": {
           "fileName": "anatomy-cover.jpg",
           "altText": "Surgeons hands with a scalpel"
@@ -397,5 +411,122 @@
     }
   ],
   "illustrations": {
+    "31": {
+      "id": 31,
+      "name": "NSTEMI",
+      "altText": "High Risk Features:\n\n« Symptoms refractory to medications (e.g. prolonged chest\npain, sustained ventricular tachycardia)\n\n+ Hemodynamic instability\n\n« Elevated cardiac biomarkers\n\n« Persistent ST depression > 0.5mm or new T wave inversion\n« Ejection fraction <40%\n\n« Prior angioplasty or CABG\n\n+h/o Diabetes or Chronic Kidney disease\n\n\nTreatment:\n« High risk features > IMMEDIATE coronary catheterization\n\n+ MONA BASCH\n\n« Supplemental oxygen as needed to maintain 02 saturation > 90%\n\n« Aspirin 325 mg chewed\n\n« Nitroglycerin 0.4 mgx 3\n\n+Morphine 2-4 mg\n\n+ B blocker (Metoprolol tartrate 25 mg)\n\n« Statin (Atorvastatin 80 mg)\n\n« Antiplatelet therapy (in addition to aspirin) - Ticagrelor, Prasugrel, Clopidogrel\n« Anticoagulant therapy - Heparin, Bivalirudin, Enoxaparin, Fondaparinux\n\n« Thrombolytic therapy is NOT effective in unstable angina or NSTEMI**\n\n\nRisk Stratification:\n\n« TIMI » all cause mortality\n\n«Age>65\n\n« 3+ risk factors for CAD\n\n« Coronary artery stenosis > 50%\n\n« ST depression > 0.5mm\n\n« Severe angina (2+ episodes in 24 hrs)\n« ASA use within 1 week\n\n« Elevated cardiac biomarkers\n\n« GRACE - admission - 6 month mortality\n«Age\n\n*HR\n« Systolic BP ‘\n« Creatinine\n\n« Cardiac arrest at admission\n« ST segment deviation\n\n« Elevated cardiac biomarkers\n« Killip class of heart failure\n",
+      "fileName": {
+        "full": "nstemi.jpg",
+        "small": "nstemi.thumb.jpg"
+      }
+    },
+    "32": {
+      "id": 32,
+      "name": "Gallbladder Pathology",
+      "altText": "« Asymptomatic Cholelithiasis\n«No action\n\n« Symptomatic Cholelithiasis\n\n« Intermittent gallstone in cystic duct\n« Female, Fat, Fertile, Forty\n\n« Elective lap cholecystectomy\n\n\n« Cholangitis\n\n« Untreated duct obstruction\n\n« Charcot’s triad & Reynold’s Pentax\n\n« ERCP - Intra- and extra-hepatic dilation\n«ABX (Cipro + Flagyl)\n\n« Gallstone Ileus\n\n« Distended abdomen, hyperactive bowel sounds, pneumobilia\n«ABD X-ray, CT abdomen w/ PO contrast\n« Surgery & cholecystectomy ‘\n\n«Acalculous Cholecystitis\n\n« Trauma, TPN/fasting, critically ill\n\n« Fever, leukocytosis, 1+ LFTs, RUQ pain, 1 Alkaline phosphatase\n+ABD U/S\n\n« ABX, Cholecystostomy & cholecystectomy\n\n\nCOMPLICATED GALLSTONE:\n\n« Acute Cholecystitis\n\n« Persistent gallstone in cystic duct\n\n« Murphy’s sign, Leukocytosis, 4~ LFTs\n\n«RUQ U/S > Pericholecystic fluid & gallbladder wall thickening\n« IV Abs, urgent lap cholecystectomy\n\n« Choledocholithiasis\n« Gallstone in common bile duct\n« Jaundice, 1 conjugated bilirubin, dark urine, pale stools\n«RUQ U/S, ERCP, Intraoperative cholangiogram\n« Duct dilation > 6mm\n\n\n« Gallstone Pancreatitis\n\n« Gallstone blocks common & pancreatic duct\n\n«ALT > 150\n\n«CT abdomen w/ IV contrast\n\n« Pain management, IV fluids, urgent lap cholecystectomy\n",
+      "fileName": {
+        "full": "gallbladder-pathology.jpg",
+        "small": "gallbladder-pathology.thumb.jpg"
+      }
+    },
+    "33": {
+      "id": 33,
+      "name": "OB Timeline",
+      "altText": "Initial Prenatal Visit:\n« Type and Screen\n« H&H (hemoglobin/hematocrit), MCV, Ferritin\n\n« Thyroid\n\n« Diabetes screen if high risk\n\n« HIV, VDRL/RPR, HBsAg, Gonorrhea, Chlamydia\n\n« Rubella & Varicella immunity \\\n« Urinalysis for protein, Urine culture\n\n+ 12 wks > Initiate baby aspirin for preeclampsia prophylaxis\n\n\n15-24 wks:\n\n« Maternal serum a fetal protein - neural tube defects\n\n« Genetic testing (e.g. Cystic Fibrosis, Spinal Muscular Atrophy)\n«Trisomy 13, 18,21\n\n« Anatomy ultrasound\n« Transvaginal ultrasound - cervical length\n\n\n\n24-28 wks:\n\n« H&H, MCV, Ferritin > supplement iron if anemic or ferritin <30 mg/L\n« Administer Rhogam if mom is Rh-\n\n+ Diabetes screen\n\n28-36 wks:\n\n« Repeat STD testing in high risk (HIV, Syphilis, Hepatitis B, Gonorrhea, Chlamydia)\n« Fetal growth restriction ultrasound\n\n« TDAP vaccination\n\n« Stop measuring fundal height at 34-35 wks\n\n36-41 wks:\n\n« Group B Strep rectovaginal culture Q\n\nPostpartum:\n« Diabetes testing at 6-12 wks if gestational diabetic\n",
+      "fileName": {
+        "full": "ob-timeline.jpg",
+        "small": "ob-timeline.thumb.jpg"
+      }
+    },
+    "34": {
+      "id": 34,
+      "name": "Rupture of Membranes & Labor",
+      "altText": "Preterm Prelabor rupture of membranes (PPROM)\n+ Membrane rupture < 37 wks prior to labor\n\n« Due to genitourinary infection m\n\n\n«34-37wks\n+ GBS prophylaxis (Penicillin G)\n« Corticosteroids O\n\n« Delivery %\n\n« <34 wks + infection or fetal/maternal compromise\n« Antibiotics (Ampicillin & Gentamicin)\n« Corticosteroids\n« Magnesium if < 32 wks for neuro-protection\n\n« Delivery %\n\n« <34 wks + reassuring\n« Expectant management and surveillance\n« Latency antibiotics (Ampicillin & Azithromycin)\n« Corticosteroids\n\n\n\nPreterm Labor\n\n« Regular contractions + cervical change < 37 wks\n« Intact membranes\n\n\n« Maternal/fetal instability or Intrauterine infection > DELIVER\n34 - 37 wks (late preterm) :\n- GBS prophylaxis (PenicillinG) (L)\n\n« Corticosteroids\n\n«32 - 34 wks (moderate preterm)\n« GBS prophylaxis (Penicillin G) @\n« Corticosteroids\n« Tocolytics (Nifedipine)\n\n« <32 wks (very preterm)\n+ GBS prophylaxis (Penicillin G) O\n« Corticosteroids\n« Tocolytics (Indomethacin: C/1 > 32 wks d/t closure of PDA)\n» Magnesium sulfate\n",
+      "fileName": {
+        "full": "rupture-of-membranes-labor.jpg",
+        "small": "rupture-of-membranes-labor.thumb.jpg"
+      }
+    },
+    "35": {
+      "id": 35,
+      "name": "NIH Stroke Scale",
+      "altText": "« Level of consciousness W’\n\n« 0=alert; 1 = minor stimulation; 2 = repeated stimulation or pain; 3 = unresponsive\n« Ask age and month\n\n« 0=both right; 1 =one right; 2 = both wrong\n«Blink eyes and squeeze hands - 0-2\n« Horizontal extraocular movements\n\n«0=no nystagmus; 1 = partial nystagmus; 2 = forced nystagmus\n«Visual fields\n«0=no vision loss; 1 = partial hemianopia; 2 = complete hemianopia; 3 = b/l blind or hemianopia\n« Facial palsy » smile\n«0=normal; 1= minor; 2 = lower face; 3 = unilateral or bilateral upper and lower face\n« Upper extremity motor drift (test both sides)\n« 0=no drift; 1 = drift; 2 = hits bed or against gravity; 3 = no effort against gravity; 4 = no movement\n« Lower extremity motor drift (test both sides)\n« 0= no drift; 1 = drift; 2 = hits bed or against gravity; 3 = no effort against gravity; 4 = no movement\n\n« Limb ataxia - finger-nose and heel-shin\n«0=no ataxia; 1=1limb;2=2limbs\n« Sensation\n«0=normal; 1 = mild-moderate loss; 2 = complete loss or no response\n\n« Extinction - b/l simultaneous stimulation of visual/ tactile/ auditory/ spatial/ personal\n«0=normal; 1 =inattention to 1 modality; 2 = profound hemi-inattention or 1+ modality\n\n« Language > name items and describe actions\n\n« 0=normal; 1= mild-moderate; 2 = severe; 3= mute/global aphasia\n« Dysarthria - “no if’s and’s or but’s”\n\n«0=normal; 1 =slurring; 2 = unintelligible or mute\n\n*if unable to test > score as 0\n* Total scores < 4 - favorable outcomes\n\n\nTRANSIENT ISCHEMIA ATTACK (TIA) > ABCD2 SCORE:\n«Age>60\n\n«BP>140/90\n\n« Clinical features of TIA > unilateral weakness +2; speech disturbance +1\n« Duration of symptoms - >60 min +2; 10-59 min +1; <10 min 0\n\n« History of diabetes\n\n- 0-3 = low risk (1% 2 day stroke risk, 1.2% 7 day, 3.1% 90 day)\n- 4-5=moderate risk (4.1%, 5.9%, 9.8%)\n> 6-7 = high risk (8.1%, 11.7%, 17.8%)\n",
+      "fileName": {
+        "full": "nih-stroke-scale.jpg",
+        "small": "nih-stroke-scale.thumb.jpg"
+      }
+    },
+    "36": {
+      "id": 36,
+      "name": "Arterial Blood Gas",
+      "altText": "Materials:\n\n« Pre-heparinised arterial blood gas syringe and cap\n« Arterial blood gas needle (23 gauge)\n\n« Alcohol wipe\n\n« Gauze and tape\n\nAbsolute Contraindications:\n\n« Peripheral vascular disease in limb\n\n« Cellulitis surrounding site or arteriovenous fistula\n« Abnormal Allen’s test\n\nRelative Contraindications:\n« Anti-coagulation therapy, liver disease, low platelets\n\nProcedure:\n1. Perform a modified Allen’s test. Check for contraindications.\n\n2. Fully extend and support arm or wrist w/ pillow or blanket\n\n3. Palpate brachial artery or radial artery. Map out course of artery and identify where artery is most\npulsatile.\n\n4. Clean with alcohol wipe. Glove up. Check ABG needle is screwed. Flush through heparin of ABG syringe.\n5. Palpate artery w/ non-dominant hand 1 cm proximal to planned puncture site.\n\n6. Hold ABG syringe like a pencil. Insert needle at 45° and slowly advance until flashback. If syringe does not\nfill, gently pull back as you may have passed through the back wall. If needed, re-adjust. Do not re-stick.\n\n7. Apply pressure to puncture site, gauze and tape.\n\n8. Remove ABG needle and place cap onto ABG syringe. Invert gently and roll syringe.\n",
+      "fileName": {
+        "full": "arterial-blood-gas.jpg",
+        "small": "arterial-blood-gas.thumb.jpg"
+      }
+    },
+    "37": {
+      "id": 37,
+      "name": "Intubation",
+      "altText": "Assess LEMON:\n\n«Look\n\n« Evaluate: 332\n\n« Mallampati score: Class | - IV\n\n« Obstruction\n« Neck Mobility @\n\n\nTools:\n\n« Suction\n\n« Stylet w/ 5 ml syringe to inflate cuff\n\n+ ET tube (Adults usually 7.5 ETT; Peds - [age/4] + 4)\n« Macintosh or Miller blade and handle\n\n« Back up: surgical cric kit, glide scope, LMA, bougie\n« Bag valve mask\n\n\nProcedure:\n\n1) Preoxygenate and “Sniffing position”.\n\n\n**Ramped position in obese patients can\nhelp > use pillows to elevate head for ear\nto equal sternal notch height\n\n\n2) Insert laryngoscope sweeping tongue to the left. Lift forward/upward to V|sual|ze an atomic\nlandmarks: epiglottis and vocal cords.\n\n3) Insert ET tube through cords while maintaining visualization.\n\n4) Inflate cuff, remove stylet and attach to ventilation. Secure tube.\n\n5) Confirm correct placement with bilateral breath sounds over the lungs and lack of breath\nsounds over epigastrium, end-tidal CO2, and chest x-ray. mé%\n\n\nRapid Sequence Intubation:\n« Etomidate: 0.3 mg/kg\n\n« Ketamine: 1.5 mg/kg\n\n« Propofol: 1.5 mg/kg\n\nParalytics:\n\n« Succinylcholine: 1.5 mg/kg\n\n« Rocuronium (Zemuron): 1.2 mg/kg\n«Vecuronium: 0.15 mg/kg\n\nPost Intubation Sedation:\n\n« Propofol: 0.5 mg/kg\n\n« Midazolam (Versed): 0.05 mg/kg\n« Fentanyl: 1 mcg/kg\n",
+      "fileName": {
+        "full": "intubation.jpg",
+        "small": "intubation.thumb.jpg"
+      }
+    },
+    "38": {
+      "id": 38,
+      "name": "IV Fluids",
+      "altText": "DAILY FLUID REQUIREMENTS = 2L / day\n\n\nFLUID BOLUS\n\n«Isotonic crystalloids > Normal saline or Lactated Ringers\n«Adults > 1L, 500mL, 250mL (condition dependent)\n\n« Pediatrics » 20 cc/kg\n\nMAINTENANCE FLUIDS\n+Additives (dextrose, potassium)\n« 4 fluids in fever, Tachypnea\n\n« ¥ fluids in CHF, renal failure\n\n“ amd o o\n\n\n4-2-1 RULE (HOURLY RATE) FOR MAINTENANCE\n+4 ml/kg/hr for 1st 10kg\n\n«2ml/kg/hr for 2nd 10 kg\n\n+ 1 ml/kg/hr for every over 20 kg\n\nShortcut:\n\n60 cc for 1st 20 kg\n+ (Weight - 20kg)\n= Maintenance rate\n\n\nCRYSTALLOID - preferred when volume loss is not due to bleeding\n«Isotonic = Normal saline (0.9%), Lactated Ringers\n\n+ Hypotonic = 1/2 Normal saline (0.45%), 1/4 Normal saline, D5W (5% dextrose)\n« Hypertonic = 3% Normal saline\n\nCOLLOID - preferred when volume loss is due to bleeding\n«Whole blood —\n\n+ PRBCs (Packed RBCs) a\n\n« FFP (Fresh frozen plasma) ‘\n\n« Albumin\n« Hetastarch/dextran\n\n",
+      "fileName": {
+        "full": "iv-fluids.jpg",
+        "small": "iv-fluids.thumb.jpg"
+      }
+    },
+    "39": {
+      "id": 39,
+      "name": "X-Ray",
+      "altText": "C-SPINE\n\n+90% of info obtained from lateral view and 10% of info obtained from odontoid view\n\n+Must be able to see T1 to be considered a sufficient X-ray - “swimmer’s view” (arm raised)\n« C2isthe largest\n\nA - Alignment\n« Anterior longitudinal line, Posterior longitudinal line, Spinolaminal line, Spinous process line\nB - Bones\n« Vertebrae and parallel facet joints\n« Distance between C1 and C2 on odontoid view is equal\nC- Cartilage\n« Symmetry of intervertebral discs\nS Soft tissue\n«“7,2,22” > less than 7Tmm of soft tissue anterior to C2 and les than 22m anterior to C7\n\n\nCHEST\nA~ Airway\n« Is the trachea midline?\nB - Bones\n+ Are the clavicles in line? Is there any rotation?\n« Are there rib fractures?\nC - Cardiac\n« Heart is no bigger than 50% of distance of chest cavity\nD - Diaphragm\n« Smooth diaphragm\n« Costophrenic angles are sharp (Blunted in pleural effusion)\nE-> Equipment\n« Central lines, Endotracheal tubes, Chest tubes, Pacemakers\nF > Lung Fields\n« Lung markings? Infiltrates? Consolidation?\nG > Great Vessels\n+ Mediastinal widening >8cm ‘%\n",
+      "fileName": {
+        "full": "x-ray.jpg",
+        "small": "x-ray.thumb.jpg"
+      }
+    },
+    "40": {
+      "id": 40,
+      "name": "Stridor",
+      "altText": "Inspiration stridor » Extra-thoracic (eg. Laryngomalacia, Laryngotracheobronchitis)\n» Most common cause of stridor = laryngomalacia\n« Laryngomalacia worsens w/ supine, better w/ prone\n\nExpiratory wheeze > Intra-thoracic (eg. Tracheomalacia)\n«Vascular ring worsens w/ prone, better w/ extension\n\nBiphasic stridor > Fixed airway obstruction (eg. Vascular ring)\n\n« Foreign body in extrathoracic space - inspiratory stridor\n\n« Foreign body in intrathoracic trachea -» wheeze loudest over\ncentral airway and throughout chest\n\n« Foreign body below carina > asymmetric findings of wheezing\nor ¥ air movement\n\nTreatment of common respiratory conditions:\n« Bronchiolitis (commonly RSV) > supportive care, oxygen\n« Laryngotracheobronchitis (Croup) > dexamethasone, racemic epinephrine\n—~\n« Respiratory Distress Syndrome - surfactant, palivizumab prophylaxis —~ N\n« Tracheitis > airway management 1 :\\/}(;\n\nJ\n« Epiglotittis > airway management o)\n",
+      "fileName": {
+        "full": "stridor.jpg",
+        "small": "stridor.thumb.jpg"
+      }
+    },
+    "41": {
+      "id": 41,
+      "name": "Nasogastric Tube",
+      "altText": "Materials:\n\n+NG tube\n\n« Lubricant\n\n« Emesis basin and chuck\n« Ice chips or water\n\n« Local anesthetic spray\n\n« Large Syringe (Catheter tip)\n« pH testing strips\n+Flush i\n\n« Tape\n\nProcedure:\n\n1. Position patient sitting upright with head in neutral position\nagainst bed. Lay chuck and emesis basin under patient’s\nmouth.\n\n2. Measure tube - tip of nose to ear lobe to epigastrium +5 cm.\nNote insertion length.\n\n3. Loosen tube and lube generously. Apply local anesthetic\nspray to oropharynx.\n\n4. Advance tube along nasal septum towards occiput. Coach\npatient to swallow w/ ice chips or water once gag reflex starts\nand tube is in oropharynx. Check that tube is not coiling in\noropharynx.\n\n5. Confirm placement by:\n« Inject 10mL of air and listen for “whoosh” at epigastrium\n« Aspirate gastric contents and test pH (should be <4)\n« Chest X-ray\n\n6. Tape NG tube to nose. Flush with 10mL of water and place\nstopper in NG tube port. Attach to low intermittent suction.\n",
+      "fileName": {
+        "full": "nasogastric-tube.jpg",
+        "small": "nasogastric-tube.thumb.jpg"
+      }
+    },
+    "42": {
+      "id": 42,
+      "name": "Acid - Base",
+      "altText": "1. Check pH > Acidosis/ Alkalosis\n2. Check pCO2 & HCO3- » Metabolic/ Respiratory\n\n3. Check compensation > Adequate/Inadequate\n\n\n+Metabolic Acidosis\n+ Metabolic Alkalosis\n\n+Respiratory Acidosis\n+Acute\n\n« Chronic\n\n+ Respiratory Alkalosis\n«Acute\n\n« Chronic\n\n\n4. If Metabolic acidosis > check anion gap\n\n\n5. If normal anion gap (< 12) > check Urine anion gap\n\n\n6. If high anion gap (> 12) > check delta/delta\n\n\nCauses of high anion gap:\n“MUDPILES”\n\n« Methanol\n\n«Uremia\n\n«DKA\n\n« Propylene glycol\n«Iron/Isoniazide\n\n« Lactic acidosis\n\n« Ethylene glycol\n\n« Salicylates\n\n\nCauses of normal anion gap:\n\n“HARDASS”\n\n« Hyperalimentation\n«Addison’s\n\n*RTA\n\n«Diarrhea\n\n« Acetazolamide\n\n« Spironolactone\n«Saline\n\n\nCauses of metabolic alkalosis:\n« Diuretics\n\n«Vomiting\n\n« Gl suction\n",
+      "fileName": {
+        "full": "acid---base.jpg",
+        "small": "acid---base.thumb.jpg"
+      }
+    },
+    "43": {
+      "id": 43,
+      "name": "EKG Interpretation",
+      "altText": "1. Heart Rate and Rhythm\nMethod 1: « Count large boxes between R waves\n+300-150-100-75-60-50-43-37-30\nMethod 2: « Count large boxes between R waves\n300/ # of large boxes\n\nRegular or Irregular Rhythm\n«Regular R-Rintervals\n«Normal can vary by < 1.5 small boxes (0.06 s)\n\n\nEctopic Pacemakers\n\n« SANode = 60- 100 bpm\n\n« Atrial Foci = 60-80 bpm\n\n« AV Junction Foci = 40-60 bpm\n« Bundle of His =40-60 bpm\n\n« Purkinje Fibers = 20-40 bpm\n\n\n2. Extent of Intervals\n+1smallbox=0.04s\n\n+1largebox=0.2s\n+PRinterval =0.12 - 0.2 s (3-5 small boxes)\n\n+ QRS <120 ms or 0.12 sec (3 small boxes)\n+QTinterval =<1/2 RR interval\n\n\n3. Axis\n« Positive deflection\n- moving towards lead\n« Negative deflection\n- moving away from lead\n\n\n4. QRS-ST\n«land AVL\n<11, 11, AVF\nV1, V2\n+V2,V3,V4\n+V4,V5,V6\nReciprocal Leads\n<11, 1, AVF > |, AVL, V1-V6\nRwave Progression\nEarly Transition: Most (+) QRS before V3\nLate Transition: Most (+) QRS after V4\n\n\nSmall “q” waves\n\n«Should not be seen in V1-V3\n«Normalin |, AVL, V4-V6\n\nLarge “Q” waves\n\n+>1 mm wide, >2 mm deep\n+>2% depth of QRS\n+InV1-V3\n\n\n5.Twave\n« Asymmetric T wave inversion/ Flattened = can be normal\n« Symmetric T wave inversion = suggests ischemia if in contiguous leads\n",
+      "fileName": {
+        "full": "ekg-interpretation.jpg",
+        "small": "ekg-interpretation.thumb.jpg"
+      }
+    }
   }
 }
