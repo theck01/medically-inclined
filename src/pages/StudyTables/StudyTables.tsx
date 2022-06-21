@@ -10,7 +10,7 @@ import styles from './StudyTables.module.scss';
 
 export const StudyTables: React.FC = () => (
   <div>
-    <Text size="h3">Study Tables</Text>
+    <Text align="center" size="h2">Study Tables</Text>
     <Text>
       The following pdfs are a compilation of tables I have made throughout the
       first two years of medical school and in preparation for boards. They are

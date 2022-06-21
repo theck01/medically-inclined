@@ -18,12 +18,19 @@ $project-card-gaps: $base-size * 4;
 
   & img {
     width: $project-card-size;
+    height: $project-card-size;
+    object-fit: cover;
   }
-
-  & > :last-child {
+  
+  & > .title {
     position: absolute;
-    left: $base-size * 2;
-    bottom: $base-size * 1.5;
+    left: 0;
+    bottom: 0;
+
+    background: rgba(255,255,255,0.7);
+    padding: $base-size * 0.5 $base-size;
+    padding-top: 0;
+    border-top-right-radius: $base-size;
   }
 
   &:hover > .animated-image + .cover-image {
