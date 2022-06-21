@@ -36,7 +36,7 @@
           "name": "Cardovascular",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-cardio.webp",
+              "fileName": "cardio.webp",
               "altText": "Heart anatomy"
             }
           },
@@ -48,7 +48,7 @@
           "name": "Musculoskeletal",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-muscle.webp",
+              "fileName": "muscle.webp",
               "altText": "Muscle fiber"
             }
           },
@@ -60,7 +60,7 @@
           "name": "Reproductive",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-repro.webp",
+              "fileName": "repro.webp",
               "altText": "Uterus anatomy"
             }
           },
@@ -72,7 +72,7 @@
           "name": "Pulmonary",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-pulmonary.webp",
+              "fileName": "pulmonary.webp",
               "altText": "Lung anatomy"
             }
           },
@@ -84,7 +84,7 @@
           "name": "Renal",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-renal.webp",
+              "fileName": "renal.webp",
               "altText": "Kidney"
             }
           },
@@ -96,7 +96,7 @@
           "name": "Endocrine",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-endocrine.webp",
+              "fileName": "endocrine.webp",
               "altText": "Human body with indecipherable anatomical labels"
             }
           },
@@ -108,7 +108,7 @@
           "name": "Gastrointestinal",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-gastro.webp",
+              "fileName": "gastro.webp",
               "altText": "Gastrointestinal anatomy"
             }
           },
@@ -120,7 +120,7 @@
           "name": "Immunology",
           "coverImg": {
             "fixed": {
-              "fileName": "step-1-immuno.webp",
+              "fileName": "immuno.webp",
               "altText": "Antibody"
             }
           },
@@ -143,7 +143,92 @@
         }
       },
       "childType": "project",
-      "children": []
+      "children": [
+        {
+          "id": 13,
+          "name": "Heart",
+          "coverImg": {
+            "fixed": {
+              "fileName": "cardio.webp",
+              "altText": "Heart anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 14,
+          "name": "Rheumatology",
+          "coverImg": {
+            "fixed": {
+              "fileName": "rheumatology.webp",
+              "altText": "Leg bones"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 15,
+          "name": "Repro",
+          "coverImg": {
+            "fixed": {
+              "fileName": "repro.webp",
+              "altText": "Uterus anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 16,
+          "name": "Neuro",
+          "coverImg": {
+            "fixed": {
+              "fileName": "neuro.webp",
+              "altText": "Brain cross section"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 17,
+          "name": "Renal",
+          "coverImg": {
+            "fixed": {
+              "fileName": "renal.webp",
+              "altText": "Kidney"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 18,
+          "name": "Cardiopulmonology",
+          "coverImg": {
+            "fixed": {
+              "fileName": "pulmonary.webp",
+              "altText": "Lung anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 19,
+          "name": "Behavioral  Science",
+          "coverImg": {
+            "fixed": {
+              "fileName": "behavioral-science.webp",
+              "altText": "Baby, child, and adolescent"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        }
+      ]
     },
     {
       "id": 3,
@@ -159,7 +244,140 @@
         }
       },
       "childType": "project",
-      "children": []
+      "children": [
+        {
+          "id": 20,
+          "name": "Repro",
+          "coverImg": {
+            "fixed": {
+              "fileName": "repro.webp",
+              "altText": "Uterus anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 21,
+          "name": "Endocrine",
+          "coverImg": {
+            "fixed": {
+              "fileName": "endocrine.webp",
+              "altText": "Human body with indecipherable anatomical labels"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 22,
+          "name": "Renal",
+          "coverImg": {
+            "fixed": {
+              "fileName": "renal.webp",
+              "altText": "Kidney"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 23,
+          "name": "GI",
+          "coverImg": {
+            "fixed": {
+              "fileName": "gastro.webp",
+              "altText": "Gastrointestinal organs"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 24,
+          "name": "Blood & Lymph",
+          "coverImg": {
+            "fixed": {
+              "fileName": "blood.webp",
+              "altText": "Blood droplets"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 25,
+          "name": "Neuro",
+          "coverImg": {
+            "fixed": {
+              "fileName": "neuro.webp",
+              "altText": "Brain cross section"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 26,
+          "name": "Respiratory",
+          "coverImg": {
+            "fixed": {
+              "fileName": "pulmonary.webp",
+              "altText": "Lung anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 27,
+          "name": "Cardiovascular",
+          "coverImg": {
+            "fixed": {
+              "fileName": "cardio.webp",
+              "altText": "Heart anatomy"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 28,
+          "name": "Skin & Immunology",
+          "coverImg": {
+            "fixed": {
+              "fileName": "immuno.webp",
+              "altText": "Antibody"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 29,
+          "name": "MSK",
+          "coverImg": {
+            "fixed": {
+              "fileName": "muscle.webp",
+              "altText": "Muscle fiber"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        },
+        {
+          "id": 30,
+          "name": "Foundations of Med",
+          "coverImg": {
+            "fixed": {
+              "fileName": "books.webp",
+              "altText": "Stack of books"
+            }
+          },
+          "childType": "illustration",
+          "children": []
+        }
+      ]
     },
     {
       "id": 4,
