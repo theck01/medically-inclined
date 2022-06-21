@@ -1,7 +1,6 @@
 import React from 'react';
 
 import Card from 'components/Card';
-import Link from 'components/Link';
 import Text from 'components/Text';
 import { useProjectByUrl } from 'hooks/byUrl';
 
@@ -12,13 +11,6 @@ export const IllustrationGrid: React.FC = () => {
 
   return (
     <div>
-      <div className={styles['go-back-container']}>
-        <Link path="/projects" variant="minimal-button" > 
-          <Text size="h5" spacing="none">
-            &lt; All projects
-          </Text>
-        </Link>
-      </div>
       <div className={styles['illustrations-container']}>
         <Card>
           <Text spacing="none">A {project?.name ?? 'unknown'} illustrations</Text>

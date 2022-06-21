@@ -13,6 +13,7 @@
           "altText": "Looping EKG wave"
         }
       },
+      "childType": "illustration",
       "children": []
     },
     {
@@ -28,6 +29,7 @@
           "altText": "Wiggling Stethoscope"
         }
       },
+      "childType": "project",
       "children": []
     },
     {
@@ -43,6 +45,7 @@
           "altText": "Second year medical student waving"
         }
       },
+      "childType": "project",
       "children": []
     },
     {
@@ -58,6 +61,7 @@
           "altText": "First year medical student waving"
         }
       },
+      "childType": "project",
       "children": []
     },
     {
@@ -73,6 +77,7 @@
           "altText": "Surgeons hands cutting motion with a scalpel"
         }
       },
+      "childType": "illustration",
       "children": []
     }
   ],

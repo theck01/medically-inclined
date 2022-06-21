@@ -4,7 +4,7 @@ import { urlFormat } from 'helpers/url';
 
 import { Store, Project, Img, Id } from './types';
 
-const store: Store = jsonStore;
+const store: Store = jsonStore as Store;
 
 export const projects: Project<Img>[] = store.projects.map((p) => populateImgs(p));
 
@@ -18,7 +18,7 @@ export function getProjectByUrl(
   if (subProjectUrlName && project) {
     project = (project.children as Project<any>[]).find(
       (p: any) => p.name && urlFormat(p.name) === subProjectUrlName
-    )
+    ) ?? project; // If the sub project does not match, return the parent anyway
   }
   return project;
 }

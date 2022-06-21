@@ -11,8 +11,10 @@ export interface Project<T> {
     fixed: { fileName: string, altText: string },
     gif?: { fileName: string, altText: string }
   };
+  readonly childType: ChildType;
   readonly children: Project<T>[] | Array<T>;
 }
+export type ChildType = 'project' | 'illustration';
 
 export interface Img {
   readonly id: Id;
