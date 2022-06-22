@@ -24,11 +24,13 @@ export const ProjectOrIllustrationGrid: React.FC = () => {
           </Text>
         </div>
       </div>
-      {project?.childType === 'project' ? (
-        <ProjectGrid projects={project.children as Project<Img>[]} />
-      ) : (
-        <IllustrationGrid />
-      )}
+      {project ? (
+        project.childType === 'project' ? (
+          <ProjectGrid projects={project.children as Project<Img>[]} />
+        ) : (
+          <IllustrationGrid illustrations={project.children as Img[]} />
+        )
+      ) : null}
     </div>
   );
 };

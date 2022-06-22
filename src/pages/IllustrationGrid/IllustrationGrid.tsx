@@ -1,32 +1,39 @@
 import React from 'react';
+import { useLocation } from 'react-router-dom';
 
 import Card from 'components/Card';
+import Link from 'components/Link';
 import Text from 'components/Text';
-import { useProjectByUrl } from 'hooks/byUrl';
+import { publicUrlForImg, urlFormat } from 'helpers/url';
+import { Img } from 'model/types';
 
 import styles from './IllustrationGrid.module.scss';
 
-export const IllustrationGrid: React.FC = () => {
-  const project = useProjectByUrl();
+export interface Props {
+  readonly illustrations: Img[];
+}
+
+export const IllustrationGrid: React.FC<Props> = ({ illustrations }) => {
+  const location = useLocation();
 
   return (
     <div>
       <div className={styles['illustrations-container']}>
-        <Card>
-          <Text spacing="none">A {project?.name ?? 'unknown'} illustrations</Text>
-        </Card>
-        <Card>
-          <Text spacing="none">Another {project?.name ?? 'unknown'} illustrations</Text>
-        </Card>
-        <Card>
-          <Text spacing="none">Yet another {project?.name ?? 'unknown'} illustrations</Text>
-        </Card>
-        <Card>
-          <Text spacing="none">Even more {project?.name ?? 'unknown'} illustrations</Text>
-        </Card>
-        <Card>
-          <Text spacing="none">Even more {project?.name ?? 'unknown'} illustrations</Text>
-        </Card>
+        {illustrations.map((img: Img) => (
+          <Link 
+            path={`${location.pathname}/${urlFormat(img.name)}`} 
+            key={img.name}
+          >
+            <Card padding="none">
+              <div className={styles['illustration-card']}>
+                <img src={publicUrlForImg(img.fileName.small)} alt={img.name} />
+                <div className={styles['title']}>
+                  <Text size="h4" spacing="none">{img.name}</Text>
+                </div>
+              </div>
+            </Card>
+          </Link>
+        ))}
       </div>
     </div>
   );
