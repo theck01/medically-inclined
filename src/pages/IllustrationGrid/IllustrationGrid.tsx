@@ -21,7 +21,7 @@ export const IllustrationGrid: React.FC<Props> = ({ illustrations }) => {
       <div className={styles['illustrations-container']}>
         {illustrations.map((img: Img) => (
           <Link 
-            path={`${location.pathname}/${urlFormat(img.name)}`} 
+            path={`${location.pathname}?show=${urlFormat(img.name)}`} 
             key={img.name}
           >
             <Card padding="none">

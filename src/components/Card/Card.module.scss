@@ -9,16 +9,18 @@
   box-shadow: shadow(2);
 
 
-  &:hover, &:focus {
-    box-shadow: shadow(1);
-    top: -1px;
-    left: 1px;
-  }
+  &:not(.no-click) {
+    &:hover, &:focus {
+      box-shadow: shadow(1);
+      top: -1px;
+      left: 1px;
+    }
 
-  &:active {
-    box-shadow: shadow(0);
-    top: 0px;
-    left: 0px;
+    &:active {
+      box-shadow: shadow(0);
+      top: 0px;
+      left: 0px;
+    }
   }
 
   &.padding-default {

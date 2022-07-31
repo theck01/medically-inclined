@@ -1,0 +1,49 @@
+@import 'common/styles.module.scss';
+
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+
+  & > .overlay-container {
+    display: none;
+  }
+
+  &.show-overlay > .overlay-container {
+    display: flex;
+  }
+}
+
+.contents-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.overlay-container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(0, 0, 0, 0.7);
+
+  & img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: cover;
+  }
+}
+
+.illustration-container {
+  position: relative;
+}
+
+.close-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

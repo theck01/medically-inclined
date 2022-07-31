@@ -1,12 +1,17 @@
 import { useMemo } from 'react';
-import { useParams } from 'react-router-dom';
+import { useMatch } from 'react-router-dom';
 
 import { getProjectByUrl } from 'model/store';
 
 export function useProjectByUrl() {
-  const { project, child } = useParams();
+  const projectMatch = useMatch('/projects/:project');
+  const subProjectMatch = useMatch('/projects/:project/:subProject');
+
+  const project = subProjectMatch?.params.project ?? projectMatch?.params.project;
+  const subProject = subProjectMatch?.params.subProject;
+
   return useMemo(
-    () => project ? getProjectByUrl(project, child) : undefined,
-    [project, child]
+    () => project ? getProjectByUrl(project, subProject) : undefined,
+    [project, subProject]
   );
 };

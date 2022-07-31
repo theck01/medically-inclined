@@ -8,6 +8,7 @@ export type ButtonVariant = 'default' | 'minimal';
 export interface Props {
   label: string;
   icon?: string;
+  iconOnly?: boolean;
   click?: () => void;
   variant? : ButtonVariant;
 }
@@ -15,6 +16,7 @@ export interface Props {
 export const Button: React.FC<Props> = ({ 
   label,
   icon,
+  iconOnly,
   click,
   variant = 'default',
 }) => {
@@ -25,7 +27,7 @@ export const Button: React.FC<Props> = ({
 
   return (
     <button className={buttonClassName} type="button" onClick={click}>
-      {icon ? (<span className="material-icons">{icon}</span>) : undefined} {label}
+      {icon ? (<span className="material-icons">{icon}</span>) : undefined} {!iconOnly && label}
     </button>
   );
 };
