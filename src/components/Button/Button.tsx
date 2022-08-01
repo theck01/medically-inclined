@@ -3,13 +3,13 @@ import classnames from 'classnames';
 
 import styles from './Button.module.scss';
 
-export type ButtonVariant = 'default' | 'minimal';
+export type ButtonVariant = 'default' | 'light' | 'minimal';
 
 export interface Props {
   label: string;
   icon?: string;
   iconOnly?: boolean;
-  click?: () => void;
+  click?: (event: React.MouseEvent<HTMLElement>) => void;
   variant? : ButtonVariant;
 }
 

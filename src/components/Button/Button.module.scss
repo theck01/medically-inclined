@@ -7,6 +7,7 @@
 
   padding: ($base-size / 2);
   border-radius: ($base-size / 4);
+  border: none;
 
   font-size: $base-size * 1.25;  
   font-weight: 700;
@@ -15,11 +16,12 @@
 
   & :global(.material-icons) {
     font-variant: initial;
+    font-size: 32px;
   }
 }
 
 .variant-default {
-  background: color(text);
+  background: color('text');
   color: #F0F0F0;
 
   &:hover {
@@ -33,10 +35,28 @@
   }
 }
 
+.variant-light {
+  background: color('white');
+  color: color('text');
+  box-shadow: shadow(2);
+
+  &:hover {
+    background: color('blue', 'lightest');
+    color: color('blue', 'darker');
+    box-shadow: shadow(1);
+  }
+
+  &:active {
+    background: color('blue', 'lighter');
+    color: color('blue', 'darker');
+    box-shadow: none;
+  }
+}
+
 .variant-minimal {
   background: transparent;
   border: none;
-  color: color(text);
+  color: color('text');
 
   &:hover {
     background: rgba(0, 0, 0, 0.1);

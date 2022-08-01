@@ -9,6 +9,10 @@
   box-shadow: shadow(2);
 
 
+  &.no-click {
+    top: 0;
+  }
+
   &:not(.no-click) {
     &:hover, &:focus {
       box-shadow: shadow(1);

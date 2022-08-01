@@ -18,6 +18,7 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
   const project = useProjectByUrl();
   const [searchParams, setSearchParams] = useSearchParams();
 
+
   const illustration = useMemo(() => {
     if (!searchParams.has('show')) {
       return undefined;
@@ -28,9 +29,34 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
       : undefined;
   }, [searchParams, project]);
 
+  const { viewNext, viewPrev } = useMemo(() => {
+    if (!project || !illustration) {
+      return {};
+    }
+    const i = (project.children as Img[]).findIndex(
+      img => img.id === illustration.id
+    );
+    return {
+      viewNext: i < project.children.length - 1
+        ? () => {
+          setSearchParams({ show: urlFormat(project.children[i + 1].name) });
+        } : undefined,
+      viewPrev: i > 0
+        ? () => {
+          setSearchParams({ show: urlFormat(project.children[i - 1].name) });
+        } : undefined,
+    };
+  }, [project, illustration, setSearchParams]);
+
   const hideOverlay = useCallback(() => {
     setSearchParams({});
   }, [setSearchParams]);
+
+  const hideOnEscape = useCallback((e: React.KeyboardEvent<HTMLElement>) => {
+    if (e.key === 'Escape') {
+      hideOverlay();
+    }
+  }, [hideOverlay]);
 
   const containerClassName = classNames(
     styles['container'], 
@@ -38,27 +64,67 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
   );
 
   return (
-    <div className={containerClassName}>
+    <div className={containerClassName} onKeyUp={hideOnEscape}>
       <div className={styles['contents-container']}>{children}</div>
-      <div className={styles['overlay-container']} onClick={hideOverlay}>
+      <div className={styles['overlay-container']}>
         {illustration && (
-          <Card disableClickAnimation>
-            <div className={styles['illustration-container']}>
-              <img 
-                src={publicUrlForImg(illustration.fileName.full)} 
-                alt={illustration.altText} 
-              />
-              <div className={styles['close-container']}> 
+          <div className={styles['overlay-layout-container']}>
+            <div className={styles['slideshow-container']}>
+              {viewPrev ? (
                 <Button 
-                  label="close" 
-                  icon="close" 
-                  click={hideOverlay} 
-                  variant="minimal" 
+                  label="previous" 
+                  icon="arrow_back_ios" 
                   iconOnly
+                  click={viewPrev} 
+                  variant="light"
                 />
-              </div>
+              ) : (
+                <div className={styles['space-for-button']} />
+              )}
+              <Card padding="none" disableClickAnimation>
+                <div className={styles['illustration-container']}>
+                  <img 
+                    src={publicUrlForImg(illustration.fileName.full)} 
+                    alt={illustration.altText} 
+                  />
+                  <div className={styles['close-container']}> 
+                    <Button 
+                      label="close" 
+                      icon="close" 
+                      iconOnly
+                      click={hideOverlay} 
+                      variant="minimal" 
+                    />
+                  </div>
+                </div>
+              </Card>
+              {viewNext ? (
+                <Button 
+                  label="next" 
+                  icon="arrow_forward_ios" 
+                  iconOnly
+                  click={viewNext} 
+                  variant="light"
+                />
+              ) : (
+                <div className={styles['space-for-button']} />
+              )}
             </div>
-          </Card>
+            <div className={styles['download-container']}>
+              <a 
+                href={publicUrlForImg(illustration.fileName.full)} 
+                download={illustration.name} 
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button
+                  label="Download"
+                  icon="download"
+                  variant="light"
+                />
+              </a>
+            </div>
+          </div>
         )}
       </div>
     </div>
