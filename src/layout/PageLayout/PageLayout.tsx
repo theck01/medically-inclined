@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Link from 'components/Link';
+import Search from 'components/Search';
 import TabBar from 'components/TabBar';
 import Text from 'components/Text';
 import titleImg from 'data/img/title.webp';
@@ -15,14 +16,21 @@ export const PageLayout: React.FC<Props> = ({ children }) => (
   <div className={styles['page-container']}>
     <div className={styles['page-column']}>
       <div className={styles['page-header']}>
-        <div>
-          <img src={titleImg} alt='Illustrations for the Medically Inclined' />
+        <Link path="/">
+          <div>
+            <img src={titleImg} alt='Illustrations for the Medically Inclined' />
+          </div>
+        </Link>
+        <div className={styles['header-controls-container']}>
+          <div className={styles['search-container']}>
+            <Search />
+          </div>
+          <TabBar tabs={[
+            { label: 'Projects', path: '/projects' },
+            { label: 'Study tables', path: '/study-tables' },
+            { label: 'About', path: '/about' },
+          ]} />
         </div>
-        <TabBar tabs={[
-          { label: 'Projects', path: '/projects' },
-          { label: 'Study tables', path: '/study-tables' },
-          { label: 'About', path: '/about' },
-        ]} />
       </div>
       <div className={styles['page-body']}>
         {children}

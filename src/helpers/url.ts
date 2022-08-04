@@ -1,6 +1,6 @@
 
 export function urlFormat(str: string): string {
-  return encodeURI(str.toLowerCase().replace(/[\s&]+/g, '-'));
+  return encodeURI(str.toLowerCase().replace(/[^\w_-]+/g, '-'));
 }
 
 export function publicUrlForImg(fileName: string): string {
