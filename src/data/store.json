@@ -13,7 +13,7 @@
           "altText": "Looping EKG wave"
         }
       },
-      "childType": "illustration",
+      "childType": "img",
       "children": [
         31,
         32,
@@ -54,7 +54,7 @@
               "altText": "Heart anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -66,7 +66,7 @@
               "altText": "Muscle fiber"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -78,7 +78,7 @@
               "altText": "Uterus anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -90,7 +90,7 @@
               "altText": "Lung anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -102,7 +102,7 @@
               "altText": "Kidney"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -114,7 +114,7 @@
               "altText": "Human body with indecipherable anatomical labels"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -126,7 +126,7 @@
               "altText": "Gastrointestinal anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -138,7 +138,7 @@
               "altText": "Antibody"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         }
       ]
@@ -167,7 +167,7 @@
               "altText": "Heart anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -179,7 +179,7 @@
               "altText": "Leg bones"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -191,7 +191,7 @@
               "altText": "Uterus anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -203,7 +203,7 @@
               "altText": "Brain cross section"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -215,7 +215,7 @@
               "altText": "Kidney"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -227,7 +227,7 @@
               "altText": "Lung anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -239,7 +239,7 @@
               "altText": "Baby, child, and adolescent"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         }
       ]
@@ -268,7 +268,7 @@
               "altText": "Uterus anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -280,7 +280,7 @@
               "altText": "Human body with indecipherable anatomical labels"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -292,7 +292,7 @@
               "altText": "Kidney"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -304,7 +304,7 @@
               "altText": "Gastrointestinal organs"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -316,7 +316,7 @@
               "altText": "Blood droplets"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -328,7 +328,7 @@
               "altText": "Brain cross section"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -340,7 +340,7 @@
               "altText": "Lung anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -352,7 +352,7 @@
               "altText": "Heart anatomy"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -364,7 +364,7 @@
               "altText": "Antibody"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -376,7 +376,7 @@
               "altText": "Muscle fiber"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         },
         {
@@ -388,7 +388,7 @@
               "altText": "Stack of books"
             }
           },
-          "childType": "illustration",
+          "childType": "img",
           "children": []
         }
       ]
@@ -406,7 +406,7 @@
           "altText": "Surgeons hands cutting motion with a scalpel"
         }
       },
-      "childType": "illustration",
+      "childType": "img",
       "children": []
     }
   ],

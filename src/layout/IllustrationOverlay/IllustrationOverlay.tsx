@@ -18,13 +18,12 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
   const project = useProjectByUrl();
   const [searchParams, setSearchParams] = useSearchParams();
 
-
   const illustration = useMemo(() => {
     if (!searchParams.has('show')) {
       return undefined;
     }
     const paramName = searchParams.get('show');
-    return project?.childType === 'illustration' 
+    return project?.childType === 'img' 
       ? (project.children as Img[]).find(i => urlFormat(i.name) === paramName)
       : undefined;
   }, [searchParams, project]);
