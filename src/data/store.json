@@ -47,7 +47,7 @@
       "children": [
         {
           "id": 5,
-          "name": "Cardovascular",
+          "name": "Cardiovascular",
           "coverImg": {
             "fixed": {
               "fileName": "cardio.webp",

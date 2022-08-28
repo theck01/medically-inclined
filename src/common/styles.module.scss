@@ -30,6 +30,12 @@ $desktop-screen-size: 1024px;
     @if $shade == 'light' {
       @return #707070;
     }
+    @if $shade == 'lighter' {
+      @return #A0A0A0;
+    }
+    @if $shade == 'lightest' {
+      @return #E0E0E0;
+    }
   }
   @else if $name == 'white' {
     @return #FFFFFF;

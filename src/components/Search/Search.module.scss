@@ -1,12 +1,19 @@
 @import 'common/styles.module.scss';
 
+$result-img-max-height: 300px;
+$result-img-size: 320px;
+
 .search-container {
   position: relative;
   width: 100%;
   z-index: 1;
 
-  &:focus-within:not(.empty-search) .search-results-container {
-    display: block;
+  &:focus-within:not(.empty-search) {
+    & .page-overlay,
+    & .input-background,
+    & .search-results-container {
+      display: block
+    }
   }
 
   & input {
@@ -21,17 +28,85 @@
   }
 }
 
+.page-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.67);
+}
+
+.input-background {
+  display: none;
+  position: absolute;
+  width: calc(100% + #{$base-size * 4});
+  height: $base-size * 6;
+  background: color('white');
+  top: -$base-size;
+  left: -$base-size;
+  border-top-left-radius: $base-size / 2;
+  border-top-right-radius: $base-size / 2;
+  border-bottom: 1px solid color('text');
+}
+
 .search-results-container {
   display: none;
   position: absolute;
-  width: calc(100% + #{$base-size * 2});
-  height: 70vh;
+  width: calc(100% + #{$base-size * 4});
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-top: $base-size * 6;
   top: -$base-size;
   left: -$base-size;
 
   box-shadow: shadow(2);
   border-radius: $base-size / 2;
-  background: white;
+  background: #F0F0F0;
+
+  & > :not(:last-child) {
+    margin-bottom: $base-size * 2;
+  }
+}
+
+.search-results-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: $base-size * 2;
+  row-gap: $base-size * 2;
+  padding: $base-size * 2;
+}
+
+.search-result-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-result {
+  position: relative;
+
+  & img {
+    max-width: 100%;
+    max-height: $result-img-max-height;
+    object-fit: cover;
+  }
+  
+  & > .title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    max-width: calc(100% - #{2 * $base-size});
+
+    background: rgba(255,255,255,0.9);
+    padding: $base-size * 0.5 $base-size;
+    border-top-right-radius: $base-size;
+    
+    & p {
+      line-height: 2 * $base-size;
+    }
+  }
 }
 
 .search-icon-container {
