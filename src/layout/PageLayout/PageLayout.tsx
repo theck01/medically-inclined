@@ -27,7 +27,6 @@ export const PageLayout: React.FC<Props> = ({ children }) => (
           </div>
           <TabBar tabs={[
             { label: 'Projects', path: '/projects' },
-            { label: 'Study tables', path: '/study-tables' },
             { label: 'About', path: '/about' },
           ]} />
         </div>
