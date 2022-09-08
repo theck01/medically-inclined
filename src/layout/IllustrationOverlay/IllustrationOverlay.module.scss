@@ -31,19 +31,18 @@
 }
 
 .overlay-layout-container {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   width: 100vw;
   height: 100vh;
   grid-template-rows: 1fr auto;
-  //row-gap: $base-size * 4;
-  //padding: ($base-size * 4) 0;
   align-items: center;
   justify-items: center;
 
   & img {
     border-radius: $base-size / 2;
-    max-width: calc(100vw - #{$base-size * 28});
-    max-height: calc(100vh - #{$base-size * 16} - 40px);
+    max-width: calc(100vw - #{$base-size * 16});
+    max-height: calc(100vh - #{$base-size * 8} - 40px);
     object-fit: cover;
     pointer-events: none;
   }
@@ -61,13 +60,13 @@
 
 .slideshow-container {
   display: grid;
-  width: calc(100vw - #{$base-size * 8});
-  height: calc(100vh - #{$base-size * 16});
+  width: calc(100% - #{$base-size * 4});
   grid-template-columns: auto 1fr auto;
-  column-gap: $base-size * 4;
-  padding: 0 ($base-size * 4);
+  column-gap: $base-size * 2;
+  padding: $base-size * 2 0;
   align-items: center;
   justify-items: center;
+  flex: 1 1 0;
 
   & > :first-child {
     justify-self: start;
@@ -99,8 +98,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: $base-size * 4;
-  height: $base-size * 4;
+  margin-bottom: $base-size * 2;
+  flex: 0 0 $base-size * 4;
   
   & button {
     height: $base-size * 4;
