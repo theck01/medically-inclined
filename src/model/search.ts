@@ -46,9 +46,6 @@ function scoreProject(
     }, [] as ScoredResult[])
   ) : (
     (p.children as Img[]).reduce((scoredImgs, img) => {
-      if (img.name === 'NSTEMI') {
-        debugger;
-      }
       const imgRelevance = calculateImgRelevance(img, terms);
       return imgRelevance > 0 
         ? scoredImgs.concat([{

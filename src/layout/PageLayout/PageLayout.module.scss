@@ -7,12 +7,19 @@
   overflow-y: auto;
 }
 
+.page-centerer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
 .page-column {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 ($base-size * 4);
-
+  max-width: 1200px;
+  width: calc(100% - #{$base-size * 4});
+  padding: 0 $base-size * 2;
   min-height: 100vh;
 
   & > :first-child {
@@ -29,17 +36,12 @@
 }
 
 .page-header {
-  display: grid;
-  grid-template-columns: auto auto;
-  column-gap: $base-size * 8;
-  align-items: end;
+  width: 100%;
   padding: $base-size * 2;
-  margin-bottom: $base-size * 2;
-  margin-left: -$base-size * 2;
-  
-  & > :first-child {
-    margin-bottom: -56px;
-  }
+}
+
+.logo-container { 
+  margin-bottom: -56px;
 }
 
 .header-controls-container {
@@ -47,21 +49,6 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-between;
-  height: 100%;
-}
-
-.search-container {
-  width: $base-size * 40;
-  margin-top: $base-size * 2;
-}
-
-.page-selector {
-  display: flex;
-  align-items: center;
-
-  & > :not(:last-child) {
-    margin-right: $base-size;
-  }
 }
 
 .page-body {
@@ -72,8 +59,54 @@
 }
 
 .page-footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   width: 100%;
+  padding-top: $base-size * 2;
+}
+
+@media (min-width: $desktop-screen-size) {
+  .page-header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .logo-container {
+    & > :first-child { 
+      width: 100%;
+    }
+    & img {
+      object-fit: scale-down;
+    }
+  }
+
+  .search-container {
+    width: $base-size * 32;
+    // Visual aligns search with logo text.
+    margin-top: $base-size * 2;
+  }
+
+  .page-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  } 
+}
+
+@media (max-width: $desktop-screen-size) {
+  .logo-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .search-container {
+    margin-top: $base-size * 2;
+    margin-bottom: $base-size * 2;
+    width: 100%;
+  }
+
+  .page-footer > :first-child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: $base-size / 2;
+  } 
 }
