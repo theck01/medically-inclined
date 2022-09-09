@@ -38,10 +38,23 @@
 .page-header {
   width: 100%;
   padding: $base-size * 2;
+  margin-bottom: $base-size;
 }
 
 .logo-container { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-bottom: -56px;
+  & > :first-child {
+    width: fit-content;
+  }
+  & img {
+    max-width: 100%;
+    max-height: 286px;
+    width: 425px;
+    object-fit: scale-down;
+  }
 }
 
 .header-controls-container {
@@ -73,9 +86,7 @@
     & > :first-child { 
       width: 100%;
     }
-    & img {
-      object-fit: scale-down;
-    }
+
   }
 
   .search-container {
@@ -92,11 +103,6 @@
 }
 
 @media (max-width: $desktop-screen-size) {
-  .logo-container {
-    display: flex;
-    justify-content: center;
-  }
-
   .search-container {
     margin-top: $base-size * 2;
     margin-bottom: $base-size * 2;

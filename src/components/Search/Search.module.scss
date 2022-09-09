@@ -58,7 +58,7 @@ $result-img-size: 220px;
   display: none;
   position: absolute;
   width: calc(100% + #{$base-size * 2});
-  max-height: 85vh;
+  max-height: 70vh;
   overflow-y: auto;
   padding-top: $base-size * 6;
   top: -$base-size;

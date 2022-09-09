@@ -9,14 +9,14 @@
   border-radius: ($base-size / 4);
   border: none;
 
-  font-size: $base-size * 1.25;  
+  font-size: $base-size;
   font-weight: 700;
   font-variant: small-caps;
   letter-spacing: $base-size / 8;
 
   & :global(.material-icons) {
     font-variant: initial;
-    font-size: 32px;
+    font-size: $base-size * 1.5;
   }
 }
 
