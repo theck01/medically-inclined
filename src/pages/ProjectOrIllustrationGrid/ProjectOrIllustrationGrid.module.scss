@@ -1,6 +1,13 @@
 
 @import "common/styles.module.scss";
 
+.root-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
 .heading-container {
   display: grid;
   grid-template-columns: $base-size * 12 1fr $base-size * 12;

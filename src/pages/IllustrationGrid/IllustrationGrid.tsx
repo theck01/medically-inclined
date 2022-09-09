@@ -17,7 +17,7 @@ export const IllustrationGrid: React.FC<Props> = ({ illustrations }) => {
   const location = useLocation();
 
   return (
-    <div>
+    <div className={styles['root-container']}>
       <div className={styles['illustrations-container']}>
         {illustrations.map((img: Img) => (
           <Link 
@@ -28,7 +28,7 @@ export const IllustrationGrid: React.FC<Props> = ({ illustrations }) => {
               <div className={styles['illustration-card']}>
                 <img src={publicUrlForImg(img.fileName.small)} alt={img.name} />
                 <div className={styles['title']}>
-                  <Text size="h4" spacing="none">{img.name}</Text>
+                  <Text size="h5" spacing="none">{img.name}</Text>
                 </div>
               </div>
             </Card>

@@ -11,6 +11,7 @@ $project-card-gaps: $base-size * 4;
   grid-gap: $project-card-gaps;
   width: 100%;
   max-width: $project-card-size * $max-cards-wide + $project-card-gaps * ($max-cards-wide - 1);
+  justify-content: center;
 }
 
 .project-card {
@@ -31,6 +32,13 @@ $project-card-gaps: $base-size * 4;
     padding: $base-size * 0.5 $base-size;
     padding-top: 0;
     border-top-right-radius: $base-size;
+    
+    & p {
+      line-height: 2 * $base-size;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
   }
 
   &:hover > .animated-image + .cover-image {

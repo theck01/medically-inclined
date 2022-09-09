@@ -2,8 +2,14 @@
 @import "common/styles.module.scss";
 
 $max-cards-wide: 3;
-$illustration-card-size: 480px;
+$illustration-card-size: 320px;
 $illustration-card-gaps: $base-size * 4;
+
+.root-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
 
 .illustrations-container {
   display: grid;
@@ -38,5 +44,12 @@ $illustration-card-gaps: $base-size * 4;
     padding: $base-size * 0.5 $base-size;
     padding-top: 0;
     border-top-right-radius: $base-size;
+    
+    & p {
+      line-height: 2 * $base-size;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
   }
 }

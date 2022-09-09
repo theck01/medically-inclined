@@ -11,7 +11,7 @@ import styles from './ProjectOrIllustrationGrid.module.scss';
 export const ProjectOrIllustrationGrid: React.FC = () => {
   const project = useProjectByUrl();
   return (
-    <div>
+    <div className={styles['root-container']}>
       <div className={styles['heading-container']}>
         <Link path="/projects" variant="minimal-button" > 
           <Text size="h6" spacing="none">

@@ -37,7 +37,7 @@ export const ProjectGrid: React.FC<Props> = ({ projects }) => {
                 />
               </div>
               <div className={styles['title']}>
-                <Text size="h4" spacing="none">{p.name}</Text>
+                <Text size="h5" spacing="none">{p.name}</Text>
               </div>
             </div>
           </Card>

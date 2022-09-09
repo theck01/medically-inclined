@@ -8,13 +8,23 @@
   
   & > :last-child {
     width: $base-size * 20;
-    margin-left: $base-size * 2;
     box-shadow: shadow(1);
     border-radius: $base-size / 2;
   }
 
   & > :first-child {
-    width: 30em;
+    max-width: 30em;
   }
 }
 
+@media (min-width: $mobile-screen-size) {
+  .about-container > :last-child {
+    margin-left: $base-size * 2;
+  }
+}
+
+@media (max-width: $mobile-screen-size) {
+  .about-container {
+    flex-direction: column;
+  }
+}
