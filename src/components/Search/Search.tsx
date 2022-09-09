@@ -59,7 +59,7 @@ export const Search: React.FC = () => {
                   <div className={styles['search-result']}>
                     <img src={r.imgUrl} alt={r.imgAltText} />
                     <div className={styles['title']}>
-                      <Text size="h4" spacing="none">{r.title}</Text>
+                      <Text size="h6" spacing="none">{r.title}</Text>
                     </div>
                   </div>
                 </Card>

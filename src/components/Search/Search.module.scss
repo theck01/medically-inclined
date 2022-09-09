@@ -1,7 +1,6 @@
 @import 'common/styles.module.scss';
 
-$result-img-max-height: 300px;
-$result-img-size: 320px;
+$result-img-size: 220px;
 
 .search-container {
   position: relative;
@@ -36,12 +35,13 @@ $result-img-size: 320px;
   width: 100vw;
   height: 100vh;
   background: rgba(0, 0, 0, 0.67);
+  pointer-events: none;
 }
 
 .input-background {
   display: none;
   position: absolute;
-  width: calc(100% + #{$base-size * 4});
+  width: calc(100% + #{$base-size * 2});
   height: $base-size * 6;
   background: color('white');
   top: -$base-size;
@@ -54,7 +54,7 @@ $result-img-size: 320px;
 .search-results-container {
   display: none;
   position: absolute;
-  width: calc(100% + #{$base-size * 4});
+  width: calc(100% + #{$base-size * 2});
   max-height: 85vh;
   overflow-y: auto;
   padding-top: $base-size * 6;
@@ -72,10 +72,12 @@ $result-img-size: 320px;
 
 .search-results-list {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, $result-img-size);
   column-gap: $base-size * 2;
   row-gap: $base-size * 2;
   padding: $base-size * 2;
+  justify-content: center;
+
 }
 
 .search-result-container {
@@ -89,7 +91,7 @@ $result-img-size: 320px;
 
   & img {
     max-width: 100%;
-    max-height: $result-img-max-height;
+    max-height: $result-img-size;
     object-fit: cover;
   }
   
@@ -105,6 +107,9 @@ $result-img-size: 320px;
     
     & p {
       line-height: 2 * $base-size;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
   }
 }
