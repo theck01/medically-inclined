@@ -1,6 +1,7 @@
 import React, { useCallback, useState } from 'react';
 import classNames from 'classnames';
 
+import Button from 'components/Button';
 import Card from 'components/Card';
 import Link from 'components/Link';
 import Text from 'components/Text';
@@ -20,6 +21,13 @@ export const Search: React.FC = () => {
       if (e.key === 'Esc' || e.key === 'Escape') {
         e.currentTarget.blur();
       }
+    },
+    []
+  );
+
+  const handleCloseClick = useCallback(
+    (e: React.MouseEvent<HTMLElement>) => {     
+      e.currentTarget.blur();
     },
     []
   );
@@ -78,6 +86,15 @@ export const Search: React.FC = () => {
       />
       <div className={styles['search-icon-container']}>
         <span className="material-icons">search</span>
+      </div>
+      <div className={styles['search-close-container']}>
+        <Button 
+          click={handleCloseClick}
+          label="Close" 
+          icon="close" 
+          iconOnly 
+          variant="minimal" 
+        />
       </div>
     </div>
   );

@@ -11,7 +11,10 @@ $result-img-size: 220px;
     & .page-overlay,
     & .input-background,
     & .search-results-container {
-      display: block
+      display: block;
+    }
+    & .search-close-container {
+      display: flex;
     }
   }
 
@@ -22,7 +25,7 @@ $result-img-size: 220px;
     border-radius: $base-size / 2;
     border: 1px solid color('text');
     font-size: $base-size;
-    padding-right: $base-size;
+    padding-right: $base-size * 4;
     padding-left: $base-size * 4;
   }
 }
@@ -122,6 +125,22 @@ $result-img-size: 220px;
   width: $base-size * 4;
 
   display: flex;
+  align-items: center;
+  justify-content: center;
+
+  & :global(.material-icons) {
+    font-size: 32px;
+    color: color('text', 'light');
+  }
+}
+
+.search-close-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: $base-size * 4;
+  width: $base-size * 4;
   align-items: center;
   justify-content: center;
 
