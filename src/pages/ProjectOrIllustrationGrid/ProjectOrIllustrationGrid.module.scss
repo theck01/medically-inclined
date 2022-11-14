@@ -10,11 +10,25 @@
 
 .heading-container {
   display: grid;
-  grid-template-columns: $base-size * 12 1fr $base-size * 12;
   align-items: center;
   justify-items: center;
   column-gap: $base-size * 3;
-
   width: 100%;
   margin-bottom: $base-size * 3;
+}
+
+@media (min-width: $desktop-screen-size) {
+  .heading-container {
+    grid-template-columns: $base-size * 12 1fr $base-size * 12;
+  }
+}
+
+@media (max-width: $desktop-screen-size) {
+  .navigation-control {
+    display: none;
+  }
+
+  .heading-container {
+    grid-template-columns: 1fr;
+  }
 }

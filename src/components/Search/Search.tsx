@@ -82,7 +82,7 @@ export const Search: React.FC = () => {
         onChange={handleSearchInputChange}
         onKeyDown={handleSearchEscape}
         type="search" 
-        placeholder="Search for projects and illustrations"
+        placeholder="Search for illustrations"
       />
       <div className={styles['search-icon-container']}>
         <span className="material-icons">search</span>

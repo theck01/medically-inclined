@@ -27,6 +27,7 @@ $result-img-size: 220px;
     font-size: $base-size;
     padding-right: $base-size * 4;
     padding-left: $base-size * 4;
+    background: color('white');
   }
 }
 
@@ -147,5 +148,11 @@ $result-img-size: 220px;
   & :global(.material-icons) {
     font-size: 32px;
     color: color('text', 'light');
+  }
+}
+
+@media (max-width: $desktop-screen-size) {
+  .search-container input {
+    padding-right: $base-size;
   }
 }

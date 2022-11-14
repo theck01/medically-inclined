@@ -13,11 +13,13 @@ export const ProjectOrIllustrationGrid: React.FC = () => {
   return (
     <div className={styles['root-container']}>
       <div className={styles['heading-container']}>
-        <Link path="/projects" variant="minimal-button" > 
-          <Text size="h6" spacing="none">
-            &lt; All projects
-          </Text>
-        </Link>
+        <div className={styles['navigation-control']}>
+          <Link path="/projects" variant="minimal-button" > 
+            <Text size="h6" spacing="none">
+              &lt; All projects
+            </Text>
+          </Link>
+        </div>
         <div className={styles['title']}>
           <Text size="h2" spacing="none">
             {project?.name}

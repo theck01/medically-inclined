@@ -17,24 +17,22 @@ export const IllustrationGrid: React.FC<Props> = ({ illustrations }) => {
   const location = useLocation();
 
   return (
-    <div className={styles['root-container']}>
-      <div className={styles['illustrations-container']}>
-        {illustrations.map((img: Img) => (
-          <Link 
-            path={`${location.pathname}?show=${urlFormat(img.name)}`} 
-            key={img.name}
-          >
-            <Card padding="none">
-              <div className={styles['illustration-card']}>
-                <img src={publicUrlForImg(img.fileName.small)} alt={img.name} />
-                <div className={styles['title']}>
-                  <Text size="h5" spacing="none">{img.name}</Text>
-                </div>
+    <div className={styles['illustrations-container']}>
+      {illustrations.map((img: Img) => (
+        <Link 
+          path={`${location.pathname}?show=${urlFormat(img.name)}`} 
+          key={img.name}
+        >
+          <Card padding="none">
+            <div className={styles['illustration-card']}>
+              <img src={publicUrlForImg(img.fileName.small)} alt={img.name} />
+              <div className={styles['title']}>
+                <Text size="h5" spacing="none">{img.name}</Text>
               </div>
-            </Card>
-          </Link>
-        ))}
-      </div>
+            </div>
+          </Card>
+        </Link>
+      ))}
     </div>
   );
 };

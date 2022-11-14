@@ -16,9 +16,10 @@ $illustration-card-gaps: $base-size * 4;
   grid-template-columns: repeat(auto-fit, $illustration-card-size);
   grid-gap: $illustration-card-gaps;
   width: 100%;
+  max-width: $illustration-card-size * $max-cards-wide + $illustration-card-gaps * ($max-cards-wide - 1);
   align-items: center;
   justify-items: center;
-  max-width: $illustration-card-size * $max-cards-wide + $illustration-card-gaps * ($max-cards-wide - 1);
+  justify-content: center;
 }
 
 .go-back-container {
