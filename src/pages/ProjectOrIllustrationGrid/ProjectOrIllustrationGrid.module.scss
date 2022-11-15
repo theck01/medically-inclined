@@ -12,23 +12,27 @@
   display: grid;
   align-items: center;
   justify-items: center;
-  column-gap: $base-size * 3;
+  column-gap: $base-size;
   width: 100%;
   margin-bottom: $base-size * 3;
 }
 
 @media (min-width: $desktop-screen-size) {
+  .mobile-navigation-control {
+    display: none;
+  }
+
   .heading-container {
     grid-template-columns: $base-size * 12 1fr $base-size * 12;
   }
 }
 
 @media (max-width: $desktop-screen-size) {
-  .navigation-control {
+  .desktop-navigation-control {
     display: none;
   }
 
   .heading-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 40px 1fr 40px;
   }
 }

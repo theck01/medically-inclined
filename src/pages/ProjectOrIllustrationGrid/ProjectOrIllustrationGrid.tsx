@@ -13,11 +13,15 @@ export const ProjectOrIllustrationGrid: React.FC = () => {
   return (
     <div className={styles['root-container']}>
       <div className={styles['heading-container']}>
-        <div className={styles['navigation-control']}>
+        <div className={styles['desktop-navigation-control']}>
           <Link path="/projects" variant="minimal-button" > 
-            <Text size="h6" spacing="none">
-              &lt; All projects
-            </Text>
+            <span className="material-icons">arrow_back_ios</span>
+            <Text size="h6" spacing="none">All projects</Text>
+          </Link>
+        </div>
+        <div className={styles['mobile-navigation-control']}>
+          <Link path="/projects" variant="minimal-button" > 
+            <span className="material-icons">arrow_back_ios</span>
           </Link>
         </div>
         <div className={styles['title']}>
