@@ -68,60 +68,63 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
       <div className={styles['overlay-container']}>
         {illustration && (
           <div className={styles['overlay-layout-container']}>
-            <div className={styles['slideshow-container']}>
-              {viewPrev ? (
-                <Button 
-                  label="previous" 
-                  icon="arrow_back_ios" 
-                  iconOnly
-                  click={viewPrev} 
-                  variant="light"
-                />
-              ) : (
-                <div className={styles['space-for-button']} />
-              )}
-              <Card padding="none" disableClickAnimation>
-                <div className={styles['illustration-container']}>
-                  <img 
-                    src={publicUrlForImg(illustration.fileName.full)} 
-                    alt={illustration.altText} 
+            <div className={styles['controls-container']}>
+              <div className={styles['slideshow-controls']}>
+                {viewPrev ? (
+                  <Button 
+                    label="previous" 
+                    icon="arrow_back_ios" 
+                    iconOnly
+                    click={viewPrev} 
+                    variant="minimal"
                   />
-                  <div className={styles['close-container']}> 
-                    <Button 
-                      label="close" 
-                      icon="close" 
-                      iconOnly
-                      click={hideOverlay} 
-                      variant="minimal" 
-                    />
-                  </div>
-                </div>
-              </Card>
-              {viewNext ? (
-                <Button 
-                  label="next" 
-                  icon="arrow_forward_ios" 
-                  iconOnly
-                  click={viewNext} 
-                  variant="light"
-                />
-              ) : (
-                <div className={styles['space-for-button']} />
-              )}
+                ) : (
+                  <div className={styles['space-for-button']} />
+                )}
+                {viewNext ? (
+                  <Button 
+                    label="next" 
+                    icon="arrow_forward_ios" 
+                    iconOnly
+                    click={viewNext} 
+                    variant="minimal"
+                  />
+                ) : (
+                  <div className={styles['space-for-button']} />
+                )}
+              </div>
+
+              <div className={styles['download-button']}>
+                <a 
+                  href={publicUrlForImg(illustration.fileName.full)} 
+                  download={illustration.name} 
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <Button
+                    label="Download"
+                    icon="download"
+                    variant="minimal"
+                  />
+                </a>
+              </div>
+
+              <Button 
+                label="close" 
+                icon="close" 
+                iconOnly
+                click={hideOverlay} 
+                variant="minimal" 
+              />
             </div>
-            <div className={styles['download-container']}>
-              <a 
-                href={publicUrlForImg(illustration.fileName.full)} 
-                download={illustration.name} 
-                target="_blank"
-                rel="noreferrer"
-              >
-                <Button
-                  label="Download"
-                  icon="download"
-                  variant="light"
+
+            <div className={styles['illustration-container']}>
+              <Card padding="none" disableClickAnimation>
+                <img 
+                  src={publicUrlForImg(illustration.fileName.full)} 
+                  alt={illustration.altText} 
                 />
-              </a>
+              </Card>
             </div>
           </div>
         )}

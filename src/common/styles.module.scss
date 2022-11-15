@@ -42,6 +42,11 @@ $mobile-screen-size: 750px;
   @else if $name == 'white' {
     @return #FFFFFF;
   }
+  @else if $name == 'grey' {
+    @if $shade == 'lightest' {
+      @return #F0F0F0;
+    }
+  }
   @return red;
 }
 

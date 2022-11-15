@@ -26,95 +26,76 @@
   top: 0;
   left: 0;
   z-index: 100;
-
-  background: rgba(0, 0, 0, 0.67);
+  background: color('grey', 'lightest');
 }
 
 .overlay-layout-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
   width: 100vw;
   height: 100vh;
-  grid-template-rows: 1fr auto;
+  grid-template-rows: auto 1fr;
   align-items: center;
   justify-items: center;
 
   & img {
-    border-radius: $base-size / 2;
-    max-width: calc(100vw - #{$base-size * 16});
-    max-height: calc(100vh - #{$base-size * 8} - 40px);
+    max-width: calc(100vw - #{$base-size * 2});
+    max-height: calc(100vh - #{$base-size * 5});
     object-fit: cover;
     pointer-events: none;
+    border-radius: $base-size * 2;
   }
 }
 
-.illustration-container {
-  position: relative;
-}
-
-.close-container {
-  position: absolute;
-  top: $base-size / 2;
-  right: $base-size / 2;
-}
-
-.slideshow-container {
+.controls-container {
   display: grid;
-  width: calc(100% - #{$base-size * 4});
-  grid-template-columns: auto 1fr auto;
-  column-gap: $base-size * 2;
-  padding: $base-size * 2 0;
+  width: calc(100% - #{$base-size * 2});
+  height: 3 * $base-size;
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
-  flex: 1 1 0;
+  padding: 0 $base-size;
+
+  background: color('white');
+  box-shadow: shadow(1);
+  border-bottom: color('text', 'lightest') 1px solid;
+
+  & button {
+    width: fit-content;
+  }
 
   & > :first-child {
     justify-self: start;
+  }
+  & > :last-child {
+    justify-self: end;
+  }
+}
+
+.slideshow-controls {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  column-gap: $base-size / 2;
+
+  & > :first-child {
+    width: 40px;
+    margin-right: 8px;
     :global(.material-icons) {
       margin-right: -8px;
     }
   }
-
-  & > :last-child {
-    justify-self: end;
-    :global(.material-icons) {
-      margin-right: -4px;
-    }
-  }
-
-  & button {
-    border-radius: $base-size * 2;
-    width: $base-size * 4;
-    height: $base-size * 4;
-  }
-
-  .space-for-button {
-    width: $base-size * 4;
-    height: $base-size * 4;
-  }
 }
-  
-.download-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: $base-size * 2;
-  flex: 0 0 $base-size * 4;
-  
-  & button {
-    height: $base-size * 4;
-    border-radius: $base-size * 2;
-    padding-left: $base-size * 2;
-    padding-right: $base-size * 2;
 
-    :global(.material-icons) {
-      font-size: 32px;
-      margin-right: $base-size;
-      margin-bottom: -4px;
-    }
-  }
-
-  & a {
+.download-button {
+  a { 
     text-decoration: none;
   }
+  :global(.material-icons) {
+    margin-right: $base-size / 2;
+    margin-top: 4px;
+  }
+}
+
+.space-for-button {
+  width: 40px;
 }
