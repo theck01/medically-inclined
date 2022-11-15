@@ -27,7 +27,9 @@ export const Search: React.FC = () => {
 
   const handleCloseClick = useCallback(
     (e: React.MouseEvent<HTMLElement>) => {     
-      e.currentTarget.blur();
+      if (document.activeElement) {
+        (document.activeElement as HTMLElement).blur();
+      }
     },
     []
   );
@@ -61,6 +63,8 @@ export const Search: React.FC = () => {
             <div 
               className={styles['search-result-container']} 
               key={`${r.title}-${i}`}
+              tabIndex={0}
+              onClick={handleCloseClick}
             >
               <Link path={r.url}>
                 <Card padding="none">
