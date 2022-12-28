@@ -11,7 +11,10 @@ export function useProjectByUrl() {
   const subProject = subProjectMatch?.params.subProject;
 
   return useMemo(
-    () => project ? getProjectByUrl(project, subProject) : undefined,
+    () => ({
+      project: project ? getProjectByUrl(project, subProject) : undefined,
+      parent: (project && subProject) ? getProjectByUrl(project) : undefined,
+    }),
     [project, subProject]
   );
 };

@@ -15,7 +15,7 @@ export interface Props {
 }
 
 export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
-  const project = useProjectByUrl();
+  const { project } = useProjectByUrl();
   const [searchParams, setSearchParams] = useSearchParams();
 
   const illustration = useMemo(() => {

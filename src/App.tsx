@@ -23,6 +23,10 @@ function App() {
               path="/projects/:project" 
               element={<ProjectOrIllustrationGrid />}
             />
+            <Route 
+              path="/projects/:project/:subProject" 
+              element={<ProjectOrIllustrationGrid />}
+            />
             <Route path="/" element={<Navigate to="/projects" replace />} />
           </Routes>
         </PageLayout>
