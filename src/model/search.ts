@@ -3,7 +3,7 @@ import { publicUrlForImg, urlFormat } from 'helpers/url';
 import { projects } from './store';
 import { Project, Img } from './types';
 
-const TITLE_SEARCH_WEIGHT = 7;
+const TITLE_SEARCH_WEIGHT = 15;
 const ALT_TEXT_SEARCH_WEIGHT = 2;
 const MISC_SEARCH_WEIGHT = 1;
 
@@ -25,7 +25,16 @@ export function search(rawTerms: string): SearchResult[] {
   const sortedResults = scoredResults.sort((a, b) => {
     return a.relevance > b.relevance ? -1 : (a.relevance < b.relevance ? 1 : 0);
   });
-  return sortedResults.map(r => r.result);
+  const idSet: { [key: number]: boolean } = {};
+  return sortedResults
+    .map(r => r.result)
+    .filter(r => {
+      if (idSet[r.resource.id]) {
+        return false;
+      }
+      idSet[r.resource.id] = true;
+      return true;
+    })
 }
 
 interface ScoredResult {
