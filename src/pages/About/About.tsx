@@ -9,7 +9,7 @@ export const About: React.FC = () => (
   <div className={styles['about-container']}>
     <div>
       <Text>
-        Hi! My name is Caroline. I am a third year medical student, a wife, a
+        Hi! My name is Caroline. I am a fourth year medical student, a wife, a
         dog mom, a brain surgery survivor, and apparently a bit of an artist.
       </Text>
       <Text>
