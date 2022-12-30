@@ -17,7 +17,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 1200px;
+  max-width: $page-column-max-width;
   width: calc(100% - #{$base-size * 4});
   padding: 0 $base-size * 2;
   min-height: 100vh;

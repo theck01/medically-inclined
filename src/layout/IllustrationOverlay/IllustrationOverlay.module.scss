@@ -47,17 +47,22 @@
 }
 
 .controls-container {
-  display: grid;
   width: calc(100% - #{$base-size * 2});
+  height: 3 * $base-size;
+  padding: 0 $base-size;
+  background: color('blue', 'darker');
+  box-shadow: shadow(1);
+  border-bottom: color('blue', 'dark') 1px solid;
+}
+
+.controls-grid {
+  display: grid;
+  max-width: $page-column-max-width;
   height: 3 * $base-size;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
-  padding: 0 $base-size;
-
-  background: color('blue', 'darker');
-  box-shadow: shadow(1);
-  border-bottom: color('blue', 'dark') 1px solid;
+  margin: 0 auto;
 
   & button {
     width: fit-content;

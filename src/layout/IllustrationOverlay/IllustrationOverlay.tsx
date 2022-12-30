@@ -69,53 +69,55 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
         {illustration && (
           <div className={styles['overlay-layout-container']}>
             <div className={styles['controls-container']}>
+              <div className={styles['controls-grid']}>
               <div className={styles['slideshow-controls']}>
-                {viewPrev ? (
-                  <Button 
-                    label="previous" 
-                    icon="arrow_back_ios" 
-                    iconOnly
-                    click={viewPrev} 
-                    variant="minimal-light"
-                  />
-                ) : (
-                  <div className={styles['space-for-button']} />
-                )}
-                {viewNext ? (
-                  <Button 
-                    label="next" 
-                    icon="arrow_forward_ios" 
-                    iconOnly
-                    click={viewNext} 
-                    variant="minimal-light"
-                  />
-                ) : (
-                  <div className={styles['space-for-button']} />
-                )}
-              </div>
+                  {viewPrev ? (
+                    <Button 
+                      label="previous" 
+                      icon="arrow_back_ios" 
+                      iconOnly
+                      click={viewPrev} 
+                      variant="minimal-light"
+                    />
+                  ) : (
+                    <div className={styles['space-for-button']} />
+                  )}
+                  {viewNext ? (
+                    <Button 
+                      label="next" 
+                      icon="arrow_forward_ios" 
+                      iconOnly
+                      click={viewNext} 
+                      variant="minimal-light"
+                    />
+                  ) : (
+                    <div className={styles['space-for-button']} />
+                  )}
+                </div>
 
-              <div className={styles['download-button']}>
-                <a 
-                  href={publicUrlForImg(illustration.fileName.full)} 
-                  download={illustration.name} 
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button
-                    label="Download"
-                    icon="download"
-                    variant="minimal-light"
-                  />
-                </a>
-              </div>
+                <div className={styles['download-button']}>
+                  <a 
+                    href={publicUrlForImg(illustration.fileName.full)} 
+                    download={illustration.name} 
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <Button
+                      label="Download"
+                      icon="download"
+                      variant="minimal-light"
+                    />
+                  </a>
+                </div>
 
-              <Button 
-                label="close" 
-                icon="close" 
-                iconOnly
-                click={hideOverlay} 
-                variant="minimal-light"
-              />
+                <Button 
+                  label="close" 
+                  icon="close" 
+                  iconOnly
+                  click={hideOverlay} 
+                  variant="minimal-light"
+                />
+              </div>
             </div>
 
             <div className={styles['illustration-container']}>

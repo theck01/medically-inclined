@@ -5,6 +5,8 @@ $desktop-screen-size: 1000px;
 
 $mobile-screen-size: 750px;
 
+$page-column-max-width: 1200px;
+
 // Colors: blue, text, white (shade ignored)
 // Shades: lightest, lighter, light, mid, dark, darker, darkest, default
 @function color($name, $shade: 'default') {
