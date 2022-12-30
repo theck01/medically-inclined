@@ -66,3 +66,17 @@
     background: rgba(0, 0, 0, 0.2);
   }
 }
+
+.variant-minimal-light {
+  background: transparent;
+  border: none;
+  color: color('white');
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  &:active {
+    background: rgba(255, 255, 255, 0.2);
+  }
+}

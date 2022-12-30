@@ -43,8 +43,11 @@ $mobile-screen-size: 750px;
     @return #FFFFFF;
   }
   @else if $name == 'grey' {
+    @if $shade == 'darker' {
+      @return #263740;
+    }
     @if $shade == 'lightest' {
-      @return #F0F0F0;
+      @return #EBF0F2;
     }
   }
   @return red;

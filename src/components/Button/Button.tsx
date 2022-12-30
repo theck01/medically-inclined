@@ -3,7 +3,7 @@ import classnames from 'classnames';
 
 import styles from './Button.module.scss';
 
-export type ButtonVariant = 'default' | 'light' | 'minimal';
+export type ButtonVariant = 'default' | 'light' | 'minimal' | 'minimal-light';
 
 export interface Props {
   label: string;

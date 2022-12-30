@@ -76,7 +76,7 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
                     icon="arrow_back_ios" 
                     iconOnly
                     click={viewPrev} 
-                    variant="minimal"
+                    variant="minimal-light"
                   />
                 ) : (
                   <div className={styles['space-for-button']} />
@@ -87,7 +87,7 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
                     icon="arrow_forward_ios" 
                     iconOnly
                     click={viewNext} 
-                    variant="minimal"
+                    variant="minimal-light"
                   />
                 ) : (
                   <div className={styles['space-for-button']} />
@@ -104,7 +104,7 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
                   <Button
                     label="Download"
                     icon="download"
-                    variant="minimal"
+                    variant="minimal-light"
                   />
                 </a>
               </div>
@@ -114,7 +114,7 @@ export const IllustrationOverlay: React.FC<Props> = ({ children }) => {
                 icon="close" 
                 iconOnly
                 click={hideOverlay} 
-                variant="minimal" 
+                variant="minimal-light"
               />
             </div>
 

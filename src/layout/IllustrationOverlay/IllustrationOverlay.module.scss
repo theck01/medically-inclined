@@ -55,9 +55,9 @@
   justify-items: center;
   padding: 0 $base-size;
 
-  background: color('white');
+  background: color('blue', 'darker');
   box-shadow: shadow(1);
-  border-bottom: color('text', 'lightest') 1px solid;
+  border-bottom: color('blue', 'dark') 1px solid;
 
   & button {
     width: fit-content;
