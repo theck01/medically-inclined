@@ -50,7 +50,8 @@
   width: calc(100% - #{$base-size * 2});
   height: 3 * $base-size;
   padding: 0 $base-size;
-  background: color('blue', 'darker');
+
+  background: linear-gradient(0deg, color('blue', 'dark'), color('blue', 'darker'));
   box-shadow: shadow(1);
   border-bottom: color('blue', 'dark') 1px solid;
 }
