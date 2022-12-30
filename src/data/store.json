@@ -55,7 +55,49 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            43,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ]
         },
         {
           "id": 6,
@@ -526,6 +568,366 @@
       "fileName": {
         "full": "ekg-interpretation.jpg",
         "small": "ekg-interpretation.thumb.jpg"
+      }
+    },
+    "44": {
+      "id": 44,
+      "name": "Transfusion Reactions",
+      "altText": "TRANSFUSION REACTIONS\n\n\nALLERGIC/ANAPHYLAXIS\n\n\n« SUDDEN onset during transfusion\n\n« IgE mediated Type 1 HSR\n\n«Allergic sxs - urticaria\n\n« Anaphylaxis sxs » wheezing, hypotension, shock\n\n\nACUTE HEMOLYTIC\nTRANSFUSION\nREACTION\n\n\n« RAPID onset during transfusion or within 24 hours\n\n« ABO incompatibility » Type 2 HSR\n\n« FLANK PAIN, dyspnea, fever, chills, nausea, flushing\n« (+) Direct Coombs test\n\n\nFEBRILE NON-\nHEMOLYTIC\nTRANSFUSION\nREACTION\n\n\n« Within 1-6 hours\n\n« Preformed cytokines from storage of blood products\n\n« Fever, chills, malaise\n\n« Give acetaminophen; Leukoreduction of blood products\n\n\nTRANSFUSION RELATED\nACUTE LUNG INJURY\n(TRALI)\n\n\n« Within 6 hours\n« Activation of recipient’s neutrophils\n« Non-cardiogenic pulmonary edema\n\n\n« ARDS sxs - dyspnea, fever, diffuse infiltrates on CXR, hypotension\n\n\nTRANSFUSION\nASSOCIATED\nCIRCULATORY\nOVERLOAD (TACO)\n\n\n«Within 6-12 hours\n« Cardiogenic pulmonary edema due to large transfusion volume\n\n\n« Heart failure sxs with respiratory distress\n\n\nDELAYED HEMOLYTIC\nTRANSFUSION\nREACTION\n\n\n«Within 1-2 weeks\n\n« Anamnestic response (enhanced reaction of immune system to Ag\npreviously encountered) > often minor blood group antigens or Rh\n« Fever, jaundice, anemia, dark urine\n",
+      "fileName": {
+        "full": "transfusion-reactions.jpg",
+        "small": "transfusion-reactions.thumb.jpg"
+      }
+    },
+    "45": {
+      "id": 45,
+      "name": "Clotting Cascade",
+      "altText": "CLOTTING CASCADE\n\n« Formation of stable thrombus by fibrin\nclosely binding to platelet plug\n\n\nINTRINSIC PATHWAY\n\n« PTT measures Intrinsic pathway\nUnfractionated Heparin:\n\n« Thrombin (lla)\n\n« Factor Xa\n\nLMWH (Enoxaparin, Dalteparin):\n\n« Factor Xa > Thrombin\n\nFondaparinux:\n\n« Factor Xa > Thrombin\n\nDirect Thrombin Inhibitors:\n« Rivaroxaban, Apixaban\n\n\nEXTRINSIC PATHWAY\n\n« PT measures Extrinsic pathway\nWarfarin:\n« Inhibits Vitamin K epoxide reductase\n« Inhibits y-carboxylase on of clotting factors\n+“1972” > Factors XI, X, VII, Il and Protein C& S\n\nFibrinolytics:\n« Streptokinase\n«tPA (e.g. Alteplase, Reteplase, Tenecteplase)\n\n\nFibrinolytics\nAlteplase, Reteplase, Tenecteplase\n\n+ Recombinant tPAs activate plasminogen\n« 1 formation of plasmin from inactive plasminogen\n+ No access to percutaneous coronary intervention\n\n\nPlatelet Plug Formation\n\n« Endothelin - vasoconstriction\n\n« Exposed collagen binds Von Willebrand factor (vWF)\n\n« Platelet adhesion to vVWF via Gp1b receptor\n\n« ADP, TXA2, Ca2+ released\n\n« ADP binds P2Y12 receptor to express Gp2b/3a receptors\n« Platelet aggregation via Gp2b/3a receptors\n",
+      "fileName": {
+        "full": "clotting-cascade.jpg",
+        "small": "clotting-cascade.thumb.jpg"
+      }
+    },
+    "46": {
+      "id": 46,
+      "name": "Jugular Venous Pressure",
+      "altText": "JUGULAR VENOUS PRESSURE\n\n\n+a-wave: Atrial systole\n\n«x-descent: atrial relaXation\n\n« c-wave: tricuspid valve Closes\n\n«v-wave: filling of atria until tricuspid valve Opens\n«y-descent: atrial emptYing\n\n\nPathological Jugular Venous Pressure:\n» Jugular venous distention\n\n» Kussmaul sign\n\n» Hepatojugular reflex\n\n\n« Giant A-waves = Tricuspid stenosis or non-compliant\nright ventricle causes forceful atrial contraction\n\n« Cannon A-waves = AV dissociation, VFIB or 3° HB causes\natrial contraction against a closed tricuspid valve\n\n« Giant V-waves= tricuspid or mitral regurgitation\n\n« Prominent x-descent = cardiac tamponade.\n+ Prominent y-descent = constrictive pericarditis\n",
+      "fileName": {
+        "full": "jugular-venous-pressure.jpg",
+        "small": "jugular-venous-pressure.thumb.jpg"
+      }
+    },
+    "47": {
+      "id": 47,
+      "name": "Arrythmias I",
+      "altText": "ARRHYTHMIAS |\n\n\nNormal Sinus Rhythm\n+60-100 bpm\n\n« Regular rhythm\n«P:QRS=1:1\n\n\nSinus arrhythmia\n«HR 4 on inspiration\nand  on expiration\n\n\nSinus Bradycardia\n«<60 bpm\n\n\nSinus Tachycardia\n«>100 bpm\n\n\nAgonal Rhythm\n«<20 bpm\n« No pattern\n\n\nAsystole\n«Flat line\n\n\nPulseless Electrical Activity\n\n« NOT VFIB, VTACH, Agonal or Asystole\n\n« No palpable blood pressure in 1+ locations\n« Clinically dead\n\n\nAberrant Conduction\n« Irritable focus paces - can be atrial, junctional, or ventricular\n«No P waves\n\n\nAtrial Flutter\n\n« Atrial rate > 250 bpm\n\n«Variable ventricular rate\n\n« No discernible P waves- Saw toothed pattern\n\n\nAtrial Fibrillation\n« Atrial rate > 350 bpm\n\n«Irregularly irregular rhythm\n«Variable ventricular rate\n« No discernible P waves- fibrillation waves\n\n\nJunctional Escape Rhythm\n+40-60 bpm (from AV jxn node)\n« No P waves (b/c SA node fails to fire)\n\n\n« Accelerated Junctional Rhythm\n«1f>60 bpm\n\n\nSupraventricular Tachycardia\n«>150 bpm\n\n« No discernible P waves\n\n« Narrow QRS\n\n\nVentricular Tachycardia\n\n+>100 bpm\n\n« Wide QRS “PVC like”\n\n« AV dissociation\n\n« Monomorphic: Same complex shapes\n\n« Polymorphic: Different complex shapes\n«Nonsustained: <30 s\n\n«Sustained:>30s\n\n\nTorsades de Pointes\n\n«Ventricular rate > 150 bpm\n\n« Sinusoidal waves that wax and wane in\namplitude\n\n\nVentricular Fibrillation\n« Rapid unorganized and\nno discernible waves\n",
+      "fileName": {
+        "full": "arrythmias-i.jpg",
+        "small": "arrythmias-i.thumb.jpg"
+      }
+    },
+    "48": {
+      "id": 48,
+      "name": "Arrythmias II",
+      "altText": "ARRHYTHMIAS 11\n\n\nAberrant Beats (Premature contractions)\n« Irritable focus prematurely fires > can be atrial, junctional, or ventricular\n\n\nPremature Atrial Contraction\n« Early abnormal shaped P\nwave unlike other P waves\n« Followed by Normal QRS\n\n\nPremature Junctional Contraction\n« Early normal QRS\n« Inverted or absent P wave\n\n\nPremature Ventricular Contraction\n« Wide bizarre QRS complex\n\n« Unifocal: identical PVC’s\n\n« Multifocal: different PVC’s\n\n\nHeart Block\n\n1°Block\n« Consistent prolonged PR interval > 0.2 s (5 small boxes)\n\n\n2° Block (Mobitz I/ Wenckebach)\n\n« Progressively prolonged PR interval until QRS is dropped\n« Regularly irregular\n\n« Narrow QRS b/c originates above AV node\n\n« Foci from SA node to Bundle of His - normal, narrow QRS\n« Purkinje fibers > wide QRS\n\n\n3°Block\n\n« Complete AV dissociation\n\n« No relationship between P waves and QRS complexes\n« Atrial rate 60-100 bpm\n\n« Slow ventricular rate <40 bpm\n",
+      "fileName": {
+        "full": "arrythmias-ii.jpg",
+        "small": "arrythmias-ii.thumb.jpg"
+      }
+    },
+    "49": {
+      "id": 49,
+      "name": "Myocardial Infarction",
+      "altText": "MYOCARDIAL INFARCTION\n\n\n1. Look for ST changes, Q waves, T waves\n2. Localize infarct\n3. Ifinferior infarct, localize RCA vs LCX\n\n\nLocalization of Infarct:\n\nV1-Vv2 Septal\nV3-v4 Anterior\nV1-Vv4 Anteroseptal\n\n1,AVL, V5- V6 Lateral/ High Lateral\n11, 111, AVF Inferior\n\n\nReciprocal ST depression in\ninferior leads (IlI, AVF)\n\n\nV1-v4 LAD\n\nV5-V6 LCX/LAD\nI, AVL LCX\nII,I,AVF  RCA\n\nV7-V9 PDA —— **ST depression V1-V3 and tall R waves\n\n\nInferior Myocardial Infarction:\n\n« ST elevation in Il, I1l, AVF\n\n« Progressive Q wave development in Il, IIl, AVF\n«Reciprocal ST depression in AVL and |\n\n\nLocalization of Infarct:\n\n« V4R lead is most useful\n\n«Use RT sided leads\n\n« ST elevation in V4R suggests RV M|\n\n*40% of inferior infarctions are Right Ventricular\n\n\nInferior MI due to RCA:\n« ST elevation Il > 11\n\n« ST elevation V1 (V4R)\n« ST depression |, AVL\n\n\nInferior Ml due to LCX:\n+STelevation Il = Il\n\n« ST elevation |, AVL\n\n« ST depression V1-V3\n\n\nInferior MI Complications:\n«Bradycardia\n«Type 2 or 3AV block b/c RCA supplies SA & AV node\n« Preload sensitive\n« Treat hypotension with IV fluids\n« Nitrates are contraindicated\n",
+      "fileName": {
+        "full": "myocardial-infarction.jpg",
+        "small": "myocardial-infarction.thumb.jpg"
+      }
+    },
+    "50": {
+      "id": 50,
+      "name": "Ischemia EKG",
+      "altText": "ISCHEMIA EKG\n\n\nSigns of MI:\n\n*Qwaves\n\n« ST elevation\n\n«Peak orinverted T waves\n\n\n\n\nISCHEMIA EKG\n\n1. Look for acute EKG changes or evidence of prior MI\n(previous EKGs or serial EKGs are useful)\n2. Look at contiguous leads\n\n—\n\n\nSigns of MI:\n+Qwaves /\n\n+ ST elevation\n« Peak or inverted T waves\n\n\nQwaves\n\n« First negative deflection\n\n« Usually not present in V1-V3 (rightward leads)\n« Small “q” waves can be normal ( <3 small boxes/ 3 mm) - old Ml if no sxs'\n\n« Represents absence of electrical activity (dead tissue OR “stunned” myocardium)\n\n-\n\n\n\n« Septum depolarize from LT to RT\n\n\n« Infarcted myocardium is like a window for lead to view septal depolarization\n« Negative deflection because depolarizing wave is moving away\n\n\n« Larger “Q” waves (QR or QS) associated with size of infarct\n«“Q” wave >3 mm (>3 small boxes)\n« Sign of current or prior STEMI\n\n\nQ waves DDX:\n1) Myocardial Infarction\n2) Hypertrophic cardiomyopathy\n« Can cause sudden cardiac death\n3) Lead placement error\n\n\nST segment\n\n\n+ Compare J pointto PR-end of QRS and start of ST segment for ST depression/elevation\n« Convex or Concave?\n« Symmetric or Asymmetric?\n\n\nST elevation DDX:\n1) Acute Pericarditis\n« Widespread concave ST elevation\n« PR segment depression\n+20-50yo M\n« Leaning forward improves pain\n« Friction rub\n» Common causes: Coxsackie A or B virus\n« Dressler syndrome: Months s/p Ml\n\n\n2) Benign Early Repolarization\n+<50yo\n\n« Mild concave ST elevation\n& « Notched or slurred J point\n\n« Negative biomarkers\n\n\nT waves\n\n«<5mm (1 big box) in LIMB leads\n+<10mm (2 big boxes) in CHEST leads\n«Uprightin|, 11,V3-V6\n\n\nT waves DDX:\n\n1) Peaked T waves\n« Hyperkalemia\n« MI (early)\n«CVA\n\n\n2) T wave inversion\n- MI\n«CVA\n«PE\n«HTN\n« Hypertrophic cardiomyopathy\n\n\n« T wave inversion can be normal\n+VlorAVR\n+V1-V3in children and African Americans\n",
+      "fileName": {
+        "full": "ischemia-ekg.jpg",
+        "small": "ischemia-ekg.thumb.jpg"
+      }
+    },
+    "51": {
+      "id": 51,
+      "name": "Acute Coronary Syndrome",
+      "altText": "ACUTE CORONARY SYNDROME\n\n\nAcute Coronary Syndrome\n\n«Clinical presentation\n\n«ECG\n\n« Biochemical markers (e.g. Troponin)\n\n\nMyocardial Infarction\n\n«Rise and fall of troponin level\n« EKG changes\n\nOR\n\n« Symptoms of ischemia\n\n\nSymptoms of Ischemia:\n+Angina due to ischemia\n\n« Diaphoresis\n«Nausea\n\n+ Radiation of pain\n« Dyspnea\n\n« Fatigue\n\n\nAcute Coronary\nSyndrome\n\n\nPartial vessel occlusion\n\n\nUnstable Angina\n(-) Troponin\n\n« No myocyte necrosis\nEKG changes:\n\n«Ischemic symptoms\nOR\n\n« EKG changes\n\n\nNon-ST elevation Myocardial Infarction (NSTEMI)\n(+) Troponin\n« Subendocardial infact\n\nEKG changes:\n\n« ST depression (0.5 small box) in two contiguous leads\nOR\n\n« T wave inversion (1 small box)\n\n\nFull vessel occlusion\n\n\nST-elevation Myocardial Infarction (STEMI)\n(+) Troponin\n\n« Transmural infarct\n\nEKG changes:\n\n« ST elevation (1 small box) in two contiguous leads (e.g. V2 and V3)\n« May have Q waves\n",
+      "fileName": {
+        "full": "acute-coronary-syndrome.jpg",
+        "small": "acute-coronary-syndrome.thumb.jpg"
+      }
+    },
+    "52": {
+      "id": 52,
+      "name": "P-Wave",
+      "altText": "P WWES\n\n\nATRAL EXAPE BEAT oR SAPE RMTWM\n\n\n« Atrial automaticity foci escapes overdrive suppression to pace at its inherent rate.\nMay occur in :\n\n1) Sinus Block, resulting in an Escape Beat\n\n2) Sinus Arrest, resulting in an Escape Rhythm\n\n\n)PREMATRE ATRIAL BEAT\n\n\n« Irritable atrial automaticity focus\nspontaneously fires a single stimulus\n« Abnormal P wave shape\n\n\nNOO-CODICTED PREMATURE ATRIAL BEAT\n\n\n«Irritable atrial focus depolarization reaches AV Node\nwhile it is still refractory so it doesn’t conduct through.\n\n\nATRAL  BIGEMWT [TRAGEMIe\n\n\n« Premature atrial beat is coupled with\nevery sinus beat or every 2 normal cycles\n\n\nWANDERING, PACEMAKER\n\n\n« Irregular rhythm produced by pacing wandering\nfrom SA node to nearby atrial automaticity foci\nwith atrial rate less than 100bpm\n\n\nMUTITOLAL. ATRAL- “TACHCARDIA\n\n\n+ 3 or more atrial foci pacing and competing with each other\nwith atrial rate greater than 100bpm\n\n1) Atrial foci are ill and develop resistance to overdrive\nsuppression. showing signs of parasystole (entrance block)\n\n\n\n2) Seen in patients with COPD\n3) May be associated with Digitalis Toxicity\n\n\nPARDYHSMAL. AR —TACWCARDIA\n\n\n« Sudden rapid firing of irritable atrial focus overdrive\nsuppressing SA Node at rate of 150-250 bpm\n\n\nPARCA(SMAL. ATRIAL —TACWHLARDIA w| W BLDce\n\n\n2 P’ waves for every QRS complex b/c AV node blocks\nconduction of every other atrial stimulus\n*Suspect Digitalis excess or toxicity é\n\n\nWERTED P-wAVES)\n\n\n+Results from retrograde\ndepolarization of a junctional focus\n+May occur in any of the following:\n\n\nPREMATURE  PRCTOODAL BEAT\nORCTIONAL. ZCARE. BEAT\nTOROREMAL. YCTIORAL. “TACHK(CARDAY\nWRCTIOPAL BIGEMINT ‘-:z\\eaw-rf\n\n\nND P-wANES\n\n\nATRIAL FERQALATION\n\n\n«Irregularly irregular\n\n\n+ Continuous rapid firing of multiple parasystolic irritable atrial foci\nand no impulse fully depolarizes both atria.\n\n» Occasional impulse initiates QRS complex\n\nisk factors: HTN & CAD\n\n+ “Holiday heart” and can lead to stroke\n\n\n\n\n\n« Extremely irritable atrial\nautomaticity focus fires at rate\nof 250-350 bpm\n\n« TXT: catheter ablation\n\n\nASEERANT VENTRICULAR CodDTion\n\n\n«Widened QRS complex resulting from\npremature depolarization stimulus\nconducting through one bundle branch.\n+Delayed conduction in other bundle\nbranch b/c it is still in refractory\n\n\nFWDERED QRS [ABCRRANT VENTRICUIAR ConDucTiond\nA ccewR W PREMATURE ATRIAL B2AT\n\n\nIRNCTIONAL [VEXTROAAR EXAPE B2AT Rit T4\n\n« Results from conduction issue from above (e.g. sinus arrest, sinus block,\n\natrial foci failure, complete conduction block at AV node)\n\n1) if junctional focus, beats @ inherent rate of 40-60 bpm\n\n2) If ventricular focus, beats @ inherent rate of 20-40 bpm\nPREMATURE  yoCTionAL BsAT\n\n«Irritable focus in AV junction prematurely fires\n\n«Inverted P wave b/c atria is depolarized backwards from AV node\n\nPARDI(SMAL.  paCTIOAL TACRCAROA\n» Sudden rapid pacing of irritable junctional focus @ 150-250 bpm\n\n\nWHAT MAES ATRAL AUTDMATIUATY TbCL MORE |RRYTABLE 7\n\n\nADRENERGIC WBSTAMCES\nEpinephrine and Norepinephrine\n\n B1 adrenergic stimulants (ie. Caffeine,\ncocaine) increase release of Epi and NE\n\n\nDIGITALIY EKeESS\n\n« Atrial focus irritability and AV Node conduction block\n+ Exacerbated by low serum K+\n\n\nWHAT MAKES ATRAL AUTDMAMIUTY Fbcy LESS IRRYTASLE\n\n« High serum K+ concentrations severely DEPRESS SA Node\n&supraventricular foci activity\n",
+      "fileName": {
+        "full": "p-wave.jpg",
+        "small": "p-wave.thumb.jpg"
+      }
+    },
+    "53": {
+      "id": 53,
+      "name": "PR-Interval",
+      "altText": "Normal PRinterval =0.12 - 0.2 sec\n\n\n\n\nWOLFF - PARKINSOR - (MTE  SYADROME\n\n\n*Younger pt\n«Accessory/ pathway Bundle of Kent connects atria and ventricles\n\n\n« Causes ventricular pre-excitation\n« Produces delta wave and wide QRS\n+Can lead to Paroxysmal Tachycardia (SVT)\n\n\n) LR - GANDG - LEVINE SINDROME\n\n\n« James bundle extends from anterior internodal\ntract directly to the His bundle bypassing the AV node\n« AV node typically acts as a filter of rapid\nsupraventricular rates\n\n«Rapid atrial rates (e.g. atrial flutter) transmitting to\nthe His Bundle and driving rapid ventricular rates\n\n\nPROLONGED PR\n\n« Affected by vagal tone\n\n\n1° AV BLOCK\n\nLengthens delay between atrial and ventricular depolarization\n Longer than 0.2 seconds/ 1 large square\n\n Consistently lengthened PRinterval\n\n\n2° M BLock werckgBACH (wosiTz TR 1)\n\nRegularly irregular\n\nAV block occurs in the AV node\n\nProgressive blocking of AV node conduction gradually lengthens PR interval\n) successive cycles until QRS is dropped for a cycle (i.e. Total block)\n\nP:QRS ratio of 3:2, 4:3, or 5:4\n\nNarrow QRS b/c usually originates above AV node\n\nUsually asymptomatic\n\n\n22 A RLDCK MOBMTZ (voavz e 2)\nConstant normal PR interval\nP wave is always punctual, never premature P’ waves\nBlock of the His bundle or one of the bundle branches\nTotal block of atrial depolarizations before producing QRS complex\nP:QRS ratio of 2:1 or 3:1\n'Advanced Mobitz has P:QRS ratio of 4:1 or 5:1\n- Syncope may occur due to slow ventricular rates\n\n\n3\" AV BLock\n\n\n« Complete block of AV conduction\n\n« AV dissociation involves sinus paced atrial P wave rateand\ncompletely independent focus paced ventricular QRS rate\n\n«Can be caused by Lyme disease\n\n«If block is at upper AV node, then junctional focus paces @\ninherent rate of 40-60 bpm with normal appearing QRS complexes\n\n\n«If blockis at His bundle or below, then ventricular focus paces @\ninherent rate of 20-40 bpm with wide Pre-ventricular AN\ncomplex(PVC)-like QRS complexes\n\n\nSTOKES- ADAMS SYDRoME]\n\n+3° AV block with ventricular rate so slow that blood flow to brain is significantly\nreduced and leads to loss of consciousness (syncope)\n\n\n«Right bundle branch block\n\nST elevationinV1,V2,V3\n\n« Susceptible to deadly arrhythmias\n\n« Can cause sudden death in individuals without heart disease\n",
+      "fileName": {
+        "full": "pr-interval.jpg",
+        "small": "pr-interval.thumb.jpg"
+      }
+    },
+    "54": {
+      "id": 54,
+      "name": "QRS Complex",
+      "altText": "Normal QRS =<0.12 sec\n\n\nPREMATRE EWTRIGCAAR. CowTRACT (00 (P\n\n. Irritable ventricular focus fires producing a giant QRS\n\n«Wide and high amplitude QRS complex\n\n« Usually originates in the ventricular wall similar to averrant ventricular conduction\n\n« Compensatory pause after PVC b/c normal SA node pacing transmits to ventricles that are still in refractory\n\n\nVENTRICULAR.  BIGEMINY [TRIGEMINY | QUADRIGEMINY\n\n\n«Very irritable ventricular automaticity focus fires a stimulus\ncoupled to one or more normal cycles\n\n\nMITRALVALVE PROLAPSE. (BARLOW SADRSE)\n\n\n« Mitral valve billows during ventricular systole, which pulls on chordae & papillary muscles\n« Causes localized stretch and ischemia\n\n« Irritates local ventricular foci\n\n« Runs of ventricular tachycardia & multifocal PVC’s\n\nMultifocal PVC’s = each ventricular focus produces own PVC\nUnifocal PVC’s = PVC’s emanate from same irritable ventricular focus\n\n\n\n\n« Hypoxia\n« Hypovolemia\n« Hypokalemia\n\n\n« Cocaine causes coronary spasm, making\nventricular foci hypoxia and very irritable\n« Pathology (e.g. mitral valve prolapse,\nmyocarditis, etc.)\n\n\n\n\n« Irritable ventricular focus passes rapidly @ 150-250 bpm with PVC-like complexes\n« May signify coronary insufficiency or other causes of cardiac hypoxia\n\n\n« Greater than 0.14 seconds\n\n\nTOSIOD REAT:\n+ Proceeds to AV node but meets ventricular\ndepolarization from ventricular focus\n\n\nCAPTRE REAT\n« Proceeds through ventricular conduction\nproducing normal QRS\n\n\nA DIsspasmon\n Sinus node paces atria independently of ventricular focus\n Occasional atrial depolarization\n\n\n) VENTRICULAR  PARAS(STOLE\n\n\n« Parasystolic focus (suffers from entrance block and can’t be overdrive suppressed) _\n«Not rritable ventricular foci\n+PVC coupled to long series of normal cycles b/c parasystolic focus paces at own inherent rate & PVC pokes through dominant sinus rhythm\n\n\nWDE QRS\n\n) ABERRAIT \\ENTRICULAR. COBUCTION\n. slightly widened QRS complex resulting from premature depolarization\nconducting through one bundle branch while other is still in refractory\n«Seenin:\n\nLy SUPRAVESTRICULAR. TACH(CARDA\n- Irritable atrial or junctional focus paces\n+Less than 0.14 seconds\n\nBPREMATURE ATRIAL BEAT\n« Irritable atrial automaticity focus\n\nIy PREMATURE. JoncTiomAL REAT\n«Irritable junctional automaticity focus\n\n\n\n\n«Independent depolarization of right and left ventricle resulting in two out of\nsync QRS complexes that combine to form wider complex\n\n« If normal QRS duration, then it is an incomplete bundle branch block\n\n+ Greater than 0.12 sec\n\n« Larger deflections occur b/c there are no simultaneous depolarize game waves\n&will be greatest in chest leads\n",
+      "fileName": {
+        "full": "qrs-complex.jpg",
+        "small": "qrs-complex.thumb.jpg"
+      }
+    },
+    "55": {
+      "id": 55,
+      "name": "ST-Segment",
+      "altText": "ST ELEVATION\n\n\nTransmural ischemia\n\n\nACUTE IVWRY | INFARCTION\n\n\nPRINZMGITAL'S ANGINA\n\n\nTransient ST elevation without infarction\n\n\n) BRUGADA SHIWDROME\n\n\n+Autosomal dominant\n\n« Sudden cardiac death in nearly 50% of young individuals (Asian males) without heart disease\n« Usually a familial condition caused by dysfunctionalc cardiac Na+ channels\n\n«Marked by right bundle branch block with ST elevation in V1,V2,V3\n\n« risk of ventricular tachyarrhythmias\n\n\n\n) RERICARDITS\n\n\n« Inflammation of pericardium due to virus, bacteria, cancer,\nmyocardial infarction, or other source of inflammation\n\n« Diffuse ST elevation\n\n«Not localized to 1 area\n\n\nFlat or concave ST elevation\nST segment or T wave may be elevated off baseline\n\n\nST DePressIon\n\n\nSubendocardial ischemia\n\n\nSWEENDOCARDIAL.  INFARCTION)\n\n\n+Infarction that does not extend through the full thickness of the left ventricle\n« Considered a “non-Q-wave” infarction\n\n\nDIGITALIS\nHas a parasympathetic effect\nRetards conduction through AV node\nEnhanced by low serum potassium\n\n\nDeriaus BxEsS\n\n\n«Irritable supraventricular foci\n+Resulting in premature atrial &\njunctional beats\n\n+AV block\n\n\nDIGTALS TouaTY\n\n\n« Irritable ventricular foci\n\n« May spontaneously emit PVC’s\n«Ventricular tachy-arrhythmias or\nventricular fibrillation\n\n\n“WANE IWVERSION\n\n\n« Most pronounced in chest leads\n\n\n\\scHeEMA\n\n\n« Decreased blood supply from coronary arteries\n« May not always indicate infarction\n« May cause angina - transient T wave inversion\n\n\nLEFT VeNTRICULAR WHRERTROPHY\n\n\n+ Large QRS deflections in chest leads b/c hypertrophy in left ventricle\nmeans more vectors are pulling downward and to the left\n\n\n«Results in:\n\n1) Asymmetrical T wave inversion\n2) Deeper S wave in V1-V3\n\n3) Larger Rwave in V4-V6\n\n\n) WELLENS  SYINDROME\n\n\n+Marked T wave inversion in V2 & V3\n+ Suggests stenosis of anterior descending coronary artery\n\n\nPULMONARY EMBOLISM\n\n\nLarge Swavein lead |\n\nLarge Qwave in lead Ill\n\nT wave inversion in lead Ill, V1-V4\n\nST depression in lead Il\n\nMay cause right bundle branch block\n\n\n\n\nIssue that 1s necrotic thus no depolarizations occur\n« (+) electrode @ necrotic tissue only registers depolarizations moving away\nfrom it and records a negative wave\n\n\n\nQ-WAVE\n\n\n- Diagnostic for infarction and indicates necrotic tissue\n«If> 1 small square (0.04 seconds) or 1/3 of QRS amplitude = significant\n\n\n«Scan all leads (except AVR) for Q waves:\n1) Lateral Leads (e.g. 1 and AVL) = Lateral infarct\n2) Inferior Leads (e.g. II, Ill, AVF) = Inferior infarct\n3) Chest leads:\n- V1-V4 = Anterior infarct in left ventricle\n-V1,V2 = antero-septal\n-V3,V4 = antero-lateral\n\n\n\nACOTE ANTERIOR. INFARCTION\n+Q waves\nST elevation\n+VL, V2\n\n\nACUTE RSTERIDR  WSFARCTION\n\n«Large Rwaves\n+ ST depression\n+V1, V2\n\n\nW PERTROPHY\n\n\nATRIAL ENLARGEMENT\n\n\nDiphasic P wave seen in lead | (i.e. directly over atria)\n\n\nRight atrial enlargement\n« Larger initial wave\n\n\nLeft atrial enlargement\n«Larger terminal wave\n\n\nRIGHT VENTRICOLAR WYPERTROPHY\n\n\n« More vectors pulled to the right where lead V1 is located\n«More (+) and larger R wave\n",
+      "fileName": {
+        "full": "st-segment.jpg",
+        "small": "st-segment.thumb.jpg"
+      }
+    },
+    "56": {
+      "id": 56,
+      "name": "QT-Interval",
+      "altText": "T\n\n\nLonG, GT IUDRDME\n\n\n+ Congenital and Acquired forms\n\n+QTinterval is longer than 1/2 the cardiac cycle\n\n6 known forms of hereditary long QT syndrome\n\n+ Predisposes patient to ventricular arrhythmias\n(e.g. Torsades de Pointes and R on T phenomenon)\n\n\nCongenital Long QT Syndrome:\n« Romano-Ward Syndrome:\n« Autosomal dominant\n- No deafness\n« Jervell & Lange Nielsen Syndrome:\n« Autosomal recessive\n« Sensorineural deafness\n\n\nR-on-T Puenomcnon\n\n\n+PVC falls on a T wave during a vulnerable period\n+ Can trigger dangerous arrhythmias (e.g. Torsades de Pointes)\n+ Especially under hypoxia or hypokalemia conditions\n\n\nQUIVIDINE  EFFECTS\n\n\n« Retards atrial & ventricular depolarization & repolarization\nby affecting sodium & potassium ion channels\n+ May lead to Torsades de Pointes\n\n\n“TORSADES DE PoOInTES\n\n\n«Type of ventricular tachycardia @ 250-350 bpm\n«Caused by:\n\n1) Hypokalemia & Hypomagnesemia\n\n2) Medications blocking K+ channels (e.g. Quinidine)\n3) Congenital abnormalities (e.g. Long QT syndrome)\n\n\nHYPOGLYCEMIA\n\n\n« Calcium is involved in AV conduction\n\n\n\n\nHRERGLYCEMIA\n\n\nAccelerates ventricular depolarization & repolarization\n\n\n\n\nW PorALEMA\n\n\nU wave: signifies delayed ventricular repolarization\nCauses ventricular foci irritability & may lead to ventricular\n\n\narrhythmias\n« Increases toxic effects of digitalis excess\n\n\nSXTREME  HHROKALEMIA\n\n\nT wave flattens so much it becomes inverted\nMore prominent U wave appears\n\n\n\n\nHPERKALEMIA\n\n\n«Ventricular depolarization takes longer\n« QRS widens\n\n+ P wave flattens\n\n+ Shortened QT interval\n\n\nEXTREME W(PERKALEMIA\n\n\nPwave vanishes\n",
+      "fileName": {
+        "full": "qt-interval.jpg",
+        "small": "qt-interval.thumb.jpg"
+      }
+    },
+    "57": {
+      "id": 57,
+      "name": "Cardiac Action Potentials",
+      "altText": "CARDIAC ACTION POTENTIALS\n\n\nMYOCARDIAL ACTION POTENTIAL\n\n« All cardiac myocytes except those in SA and AV node\n\n\nPACEMAKER ACTION POTENTIAL\n\n+SAand AV node\nSpeed of conduction:\n1. His-Purkinje\n\n2. Atria\n\n3. Ventricles\n4.AVnode\n\n\nCLASS IA-C\n\n\n1\nPHASS D! RAPID DEPOLARIZAMON\n«Na+ INFLUX\nPAASE |\\ i EARLY REPILARIZATION\n* K+ EFFLUX\nPHAsS 2: PLateny\n« Ca2+ INFLUX balances K+ EFFLUX\n\n\nCLASSIA\nCLASS il\n\n\nPHASE 3 LaTe RepLARZATION\n+ K+ EFFLUX\n\n\nPHASE 48 DipsoLe\n+ K+ EFFLUX (high K+ permeability)\n\n\nCLASS IV\nADENOSINE\n\n\nPAASE D! ceroLarizamon\n\n+ Ca2+ INFLUX (L-type channels)\n« Fast voltage gated Na+ channels are inactivated b/c\nRMP is -60mV instead of -85mV\n\nPHASE 2! revoLprizamond\n« K+ EFFLUX\n\n\nCLASS Il\n\nCLASS IV\nADENOSINE\n\n\nPAASE 4 piesTolE\n\n« Funny current of mixed Na+ INFLU\n+Responsible for AUTOMATICITY\n+Slope of phase 4 determines heart\n",
+      "fileName": {
+        "full": "cardiac-action-potentials.jpg",
+        "small": "cardiac-action-potentials.thumb.jpg"
+      }
+    },
+    "58": {
+      "id": 58,
+      "name": "Contractility",
+      "altText": "CONTRACTILITY\n\n\n«Intercalated discs between cardiac myocytes contain desmosomes that link adjacent cells mechanically\n« Gap junctions link cardiac myocytes electrically, allowing for self-propagating action potentials\n«SNS and PNS project autonomic neurons to cardiac myocytes to *modulate* electrical activity and contractile force\n\n\nB1 adrenergic receptor stimulation (e.g. catecholamines)\n\n\nProtein Kinase A\n\n\nPhosphulamba;\n« Normally inhibits SERCA pump\n\n\nUninhibited re-uptake of\nCa2+ via SERCA pump\n\n\nCardiac relaxation while also\nincreasing amount of calcium stored\nin SR for subsequent contractions\n\n\nProtein Kinase A\n\n\nL-type Ca2+ channels\n\n\nCa2+induced Ca2+ release:\n«increase in [Ca2+] near RYR2 of\nsarcoplasmic reticulum opens RYR2 channel\n\n\nSarcoplasmic reticulum releases Ca2+:\n«Increased intracellular Ca2+\n\n\nCardiac contractile force\n« Ca2+ binds Troponin C\n\n\nIncreased contractility:\n\n« Catecholamines\n\n« Increased intracellular Ca2+\n\n« Decreased activity of Na+/Ca2+ exchanger (decreases Ca2+ pumped\n« Decreased activity of Na+/K+ pump (increases intracellular Na+)\n",
+      "fileName": {
+        "full": "contractility.jpg",
+        "small": "contractility.thumb.jpg"
+      }
+    },
+    "59": {
+      "id": 59,
+      "name": "Left Ventricle Pressure Volume Loop",
+      "altText": "LEFT VENTRICLE PRESSURE VOLUME LOOP\n\n\nVentricular ejection\n\n\nReduced ejection:\nVentricle ejects at slower rate\n\n\nMax ejection:\nVentricle ejects blood into aorta\n\n\nEnd Systolic Volume\n\n\nAortic valve closes |\n\n\nsovolumetric relaxation\nDecreasing\nventricular\npressure\n\n\nMitral valve opens\n\n\nVentricular filling\n\n\nRapid phase:\nAtrial pressure exceeds\nventricular pressure\n\n\nSlow phase:\nAtrial & ventricular\npressure near equilibrium\n\n\nEnd Diastolic Volume\n\n\nAtrial systole\n\n\nMitral valve closes\n\n\nIsovolumetric contraction\nIncreasing\nventricular pressure\nprior to contraction\n*Highest 02 consumption\n\n\nAortic valve opens\nVentricular pressure > aortic pressure\n\n\n1. Isovolumetric contraction\n2. Max ejection\n\n3. Reduced ejection\n\n4. Isovolumetric relaxation\n5. Rapid filling\n\n6. Slow filling\n",
+      "fileName": {
+        "full": "left-ventricle-pressure-volume-loop.jpg",
+        "small": "left-ventricle-pressure-volume-loop.thumb.jpg"
+      }
+    },
+    "60": {
+      "id": 60,
+      "name": "Wiggers' Diagram",
+      "altText": "WIGGERS’ DIAGRAM\n\n\nAortic Stenosis\n\n\nMitral Stenosis\n\n\nMitral Regurgitation\n\n\nAortic Regurgitation\n\n\nJugular Venous Pressure\n\nawave: Atrial contraction (absent in A FIB & pronounced in tricuspid stenosis & “Cannon a wave” in heart block)\ncwave: RV Contraction & closed tricuspid valve\n\nx descent: atrial relaXation during rapid ventricular ejection (reduced in tricuspid regurgitation and right heart failure)\nv wave: Venous filling of RT atrium increases pressure & tricuspid opens (pronounced in tricuspid regurgitation)\n\ny descent: emptYing of RT atrium into RV (pronounced in constrictive pericarditis & absent in cardiac tamponade)\n",
+      "fileName": {
+        "full": "wiggers-diagram.jpg",
+        "small": "wiggers-diagram.thumb.jpg"
+      }
+    },
+    "61": {
+      "id": 61,
+      "name": "Aortic Stenosis",
+      "altText": "AORTIC STENOSIS\n\n\n« Narrowed opening between left ventricle and ascending aorta\n\n« Aortic stenosis leads to increased left ventricular pressure\n\n« Increase in left ventricular pressure leads to decreased stroke volume\n« Decreased stroke volume leads to increased end systolic volume\n",
+      "fileName": {
+        "full": "aortic-stenosis.jpg",
+        "small": "aortic-stenosis.thumb.jpg"
+      }
+    },
+    "62": {
+      "id": 62,
+      "name": "Aortic Regurgitation",
+      "altText": "AORTIC REGURGITATION\n\n\n« Leaking of blood from ascending aorta into the left ventricle due to an abnormal aortic valve\n\n« Acute volume overload of the left ventricle leads to an increase in end diastolic volume (EDV) or preload\n« Increased preload (i.e. EDV) leads to an increase in stroke volume\n\n+ “BEAR” = caused by bicuspid aortic valve, endocarditis, aortic root dilation (#1), rheumatic fever\n\n+ Bounding pulse, pulsating nail bed, head bobbing, widened pulse pressure\n",
+      "fileName": {
+        "full": "aortic-regurgitation.jpg",
+        "small": "aortic-regurgitation.thumb.jpg"
+      }
+    },
+    "63": {
+      "id": 63,
+      "name": "Mitral Stenosis",
+      "altText": "MITRAL STENOSIS\n\n\n+ Narrowing of opening between left atrium and left ventricle\n\n« Mitral stenosis leads to increased left atrial pressure - possible complication of AFIB w/ mural thrombi\n« Increased left atrial pressure impairs left ventricular filling and leads to decreased end diastolic volume\n» Decreased end diastolic volume leads to decreased stroke volume\n",
+      "fileName": {
+        "full": "mitral-stenosis.jpg",
+        "small": "mitral-stenosis.thumb.jpg"
+      }
+    },
+    "64": {
+      "id": 64,
+      "name": "Mitral Regurgitation",
+      "altText": "MITRAL REGURGITATION\n\n\n« Leaking of blood from left ventricle back into left atrium due to improper closure of mitral valve\n\n« Decreased end systolic volume because of regurgitation of blood back into left atrium during systole\n«Increased left atrial volume increases ventricular filling and increased end diastolic volume\n\n« Increased end diastolic volume leads to increased stroke volume\n\n\nIsovolumetric contraction is\ndisrupted b/c blood leaks from\nventricle to atria during contraction\n",
+      "fileName": {
+        "full": "mitral-regurgitation.jpg",
+        "small": "mitral-regurgitation.thumb.jpg"
+      }
+    },
+    "65": {
+      "id": 65,
+      "name": "Cor Pulmonale",
+      "altText": "COR PULMONALE\n\n\nHistory\n\n« Chest pain\n\n«Cough\n\n« Dyspnea on exertion\n\n« Fatigue ‘\n\n\nPhysical Exam\n\n« Adventitial sounds\n\n» Cyanosis\n\n- Distended neck veins\n\n» Increase in chest diameter\n« Pronounced P2\n\n« Tachvpbnea\n\n\nPulmonary Hypertension\nElevation in blood pressure in the lung\ncommonly due to:\n\n« Pulmonary embolus\n\n«COPD\n\n« Interstitial lung disease\n\n« Obstructive sfeep apnea\n\n\nChange in structure and\nfunction of right ventricle\n\n\nLabs & Diagnostics\n\nChest x-ray\n«Right ventricular enlargement\n« Enlargement of central pulmonary arteries\n\n\nComplete Blood Count\n\n« Polycythemia due to chronic hypoxia that\nstimulates erythropoietin production (=\n\n\nECHO i\n. Elevated pulmonary artery pressure and\n\nincreased thickness of right ventricular wall\n\nEKG\n» Increase in P wave amplitude in Lead II, I, avF\n= P-pulmonale pattern\n\n\nManagement\n\n« Treat underlying pulmonary disease\n« Improve oxygenation\n«Increase right ventricle function by reducing\n\n\npulmonary resistance\n\n\nChange in structure and\nfunction of right ventricle\n",
+      "fileName": {
+        "full": "cor-pulmonale.jpg",
+        "small": "cor-pulmonale.thumb.jpg"
+      }
+    },
+    "66": {
+      "id": 66,
+      "name": "Heart Failure",
+      "altText": "Pathophysiology:\n\n« Chronic v Effective Circulating Volume (b/c low cardiac output)\n« Chronic activation of RAAS and SNS\n\n« Chronic Na+/ H20 retention\n\n« 4 Cardiac output > Kidneys + ADH - Edema\n\n\n« Neurohumoral Drive:\n+ Renin, Ang Il Aldosterone\n« + Catecholamines\n«+ADH\n« 1 Natriuretic peptides\n\n\nAcute Decompensated Heart Failure:\n« Nitroprusside\n\n«Nitroglycerin\n\n« Neseritide\n\nP 1. T S J—\" —\n\n\nAvoid:\n\n«Digoxin\n\n«Ivabradine\n\n+B Blockers (w/ or w/o ISA)\n« Calcium channel blockers\n\n\nStage A:\nAt risk\n+ACEI/ ARB\n\n\nStage B:\n\n+Structural changes\n« B Blocker\n\n\nStage C:\n« Symptoms\n« Loop Diuretic\n\n\n+Aldosterone antagonist\n« Digoxin\n\n+Isosorbide Dinitrate/ Hydralazine\n\n+ vabradine (if @ max @ blocker dose)\n\n+ Sacubitril/ Valsartan (if remove ACEI/ARB first)\n\n\nStage D:\n\n« (+) Inotropic agents\n\n\nHeart Failure\n\n\n¥ Cardiac Output\n\n\n1+ RAAS\n\n\n4+ Ang Il, Aldosterone, + Catecholamines\n\n\n« Kidney\n\n« 1 Aldosterone\n\n« 4 Na+/H20 retention\n=1 Preload\n\n\n+Heart\n\n+Myocardial Fibrosis\n«Fibroblast Proliferation\n= Cardiac Remodeling\n\n\n«Blood Vessels\n«Vasoconstriction\n\n« 1 Afterload\n\n=y SVand CO\n\n\n«+ Blood Vessels\n\n- Endothelial dysfunction\n« Inflammation\n«Vascular Fibrosis\n\n+ Prothrombotic events\n=Vascular Injury\n\n\nCARDIAC REMODELING\n\nPrevent or ¢ cardiac remodeling:\n«ACEI/ ARB\n\n+B Blocker\n\n« Aldosterone antagonists\n\n\n+ Preload\n\n\n« Peripheral Edema\n« Pulmonary Edema\n« » Wall stress » Systolic Dysfunction\n\n\n4 Natriuretic Peptides\n(ANP & BNP)\n\n\n+ Bradykinin, Substance P\n\n\nANP & BNP:\n\n+Respond to 4 blood volume and + tension\n« ¥ Na+ reabsorption\n\n« Dilates renal afferent arteriole & constrict efferent arteriole > Diuresis\n« Provides “aldosterone escape”\n\n\n« Neprilysin degrades into inactive metabolites\n",
+      "fileName": {
+        "full": "heart-failure.jpg",
+        "small": "heart-failure.thumb.jpg"
+      }
+    },
+    "67": {
+      "id": 67,
+      "name": "Diastolic Heart Murmurs",
+      "altText": "DIASTOLIC HEART MURMURS\n\n\n« Always pathological\n\n\n« Aortic Regurgitation\n« Decrescendo blowing diastolic murmur (Austin Flint murmur)\n« Loudest @ aortic valve area -\n« Radiates to apex\n« Pulsus bisferiens, Corrigan pulse, Quinche pulse, head bobbing\n\n\n« Pulmonic Regurgitation\n« Similar to Aortic Regurgitation\n« Loudest @ aortic valve area\n« 2 with inspiration\n« Usually caused iatrogenically by pulmonic stenosis repair\n\n\n« Mitral Stenosis\n« Opening snap\n« Rumbling diastolic murmur\n« Loudest @ mitral area\n\n\n« Seen in immigrants (think untreated Streptococcus pyogenes infection) or in pregnancy\n\n\n« Tricuspid Stenosis\n« Similar to Mitral Stenosis\n« Loudest @ tricuspid area\n\n\nCONTINUOUS MURMURS\n« Patent Ductus Arteriosus (PDA)\n« Systolic + Diastolic\n« Machine like murmur\n« Loudest @ pulmonic area\n",
+      "fileName": {
+        "full": "diastolic-heart-murmurs.jpg",
+        "small": "diastolic-heart-murmurs.thumb.jpg"
+      }
+    },
+    "68": {
+      "id": 68,
+      "name": "Systolic Heart Murmurs",
+      "altText": "SYSTOLIC HEART MURMURS\n\n« Can be physiological or pathological\n\n\n« Aortic Stenosis\n« Systolic crescendo decrescendo murmur\n« Loudest @ aortic area, radiates to carotids\n«Seen in Turner syndrome, and Aortic coarctation\n\n\n« Pulsus parvus et tardus: weak and small carotid pulses w/ delayed peak\n\n\n« Similar murmur in aortic dissection\n« Paradoxical splitting S2\n«S4 gallop\n\n\n« Pulmonic Stenosis\n« Similar to Aortic stenosis\n\n« Loudest @ pulmonic area\n« Wide S2 splitting\n« Seen in younger patients with a congenital lesion\n« Hypertrophic Obstructive Cardiomyopathy (HOCM)\n« Systolic crescendo-decrescendo murmur (can be holosystolic)\n« Classically seen in healthy young athlete w/ syncope and family history of sudden cardiac death\n« Differentiated from aortic stenosis by Valsalva maneuver & standing\n« Pulsus bisferiens: sudden quick rise of pulse followed by slower longer rise (biphasic pulse)\n\n\n« Mitral valve prolapse (MVP)\n« Mid systolic click due to tensing of chordate tendineae\n« Crescendo murmur\n« Loudest @ apex (mitral area)\n« Seen in otherwise healthy young females and Marfans\n\n\n« Mitral Regurgitation\n« Holosystolic high pitched blowing murmur\n« Loudest @ apex (mitral area)\n« Radiates to axilla\n« Tricuspid Regurgitation\n« Similar to Mitral regurgitation\n« Loudest @ tricuspid area (LLSB)\n« Associated with Pulmonary Hypertension\n«Seenin IV drug users\n\n\n« Ventricular Septal Defect (VSD)\n« Holosystolic harsh sounding murmur\n« Loudest @ tricuspid area\n\n\n“\"Large VSD murmurs have lower intensity than small VSD murmurs\n\n« Atrial Septal Defect (ASD)\n« Systolic ejection murmur due to + flow across pulmonic valve\n« Fixed splitting of S2\n",
+      "fileName": {
+        "full": "systolic-heart-murmurs.jpg",
+        "small": "systolic-heart-murmurs.thumb.jpg"
+      }
+    },
+    "69": {
+      "id": 69,
+      "name": "Heart Sounds",
+      "altText": "HEART SOUNDS\n\n\nS1= mitral/tricuspid valve close\n+Best heard at mitral area\nS2 = aortic/pulmonic valve close\n« Best heard at LT upper eternal border\nS3 = rapid filling of ventricle (blood oscillating)\n« Best heard at apex w/ ptin LT lateral decubitus position\n« “Ventricular gallop”\n« Associated with dilated cardiomyopathy or heart failure w/ v EF\n« Can be physiologic (e.g. in kids, pregnancy)\n\nS4=blood filling against stiff ventricle\n« Best heard at apex w/ ptin LT lateral decubitus position\n« “Atrial gallop”\n« Associated with hypertrophic cardiomyopathy or diastolic dysfunction\n« S4 gallop is never normal\n\n\nPhysiologic splitting\n\n\n« Heard during inspiration due to drop in intrathoracic\npressure that results in increased venous return\n«Increased blood volume causes delayed closure of\npulmonic valve\n\n\nParadoxical splitting\n\n\n«Due to delay aortic valve closure\n\n(e.g. Aortic stenosis, left bundle branch block)\n«Only heard during expiration and split eliminated paradoxically\non inspiration (due to physiologic splitting mechanism)\n\n\nWide splitting\n\n\n« Due to delay in closure of pulmonic valve\n« Conditions that delay RV emptying exaggerates normal splitting\n(e.g. Pulmonic stenosis, RBBB, Pulmonary HTN)\n\n\nFixed splitting b\n\n« Always present (unaffected by respiration)\n\n« Conditions that increase RA and RV blood volume\n(e.g. ASD, VSD, LT-RT shunt, RV failure)\n\n\nPN e\nInspiration:\n\n« louder RT sided murmurs (due to increased venous return) - “Carvallo’s sign”\n«e.g. tricuspid or pulmonic valve\n\n\nExpiration:\n« louder LT sided murmurs (due to increased pulmonary return)\n« e.g. mitral or aortic valve\n\n\nAortic area\n(RT upper sternal border)\n2nd intercostal space\n\n\nPulmonic area\n(LT upper sternal border)\n\n\nErb’s point: Aortic valve area\n(LT sternal border)\n*Best for hearing splitting\n\n\nTricuspid area\n(LT lower sternal border)\n\n\nMitral area\n\n(LT midclavicular)\n5th intercostal space\nApex of heart\n",
+      "fileName": {
+        "full": "heart-sounds.jpg",
+        "small": "heart-sounds.thumb.jpg"
+      }
+    },
+    "70": {
+      "id": 70,
+      "name": "Congenital Heart Diseases",
+      "altText": "CONGENITAL HEART DISEASES\n\n\nCYANOTIC (o7 shunts)\n\n\nTetralogy of Fallot:\n\n« Most common cause of early cyanosis\n\n\n« PROV: Pulmonary stenosis, RT ventricular hypertrophy, Overriding aorta, VSD\n« Chest X-RAY = boot-shaped heart\n\n\nTricuspid Atresia:\n« Requires PFO/ASD +VSD\n\n\nRT Ventricular Outflow Tract Obstruction: -\n«Mild = Pulmonary stenosis, Severe = Tetralogy of Fallot, Very Severe = Hypoplastic RT Heart syndrome\n\n\nLT Ventricular Outflow Tract Obstruction:\n«Mild = Aortic stenosis, Severe = Hypoplastic LT Heart syndrome\n« Mitral Atresia = Hypoplastic LT Heart syndrome\n\n\nTransposition of the Great Arteries:\n«Lack of spiraling causes 2 closed circuits (Aorta- RV, Pulmonary artery - LV)\n« Chest X-RAY = egg on a string\n\nTruncus Arteriosus:\n«Lack of conotruncal ridges forming 2 separate outflow tracts\n« Associated with 22q11.2 deletion and hypocalcemia\n\n\nTotal Anomalous Pulmonary Venous Return:\n« Abnormal venous drainage\n« Chest X-RAY = snowman [=m\n\n\nACYANOTIC (7 torrshunts)\n\n\nVentricular Septal Defect:\n+ Most common CHD\n« Interventricular septum fails to fuse\n+ Classification:\n« Perimembranous, Muscular, Supracristal\n- Small lesions (asymptomatic), Large lesions (LT-RT shunt leads to 4 RT heart pressure/failure)\n\nAtrial Septal Defect:\n+ Ostium secundum > Ostium primum, 3:1 F:M\n+3 areas of septum:\n« Ostium secundum (midportion), Ostium primum (lower portion), Sinus venosus (RA & vena cava jxn)\n« Small lesions (asymptomatic), Large lesions (LT-RT shunt leads to RA enlargement, 4 RT heart pressure/failure)\n\n\nAV Canal Defect:\n\n« Strong association with Trisomy 21\n\n« Partial AVCD: severe low ASD or high VSD w/ AV valves present but affected\n\n« Complete AVCD: AV valves not developed and all four chambers contiguous\nPatent Ductus Arteriosus:\n\n« Ductus arteriosus fails to close (normally between 12 hours to 3 weeks post birth)\n\n\n+More common in preterm infants, associated with worsening RDS (respiratory distress syndrome)\n+102and v prostaglandins closes ductus arteriosus\n\nPatent Foramen Ovale:\n\n« Septum secundum and primum fail to fuse so valve of foramen ovale fails to close\n+Opens during increased RT heart pressure\n\n« Allows paradoxical thrombi (clots enter arterial circulation)\n\n«+ 4 blood flow from pulmonary circulation immediately after birth closes foramen ovale\n\nCoarctation of the Aorta:\n\n« Narrowing of aorta between transverse arch to iliac bifurcation\n«Brachial-femoral delay\n\n- Differential cyanosis\n\n+Associated with Turner syndrome\n\nPersistent Pulmonary Hypertension in the Newborn:\n\n« Failure of pulmonary vascular resistance to decrease post birth = continued RT-LT shunting\n+May be due to failure of pulmonary vessels to develop fully\n\nSubclavian Sling:\n\n- Dorsal aorta only disappears superiorly\n+RT subclavian artery (from 4th aortic arch) passes posterior to trachea/esophagus\n\n\nDouble Aortic Arch:\n\n«+ Dorsal aorta remains intact\n+ Compresses esophagus and trachea\n",
+      "fileName": {
+        "full": "congenital-heart-diseases.jpg",
+        "small": "congenital-heart-diseases.thumb.jpg"
+      }
+    },
+    "71": {
+      "id": 71,
+      "name": "Eisenmenger Syndrome",
+      "altText": "EISENMENGER SYNDROME\n\n» Chronic left-to-right shunts reverse into right-to-left shunts\n~« “Blue kids” instead of “blue babies” b/c reversal takes time\n\n\n« Chronic left-to-right shunts\n\n\n«Ventricular septal defect\n\n\n« Atrial septal defect\n\n\n« Patent ductus arteriosus\n\n\n« Increased flow through pulmonary circulation\n« Increased pulmonary vascular resistance\n« Leads to pulmonary hypertension\n\n\n« Increase in pulmonary resistance past\nresistance of systemic circulation reverses the\nshunt (i.e. the shunt is now right-to-left)\n\n-~\n\n\nRight ventricular hypertrophy\n« Due to increased pulmonary pressure\n\n\nCyanosis\n« Due to deoxygenated blood being\npumped systemically\n\nPolycythemia\n« Due to low hemoglobin levels\n(decreased oxygen) production of\nerythropoietin\n\nClubbing\n\n« Due to release of local vasodilators in\nresponse to chronic hypoxemia from\nfailure of platelet precursors to\nfragment into platelets\n\n\nPhysical Exam:\n« Late central cyanosis\n« Digital clubbing\n\n« Polycythemia\n",
+      "fileName": {
+        "full": "eisenmenger-syndrome.jpg",
+        "small": "eisenmenger-syndrome.thumb.jpg"
+      }
+    },
+    "72": {
+      "id": 72,
+      "name": "Mitral Valve Prolapse",
+      "altText": "MITRAL VALVE PROLAPSE\n\n« Prolapse of the mitral leaflets into the left atrium\n+ Occurs during mid to late systole\n\n\nHistory\n« Typically asymptomatic\n\n\n+ May exhibit:\n« Chest pain\n«Dyspnea\n« Palpitations\n\n\nPhysical Exam\n\n\n« Midsystolic murmur at the apex with a midsystolic click\n\n« Murmur is louder when left ventricle chamber size is reduced\n(eg. Valsalva maneuver or standing)\n\n« Murmur is quieter when left ventricle chamber size is increased\n(eg. Squatting or handgrip)\n\n\nLabs & Diagnostics\n\n« Usually normal chest x-ray\n\n« Usually normal EKG\n\n« “Floppy valve” on ECHO\n\n« Mitral valve regurgitation may occur\ndepending on severity of mitral valve prolapse\n\n\nManagement\n« Asymptomatic patients:\n\n\n« Exercise\n« Healthy diet\n+ Reassurance\n\n\n+ Symptomatic patients:\n\n\n+ B blockers for chest pain and palpitations\n\n« Increased water and salt intake for orthostatic symptoms\n« Catheter or operative valve repair depending on severity\n« Do NOT need endocarditis proph\n",
+      "fileName": {
+        "full": "mitral-valve-prolapse.jpg",
+        "small": "mitral-valve-prolapse.thumb.jpg"
+      }
+    },
+    "73": {
+      "id": 73,
+      "name": "Ebstein Anomaly",
+      "altText": "EBSTEIN ANOMALY\n\n\n« Due to prenatal lithium exposure\n« Tricuspid valve is displaced towards apex\n\n\n«Dilation of RT atrium and “atrialization” (i.e. shrinking) of RT ventricle\n« Atrial septal defect\n« Tricuspid regurgitation\n« Accessory conduction pathways\n« Due to close proximity of SA node and right atrium\n\n\n« e.g. Wolff-Parkinson-White syndrome\n«RT sided heart failure\n« Due to tricuspid regurgitation\n\n\nTRICUSPID ATRESIA\n« Atrial septal defect/ Patent foramen ovale + Ventricular septal defect\n»Hypoplastic RT ventricle\n\n\nTOTAL ANOMALOUS PULMONARY VENOUS CONNECTION\n« Atrial septal defect\n« Dilated RT atrium and ventricle\n« Due to increased blood volume from pulmonary veins entering RT atrium\n",
+      "fileName": {
+        "full": "ebstein-anomaly.jpg",
+        "small": "ebstein-anomaly.thumb.jpg"
+      }
+    },
+    "74": {
+      "id": 74,
+      "name": "Persisten Pulmonary Hypertension",
+      "altText": "PERSISTENT PULMONARY HYPERTENSION\n\n« Normal reduction in pulmonary vascular pressure after birth does not occur\n\n\n«In utero, pulmonary vascular resistance and pulmonary artery pressure are very high\n\n« Blood is shunted from the right side of the heart to left side of the heart via the foramen\novale and ductus arteriosus\n\n« Minimal pulmonary blood flow occurs\n\n\nNormally:\n\n\n« After birth, breathing room air increases alveolar PO2\n\n\n«Increase in alveolar PO2 leads to a decrease in pulmonary artery pressure and increase in pulmonary artery flow\n« Increase in pulmonary venous return increases pressure of left atrium\n+ Closure of the foramen ovale\n\n\nPersistent Pulmonary Hypertension:\n\n« Lack of reduction in pulmonary vascular resistance leads to cyanosis\n\n« Cause is unknown\n\n+ May be due to failure of pulmonary vessels to develop fully\n\n+ Heart continues to use fetal circulation pathways (RT-LT shunt)\n\n+ Foramen ovale and ductus arteriosus remain patent and allow deoxygenated blood\ninto systemic circulation\n",
+      "fileName": {
+        "full": "persisten-pulmonary-hypertension.jpg",
+        "small": "persisten-pulmonary-hypertension.thumb.jpg"
+      }
+    },
+    "75": {
+      "id": 75,
+      "name": "Patent Ductuc Ateriosus",
+      "altText": "PATENT DUCTUS ARTERIOSUS\n\n« Derived from LT 6th aortic arch\nBecomes ligamentum arteriosum after birth (remnant)\n\nPatency maintained by low arterial oxygen content and prostaglandins (e.g. Alprostadil)\n« Indomethacin can be used to close patent ductus arteriosus\n\n\nHistory:\n\n« Congenital rubella\n\n« Fetal alcohol syndrome\n\n« Associated with congenital coarctation of the aorta\n\n« Can be a lifesaving measure in other congenital heart defects (right to left shunts)\n« Total Anomalous Pulmonary Venous Return\n« Transposition of the Great Vessels\n\n\nBefore birth\n« Right to left shunt before birth to\nbypass non-functional lungs\n\n\nAfter birth\n«Can persist up to 6 weeks after birth\n« Left to right shunt if it remains patent\n\n\nPhysical Exam:\n+ Often asymptomatic\n\n\n» Continuous (i.e. spanning systole & diastole) machine like heart murmur\n« Heard loudest at S2 and at left infraclavicular area\n\n\n«Right and Left ventricular hypertrophy\n\n« Cyanosis of lower limbs\n\n«Widened pulse pressure\n« Lower diastolic pressure because\nsome blood in aorta goes through PDA\n",
+      "fileName": {
+        "full": "patent-ductuc-ateriosus.jpg",
+        "small": "patent-ductuc-ateriosus.thumb.jpg"
+      }
+    },
+    "76": {
+      "id": 76,
+      "name": "Total Anomalous Pulmonary Venous Connectoin",
+      "altText": "TOTAL ANOMALOUS PULMONARY VENOUS CONNECTION\n\n«Right to Left shunt\n« All four pulmonary veins fail to connect to left atrium\n« Dilated right atrium and ventricle due to increased blood flow from pulmonary veins\n. Associated‘\\(v’lih an atrial septal defect (ASD) and sometimes patent ductus art_gi__osus (PDA)\n\n\nHistory & PE:\n\n« Early respiratory distress\n« Cyanosis (e.g. “blue babies”)\n\n« Obstructive TAPVC presents earlier\nthan Non-obstructive TAPVC\n\n\nAtrial Septal Defect\n\n\nDiagnostics & Management:\n\n« ECHO to see abnormally connected\npulmonary veins and ASD or PFO\n\n« Chest X-ray: pulmonary congestion in\nobstructive or enlarged RT side of heart and\n“snowman”/ “figure-8 sign” in non-obstructive\n\n\n» Surgery\n+ Cardiac catheterization\n» Oxygen\n\n\nSupracardiac TAPVC\n\n« Pulmonary veins drain into an innominate vein,\nwhich enters the superior vena cava\n\n\nInfracardiac TAPVC\n\n« Pulmonary veins drain into hepatic vein, which\nenters inferior vena cava\n\n\nCardiac TAPVC\n« Pulmonary veins drain into the\ncoronary sinus, which drains into the\nright atrium\n",
+      "fileName": {
+        "full": "total-anomalous-pulmonary-venous-connectoin.jpg",
+        "small": "total-anomalous-pulmonary-venous-connectoin.thumb.jpg"
+      }
+    },
+    "77": {
+      "id": 77,
+      "name": "Atrioventricular Canal Defect",
+      "altText": "ATRIOVENTRICULAR CANAL DEFECT (AVCD)\n\n\nNormal heart\n\n« Mitral valve separates LT atrium and LT ventricle\n\n« Tricuspid valve separates RT atrium and RT ventricle\n\n« Interatrial septum separates atria and interventricular\nseptum separates ventricles\n\n\nComplete AVCD\n+Hole at the center of the heart where ventricles\nand atria meet\n« Forms one large valve between atria and ventricles\n\n\n« Superior and inferior bridging leaflets\nare separated\n\n\nPartial AVCD\n\n« Defect in atrial septum\n\n« Mitral valve usually abnormal leading to mitral regurgitation\ninto LT atrium and across opening in AV septum\n\n+ Leads to RT atrial and RT ventricular overload\n\n\n« Superior and inferior bridging leaflets are\nfused\n",
+      "fileName": {
+        "full": "atrioventricular-canal-defect-avcd.jpg",
+        "small": "atrioventricular-canal-defect-avcd.thumb.jpg"
+      }
+    },
+    "78": {
+      "id": 78,
+      "name": "Tetralogy of Fallot",
+      "altText": "TETRALOGY OF FALLOT\n\n+ Most common cause of early childhood cyanosis (Right-to-left shunt)\n« Anteriosuperior deviation of infundibular septum\n« Associated with fetal alcohol syndrome and 22g11 syndromes\n\n\nHistory & Physical Exam\n\n« Cyanosis depending on severity and right-to-left shunting across VSD\n\n+Dyspnea\n\n« Tet spells - episodes of hypercyanosis and hypoxemia due to exacerbation of right ventricle outflow (e.g. crying, fever, exercise)\n\n« Squatting to increase systemic vascular resistance and decrease right to left shunting (i.e. more blood from right ventricle goes to lungs)\n\n\n+ Pulmonic stenosis: systolic ejection murmur in (eft 2nd intercostal space\n«Ventricular septal defect: holosystolic murmur at left sternal border\n\n\nPROV\n\n Pulmonary stenosis (most important determinant for prognosis)\n» Right ventricular hypertrophy due to pulmonary stenosis\n\n» Overriding aorta\n\n. Ventricular septal defect (VSD)\n\n» May also have patent ductus arteriosus for survival\n\n\nDiagnostics & Management\n\n«ECHO\n« EKG: right ventricular hypertrophy\n« Boot shaped heart on chest X-ray\n\n« Surgery\n",
+      "fileName": {
+        "full": "tetralogy-of-fallot.jpg",
+        "small": "tetralogy-of-fallot.thumb.jpg"
+      }
+    },
+    "79": {
+      "id": 79,
+      "name": "Ventricular Septal Defect",
+      "altText": "VENTRICULAR SEPTAL DEFECT (VSD)\n\n« Abnormal connection between left and right ventricles\n\n«Most common congenital heart lesion\n\n«Is an acyanotic heart lesion (does not interfere w/ amount of oxygen or blood that reaches tissues)\n\n« Usually occurs in membranous portion of interventricular septum due to failure of membranous portion to develop\n\n« Defect results in left-to-right shunting which ultimately increases blood flow to the lungs o g\n\n\nHistory\n\n« Infants with smaller VSD may be asymptomatic\n\n« Infants with larger VSD may present with poor feeding and\nsweating with feeds due to increased work of breathing i\n\n\nPhysical Exam\n\n« Harsh or blowing holosystolic murmur heard maximally at\nleft mid to lower sternal border (tricuspid area)\n\n« Larger VSDs has lower intensity murmur than smaller VSDs\n« Respiratory abnormalities (e.g. crackles, grunting,\nretractions, tachypnea)\n\n« Failure to thrive\n\n«Hepatomegaly\n\n\nLabs & Diagnostics\n\n« Connection between left and right ventricles on ECHO\n«Increased vascular markings on chest x-ray due to pulmonary\nedema\n\n« Elevated oxygen saturation in right ventricle and pulmonary artery\non cardiac catherization due to mixing of oxygenated blood from\nleft ventricle\n\n« Right ventricular hypertrophy on EKG due to increased volume\noverload\n\n« May lead to left ventricle overload and heart failure b/c left to\nright shunting increases pulmonary blood flow & increases\nreturn to left side of heart\n\n\nManagement\n+90% of small VSD’s close spontaneously the first year\n\n\n« Surgical closure for large VSDs\n« Digoxin (digitalis)\n\n« Furosemide (diuretics)\n\n« ACE-inhibitors\n\n\n« Complications:\n\n\n« Congestive heart failure\n« Endocarditis\n« Pulmonary hypertension\n",
+      "fileName": {
+        "full": "ventricular-septal-defect.jpg",
+        "small": "ventricular-septal-defect.thumb.jpg"
+      }
+    },
+    "80": {
+      "id": 80,
+      "name": "Aneurysm Classification",
+      "altText": "ANEURYSM CLASSIFICATION\n\n« Weakness in the vessel wall leading to dilation of vessel\n« May be congenital or acquired\n\n\nTrue Aneurysm\n\n+ Involves all three layers of the vessel wall (Intima, Media, and Adventitia)\n+ Attenuated but intact wall\n\n\nSaccular\n« Sac like shape\n\n\nFusiform\n« Spindle shaped with long tapering ends\n\n\n\nFalse Aneurysm\n+ Does not involve all three layers of vessel wall\n+ Blood escapes between tunica layers » extravascular hematoma\n\n- Communicates with intravascular space freely\n\n\nDissected Aneurysm\n\n« Longitudinal Intima tearing\n\n+ Blood enters between tunica layers\n\n+ Can be located in proximal or distal aorta\n\n\nRuptured Aneurysm\n\n\nTunica Intima\n« Endothelial cells\n\n\n+Subendothelium w/ scant smooth muscie and extracellular matrix\n\nTunica Media\n\n« Thickest tunica\n\n« Bound by internal and external lamina\n\n« Contains smooth muscle and elastic lamina w/ extracellular connective tissue matrix\n«Vaso vasorum: at media/adventitia border in large vessels\n\nTunica Adventitia\n+ Most external layer\n\n\n« Contains fibroblasts, connective tissue, and small vessels that\ngive rise to vaso vasorum\n",
+      "fileName": {
+        "full": "aneurysm-classification.jpg",
+        "small": "aneurysm-classification.thumb.jpg"
+      }
+    },
+    "81": {
+      "id": 81,
+      "name": "Coronary Circulation",
+      "altText": "CORONARY CIRCULATION\n\n\n+Aorta\n\n« Right Coronary artery (RCA)\n« Right Marginal artery (RMA)\n« Posterior Descending artery (PDA)\n\n« Left Coronary artery (LCA)\n« Left Anterior Descending artery (LAD)\n« Left Circumflex artery (LCX)\n\n> « (Posterior Descending artery)\n\n\n85% are RT dominant circulation\n+ PDA arises from RCA\n8% are LT dominant circulation\n+ PDA arises from LCX\n7% are codominant circulation\n« PDA arises from both LCX and RCA\n\n\n+SAand AV node\n\n« Right atrium\n\n« Right ventricle\n\n« Papillary muscles of right ventricle\n\n« Posterior wall of ventricles\n\n« Posterior 1/3 interventricular septum\n\n\n« Left atrium\n\n« Lateral left ventricle\n\n« Posterior left ventricle\n« Anterolateral papillary\nmuscle of left ventricle\n\n\n+ Anterior wall of left ventricle\n\n+ Anterolateral papillary muscles of left ventricle\n\n« Anterior 2/3 interventricular septum\n\n*LAD is the most commonly occluded = “widowmaker”\n\n\n« Posterior 1/3 interventricular septum\n« Posterior 2/3 walls of ventricles\n\n\n+ Anterior wall of left ventricle\n\n+ Anterolateral papillary muscles of left ventricle\n\n+ Anterior 2/3 interventricular septum\n\n*LAD is the most commonly occluded = “widowmaker”\n",
+      "fileName": {
+        "full": "coronary-circulation.jpg",
+        "small": "coronary-circulation.thumb.jpg"
+      }
+    },
+    "82": {
+      "id": 82,
+      "name": "Fetal Venous System",
+      "altText": "FETAL VENOUS SYSTEM\n\nEmbryonic Heart\n\n\nSinus venosus\n\n\n« Fetal venous system drains\ninto the sinus venosus\n\n« Formed by the union of large\nsystemic veins\n\n« Passage through which\nvenous blood enters primitive\nheart in fetus\n\n\nAnterior cardinal veins\n\n\n« Forms:\n«Internal jugular veins\n« Superior vena cava\n\n\nCommon cardinal veins\n\n\nPosterior cardinal veins\n\n\n« Forms:\n« Internal jugular veins\n« Part of inferior vena cava\n\n\nLeft vitelline vein\n\n\n« Forms:\n« Ductus venosus\n« Hepatic veins and sinusoids\n\n\nRight vitelline vein\n\n\n« Forms:\n« Ductus venosus\n« Hepatic portal\n« Hepatic veins and sinusoids\n« Inferior mesenteric\n« Part of inferior vena cava\n« Splenic veins\n« Superior mesenteric\n\n\nRight umbilical vein\n« Degenerates\n\n\nLeft umbilical vein\n\n\nForms the ligamentum teres hepatis\n\n\nSubcardinal veins\n- Forms:\n« Gonadal vein\n« Part of inferior vena cava\n+Renal veins\n\n\nSupracardinal veins\nForms:\n\n« Azygous vein\n\n« Hemiazygous vein\n\n« Intercostal vein\n\n« Part of inferior vena cava\n",
+      "fileName": {
+        "full": "fetal-venous-system.jpg",
+        "small": "fetal-venous-system.thumb.jpg"
+      }
+    },
+    "83": {
+      "id": 83,
+      "name": "Fetal Circulation",
+      "altText": "FETAL CIRCULATION\n\n\n*Umbilical Vein —3 Ductus Venosus —3 Inferior Vena Cava —> Right Atrium — Foramen Ovale —3 Left Atrium —» Left Ventricle —» Aorta\n\n* Right Ventricle —> Pulmonary Artery —3 Ductus Arteriosus —» Aortic Arch\n\n\nFetal Venous System:\nConsists of three main veins:\n«Umbilical veins\n\n«Vitelline veins\n\n« Cardinal veins\n\n\nCardinal veins\n« Return poorly oxygenated blood from the embryo\n\n\nAnterior cardinal vein\n\n\nCommon cardinal vein\n\n\nPosterior cardinal vein\n\n\n\nVitelline vein\n\n\n« Return poorly oxygenated blood from the yolk sac to the embryo’s midgut\n« Serves as an early site for the formation of blood\n« Derivatives of these veins form the portal venous svstem\n\n\nUmbilical vein\n\n« Transports oxygenated blood from placenta to infant\n\n«Highest 02 content of the fetal vessels (80% oxygen saturation)\n« Low partial pressure of 02 (30% Po2)\n\n\nUmbilical Artery\n\n« Transports deoxygenated blood\n\n« Branch and form chorionic arteries within chorionic villi of\nthe placenta (site of nutrient exchange w/ maternal blood)\n\n\nUmbilical Cord\n\n« Connects infant circulation to placenta\n« Consists of:\n« Two umbilical arteries\n« One umbilical vein\n«Arise as branches of the internal iliac arteries\n\n\nFetal Shunts:\n\nDuctus Venosus: Shunts oxygenated blood from umbilical vein to inferior\nvena cava, bypassing the liver\n\nDuctus Arteriosus: Connects trunk of pulmonary artery to proximal\ndescending aorta in the fetus, allowing blood from\nright ventricle to bypass non-functioning fetal lungs\n\nForamen Ovale: Directs oxygenated blood from right atrium to left atrium\n\n\nAllow oxygenated blood flowing from umbilical vein to\nbypass fetal liver and lungs\n",
+      "fileName": {
+        "full": "fetal-circulation.jpg",
+        "small": "fetal-circulation.thumb.jpg"
       }
     }
   }
