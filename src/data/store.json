@@ -109,7 +109,13 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            84,
+            85,
+            86,
+            87,
+            88
+          ]
         },
         {
           "id": 7,
@@ -121,7 +127,13 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
         },
         {
           "id": 8,
@@ -133,7 +145,11 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            94,
+            95,
+            96
+          ]
         },
         {
           "id": 9,
@@ -145,7 +161,13 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            97,
+            42,
+            98,
+            99,
+            100
+          ]
         },
         {
           "id": 10,
@@ -157,7 +179,16 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
         },
         {
           "id": 11,
@@ -169,7 +200,10 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            109,
+            110
+          ]
         },
         {
           "id": 12,
@@ -181,7 +215,9 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            111
+          ]
         }
       ]
     },
@@ -654,7 +690,7 @@
     "53": {
       "id": 53,
       "name": "PR-Interval",
-      "altText": "Normal PRinterval =0.12 - 0.2 sec\n\n\n\n\nWOLFF - PARKINSOR - (MTE  SYADROME\n\n\n*Younger pt\n«Accessory/ pathway Bundle of Kent connects atria and ventricles\n\n\n« Causes ventricular pre-excitation\n« Produces delta wave and wide QRS\n+Can lead to Paroxysmal Tachycardia (SVT)\n\n\n) LR - GANDG - LEVINE SINDROME\n\n\n« James bundle extends from anterior internodal\ntract directly to the His bundle bypassing the AV node\n« AV node typically acts as a filter of rapid\nsupraventricular rates\n\n«Rapid atrial rates (e.g. atrial flutter) transmitting to\nthe His Bundle and driving rapid ventricular rates\n\n\nPROLONGED PR\n\n« Affected by vagal tone\n\n\n1° AV BLOCK\n\nLengthens delay between atrial and ventricular depolarization\n Longer than 0.2 seconds/ 1 large square\n\n Consistently lengthened PRinterval\n\n\n2° M BLock werckgBACH (wosiTz TR 1)\n\nRegularly irregular\n\nAV block occurs in the AV node\n\nProgressive blocking of AV node conduction gradually lengthens PR interval\n) successive cycles until QRS is dropped for a cycle (i.e. Total block)\n\nP:QRS ratio of 3:2, 4:3, or 5:4\n\nNarrow QRS b/c usually originates above AV node\n\nUsually asymptomatic\n\n\n22 A RLDCK MOBMTZ (voavz e 2)\nConstant normal PR interval\nP wave is always punctual, never premature P’ waves\nBlock of the His bundle or one of the bundle branches\nTotal block of atrial depolarizations before producing QRS complex\nP:QRS ratio of 2:1 or 3:1\n'Advanced Mobitz has P:QRS ratio of 4:1 or 5:1\n- Syncope may occur due to slow ventricular rates\n\n\n3\" AV BLock\n\n\n« Complete block of AV conduction\n\n« AV dissociation involves sinus paced atrial P wave rateand\ncompletely independent focus paced ventricular QRS rate\n\n«Can be caused by Lyme disease\n\n«If block is at upper AV node, then junctional focus paces @\ninherent rate of 40-60 bpm with normal appearing QRS complexes\n\n\n«If blockis at His bundle or below, then ventricular focus paces @\ninherent rate of 20-40 bpm with wide Pre-ventricular AN\ncomplex(PVC)-like QRS complexes\n\n\nSTOKES- ADAMS SYDRoME]\n\n+3° AV block with ventricular rate so slow that blood flow to brain is significantly\nreduced and leads to loss of consciousness (syncope)\n\n\n«Right bundle branch block\n\nST elevationinV1,V2,V3\n\n« Susceptible to deadly arrhythmias\n\n« Can cause sudden death in individuals without heart disease\n",
+      "altText": "Short PR Normal PR interval =0.12 - 0.2 sec\n\n\n\n\nWOLFF - PARKINSOR - (MTE  SYADROME\n\n\n*Younger pt\n«Accessory/ pathway Bundle of Kent connects atria and ventricles\n\n\n« Causes ventricular pre-excitation\n« Produces delta wave and wide QRS\n+Can lead to Paroxysmal Tachycardia (SVT)\n\n\n) LR - GANDG - LEVINE SINDROME\n\n\n« James bundle extends from anterior internodal\ntract directly to the His bundle bypassing the AV node\n« AV node typically acts as a filter of rapid\nsupraventricular rates\n\n«Rapid atrial rates (e.g. atrial flutter) transmitting to\nthe His Bundle and driving rapid ventricular rates\n\n\nPROLONGED PR\n\n« Affected by vagal tone\n\n\n1° AV BLOCK\n\nLengthens delay between atrial and ventricular depolarization\n Longer than 0.2 seconds/ 1 large square\n\n Consistently lengthened PRinterval\n\n\n2° M BLock werckgBACH (wosiTz TR 1)\n\nRegularly irregular\n\nAV block occurs in the AV node\n\nProgressive blocking of AV node conduction gradually lengthens PR interval\n) successive cycles until QRS is dropped for a cycle (i.e. Total block)\n\nP:QRS ratio of 3:2, 4:3, or 5:4\n\nNarrow QRS b/c usually originates above AV node\n\nUsually asymptomatic\n\n\n22 A RLDCK MOBMTZ (voavz e 2)\nConstant normal PR interval\nP wave is always punctual, never premature P’ waves\nBlock of the His bundle or one of the bundle branches\nTotal block of atrial depolarizations before producing QRS complex\nP:QRS ratio of 2:1 or 3:1\n'Advanced Mobitz has P:QRS ratio of 4:1 or 5:1\n- Syncope may occur due to slow ventricular rates\n\n\n3\" AV BLock\n\n\n« Complete block of AV conduction\n\n« AV dissociation involves sinus paced atrial P wave rateand\ncompletely independent focus paced ventricular QRS rate\n\n«Can be caused by Lyme disease\n\n«If block is at upper AV node, then junctional focus paces @\ninherent rate of 40-60 bpm with normal appearing QRS complexes\n\n\n«If blockis at His bundle or below, then ventricular focus paces @\ninherent rate of 20-40 bpm with wide Pre-ventricular AN\ncomplex(PVC)-like QRS complexes\n\n\nSTOKES- ADAMS SYDRoME]\n\n+3° AV block with ventricular rate so slow that blood flow to brain is significantly\nreduced and leads to loss of consciousness (syncope)\n\n\n«Right bundle branch block\n\nST elevationinV1,V2,V3\n\n« Susceptible to deadly arrhythmias\n\n« Can cause sudden death in individuals without heart disease\n",
       "fileName": {
         "full": "pr-interval.jpg",
         "small": "pr-interval.thumb.jpg"
@@ -928,6 +964,258 @@
       "fileName": {
         "full": "fetal-circulation.jpg",
         "small": "fetal-circulation.thumb.jpg"
+      }
+    },
+    "84": {
+      "id": 84,
+      "name": "Sjogren Syndrome",
+      "altText": "SJOGREN SYNDROME\n\n\n» Autoimmune destruction of lacrimal & salivary glands\n« Focal lymphocytic sialadenitis\n\n\n« SIGNS & SYMPTOMS:\n« Middle aged female\n« HLA-DR3 association\n\n\n« Associated with development of B cell lymphoma (MALT)\n\n\n« Decreased salivary secretion\n« Decreased lacrimal flow\n\n« Interstitial nephritis\n\n« Cholangitis\n\n« Glomerulonephritis\n\n\n« AUTOANTIBODIES:\n« Type IV Hypersensitivity reaction\n« Anti-Ro (SSA)\n« Anti-La (SSB)\n+ Against ribonucleotides\n\n\nDry eyes\n“Keratoconjunctivitis sicca”\n\n\nParotid enlargement\n\n\nDry mouth\n“Xerostomia”\n\n\nNephritis\n\n\nCholangitis\n\n\nArthralgias\n",
+      "fileName": {
+        "full": "sjogren-syndrome.jpg",
+        "small": "sjogren-syndrome.thumb.jpg"
+      }
+    },
+    "85": {
+      "id": 85,
+      "name": "Systemic Sclerosis",
+      "altText": "SYSTEMIC SCLEROSIS\n\n« Fibroblast activation > Collagen deposition » Cutaneous & visceral fibrosis\n\n\n« SIGNS & SYMPTOMS:\n\n« Middle aged female\n\n« Cutaneous & visceral fibrosis\n\n« Arthralgias\n\n« Microstomia\n\n« Puffy fingers, sclerodactyly\n\n«Raynaud’s phenomenon\n\n« Esophageal dysmotility, LES dysfunction\n« Malignant hypertension\n\n«Renal abnormalities\n\n\n« CREST SYNDROME\n\n» Calcinosis cutis (Ca2+ deposits in skin)\n« Raynaud’s phenomenon\n\n« Esophageal dysmotility\n\n« Sclerodactyly\n\n- Telangiectasia\n\n= Limited to face and fingers\n\n\nTaut “mask”\n\n\nMyocardial fibrosis\n\n\nPulmonary fibrosis\n+ Most common cause of death\n\n\nGl dysmotility\n\n\nMuscle fibrosis\n\n\n« AUTOANTIBODIES:\n\n« Anti-Scl 70 Ab > DNA topoismerase |\n\n« Anti-RNA polymerase Il\n\n« Anti-Centromere Ab (CREST syndrome)\n",
+      "fileName": {
+        "full": "systemic-sclerosis.jpg",
+        "small": "systemic-sclerosis.thumb.jpg"
+      }
+    },
+    "86": {
+      "id": 86,
+      "name": "Systemic Lupus Erythematosus",
+      "altText": "SYSTEMIC LUPUS ERYTHEMATOSUS\n\n\n« SIGNS & SYMPTOMS:\n+Young female\n« Fever, fatigue, lymphadenopathy\n« Arthralgias\n\n\n« Malar “buttertly” rash, photosensitivity\n« Chest pain, friction rub\n\n« Hematuria/Proteinuria\n\n« Abnormal CBC (-penias)\n\n« Raynaud’s phenomenon\n\n« “RASH OR PAIN” = rash, arthritis, serositis (pericarditis),\nhematologic (-penias), oral ulcers, renal issues,\n\nphotosensitivity, autoantibodies, immunologic\ndisorders, neuro (seizures, psychosis)\n\n\nFever\n\n\nMalar Rash\n\n\nNephritis\n\n\nArthralgias\n\n\n+ DRUG INDUCED LUPUS ERYTHEMATOSUS\n\n\n« Hydralazine\n«No renal or CNS involvement\n« Anti-Histone Ab\n\n\nPericarditis & Pleuritis\n\n\n« Libman- Sacks Endocarditis\n« Vegetations on both sides of\n» Mmitral valve\n\n\nRaynaud’s phenomenon\n\n\n« DIFFUSE LUPUS NEPHRITIS\n« Most common/severe form\n« Hematuria/Proteinurea\n« “Wire loop” structures on light microscopy\n\n« Diffuse Proliferative Glomerular Nephritis\n« Membranous Glomerular Nephropathy\n\n\n« AUTOANTIBODIES:\n« Type lll Hypersensitivity reaction\n« Anti-dsDNA Ab > Lupus nephritis\n« Anti-Smith Ab > spliceosomal snRNPs\n+ Anti-phospholipid Abs\n+ Anti-SSA & Anti-SSB\n+ Anti-C1q antibodies\n\n\n« Main causes of death:\n+Renal\n« Infection\n« Cardiovascular\n",
+      "fileName": {
+        "full": "systemic-lupus-erythematosus.jpg",
+        "small": "systemic-lupus-erythematosus.thumb.jpg"
+      }
+    },
+    "87": {
+      "id": 87,
+      "name": "Lumbosacral Plexus",
+      "altText": "LUMBOSACRAL PLEXUS\n\n\nLUMBAR PLEXUS\n\n\nSubcostal Nerve (T12)\n\nlliohypogastric Nerve (L1)\n\n\nllioinguinal Nerve (L1)\n\n\nGenitofemoral Nerve (L1-L2)\n\n\nLateral Cutaneous Nerve of Thigh (L2-L3)\n\n\nFemoral Nerve (L2-L4)\nAnterior Thigh Compartment (EXTENSORS)\n\n\nObturator Nerve (L2-L4)\nMedial Thigh Compartment\n(ADDUCTORS)\n\n\nLUMBOSACRAL TRUNK\n\n\nSACRAL PLEXUS\n\n\nSuperior Gluteal Nerve (L4-S1)\n\n\nInferior Gluteal Nerve (L5-52)\n\n\nSciatic Nerve (L4-53)\n\n\nCommon Fibular Nerve (L4-S2)\n\n\nPudendal Nerve (52-54)\n\n\nPosterior Cutaneous\nNerve of Thigh (S1-S3)\n\n\nTibial Nerve (L4-S3)\nPosterior Thigh and Leg (FLEXORS)\n\n\nMedial Plantar Nerve\n\n\nLateral Plantar Nerve\n\n\nSural Nerve\n\n\nDeep Fibular Nerve\nLateral leg /\n\n\nSuperficial Fibular Nerve\nAnterior leg\n\n\nCUTANEOUS INNERVATION\n\n\nPosterior rami\n\nlGeniw'emoral Nerv; I\n| IIioinEuinal Nervel\n\n‘Lateral Cutaneous Nerve ofThiEa\n\n[Femoral Nerve‘\n|Obturator Nervel\n\nlsaghenaus Nerve!\n\n| Posterior Cutaneous Nerve of Thighl\n\n—\n| common Fibular Nervel\n\nSuperficial Fibular Nerve\n\n|Deep Fibular Nervel\n\nILateral Plantar Nerve!\n\nRS)\n\n|Medial Plantar Nerve\n[ sural Nerve!\n\nCalcaneal branches of Tibial Nervel\n\n",
+      "fileName": {
+        "full": "lumbosacral-plexus.jpg",
+        "small": "lumbosacral-plexus.thumb.jpg"
+      }
+    },
+    "88": {
+      "id": 88,
+      "name": "Brachial Plexus",
+      "altText": "BRACHIAL PLEXUS\n\n\nMOTOR INNERVATION\n\n\nTERMINAL BRANCHES\n\n\nMusculocutaneous Nerve (C5-C7)\nAnterior Compartment of arm:\n« Coracobrachialis, Biceps brachii, Brachialis\n\n\nAxillary Nerve (C5-6)\n\n+ Deltoid, teres minor\n\n\nRadial Nerve (C5-T1)\n\n\nPosterior Compartment of arm:\n« Triceps brachii, Anconeus\n+Elbow EXTENSORS\n\n«Wrist and Digit EXTENSORS\n\nMedian Nerve (C5-T1)\n\n\nAnterior Compartment of Forearm, Thenar muscles and most FLEXORS of wrist and digits:\n« Pronator teres. Palmaris longus. Flexor carpi radialis. Flexor digitorum superficialis\n\n\n«1/2 of Flexor profundus, Flexor pollicis longus, Pronator quadratus\n\n\n« 1st/2nd lumbricals, Abductor pollicis brevis, Opponens pollicis, Flexor pollicis brevis\n\n\nUlnar Nerve (C8-T1)\nAnterior Compartment of Forearm and most of Hand:\n« Flexor carpi ulnaris, 1/2 of Flexor digitorum profundus\n\n\n« Hypothenar muscles, Adductor Pollicis, 3rd/4th lumbricals, Palmar & Dorsal interossei\n\n\nCORDS\n\n\nLateral Pectoral Nerve\n\n\nLateral\n\n\nPosterior\n\n\nMedial\n\n\nThoracodorsal Nerve\n\n\nSubscapular Nerves\n\n\nDIVISIONS\n\n\nMedial Cutaneous Nerve of the Forearm\n\n\nMedial Cutaneous Nerve of the Arm\n\n\nMedial Pectoral Nerve\n\n\nTRUNKS\n\n\nSuprascapular Nerve\n\n\nSubsclavius Nerve\n\n\nSuperior\n\n\nMiddle\n\n\nInferior\n\n\nROOTS\n\nDorsal Scapular Nerve\n\n\nLong Thoracic Nerve\n\n\nCUTANEOUS INNERVATION\n\n\nMedial & Lateral cords - Anterior compartment muscles  Anterior Division » FLEXORS\nPosterior cord » Posterior compartment muscles Posterior Division » EXTENSORS\n\n\nAxillary Nerve\n\nMedial Cutaneous Nerve of Arml\n\nMedial Cutaneous Nerve of Forearm\n\nMusculocutaneous Nerve- Lateral Cutaneous Nerve of Forearﬂ\n\n\n\n| Radial Nerve\nMedian Nerva\n\n\n\n«Winged Scapula: KO Long thoracic nerve » KO Serratus anterior (MOI: axillary node dissection)\n«Erb’s Palsy “Waiters tip”: KO Musculocutaneous nerve > KO Forearm/Arm flexion & KO supination (MOI: separation of neck and shoulder)\n\n\n+ hErb gets DIBS on tips  Deltoid, Infraspinatus, Biceps brachii, Supraspinatus\n\n« Klumpke’s Palsy “Total Claw”: KO Ulnar and part of Median nerve » KO intrinsic hand muscles (MOI: hyperabduction of arm)\n+ Horner syndrome: SNS trunk damage - Ptosis, Anhidrosis, Miosis\n\n- KO Axillary nerve KO arm abduction, external rotation (MOI: surgical neck of humerus fracture)\n\n+ KO Median nerve (proximal) > KO pronation (MOI: supracondylar fracture of humerus) = “pope’s blessing/ benediction sign”\n\n+ KO Median nerve (distal) » KO wrist flexion and thumb opposition (MOI: carpal tunnel) = “median claw”\n\n+ KO Radial nerve (proximal) > KO elbow, wrist, digit extension (MOI: crutch palsy) = wrist drop\n\n+ KO Radial nerve (distal) > KO grip strength (MOI: midshaft humeral fracture) = wrist drop\n\n+ KO Ulnar nerve (proximal) KO wrist adduction (MOI: medial epicondyle humerus fracture) = “OK sign”\n\n+KO Ulnar nerve (distal) » KO digit extension (MOI: Hook of hamate fracture via FOOSH) = “ulnar claw”\n",
+      "fileName": {
+        "full": "brachial-plexus.jpg",
+        "small": "brachial-plexus.thumb.jpg"
+      }
+    },
+    "89": {
+      "id": 89,
+      "name": "Menopause",
+      "altText": "MENOPAUSE\n\n+ 12 months without menstrual periods without any other pathology\n« Significant decrease in ovarian estrogen production\n« Average onset at 51 years old (if under 40 years old, consider Primary Ovarian Failure)\n\n\nPathophysiology:\n\n« ¥ inovarian follicles & = atretic follicles\n\n« Unable to maintain ovulation cycles\n\n+ Remaining follicles are resistant to FSH\n\n« v granulosa and luteal cells\n\n« ¥ inhibin production - ++ FSH (due to release of inhibition from inhibin)\n\n\nLabs:\n\n« ¥ Estrogen (switch to estrone production in adipose tissue)\n«¥ Inhibin\n\n\n«nLHand FSH\n\n\nPerimenopause:\n« Transition period due to fluctuations in ovarian estrogen production\n\n\n« ¥ Estrogen\n<2 FSH\n\n\nObese:\n« 1 estrogen in obese women\n« Due to peripheral conversion of androgens\n« Milder menopause symptoms\n« 4 risk of endometrial hyperplasia and cancer\n\n\nSigns and Symptoms:\n« Hot flashes, hirsutism\n« Atrophy of vagina\n« Dryness, itching, dyspareunia\n« Osteoporosis\n« Estrogen v bone resorption\n« Coronary artery disease\n\n\n« Estrogen is cardioprotective > 4 HDL and v LDL\n« Sleep disturbances\n« Weight gain\n«Irregular menses\n\n\nTreatment:\n« Lifestyle modifications\n« Weight bearing exercises\n\n\n« Calcium and Vitamin D supplements\n+Hormone replacement therapy\n« Estrogen +/- progestin\n« Selective estrogen receptor modulators (e.g. Ospemifene)\n« Non-hormonal treatment (e.g. vaginal moisturizers and lubricants)\n",
+      "fileName": {
+        "full": "menopause.jpg",
+        "small": "menopause.thumb.jpg"
+      }
+    },
+    "90": {
+      "id": 90,
+      "name": "Polycystic Ovarian Syndrome",
+      "altText": "POLYCYSTIC OVARIAN SYNDROME\n\n« Excess androgens including estrogen (without progesterone)\n« Most common cause of anovulation and infertility\n« Seen in obese young females\n\n\nPathophysiology:\n\n« 4 LH production - Excess androgen production from theca cells\n« Excess androgens > Conversion to estrone in adipose tissue\n\n« Excess androgens - Granulosa cell dysfunction\n\n« Estrone inhibits FSH secretion from anterior pituitary\n\n« Decreased SHBG > + free androgens\n\n(SHBG preferentially binds androgens > estrogen)\n\n\nSigns and Symptoms:\n« Anovulatory symptoms\n\n« Amenorrhea or irregular menstrual periods\n« Hyperandrogenism\n\n«Acne\n\n« Hirsutism\n\n« Weight gain\n\n« Deep voice\n\nComplications:\n« Endometrial hyperplasia » Endometrial cancer\n\n\nPhysical Exam:\n\n« Obesity\n« Increased muscle mass\n« Male-pattern baldness\n« Skin\n« Acanthosis nigricans\n« Hirsutism\n« Acneiform lesions\n« Alopecia\n« Pelvic exam\n« Copious cervical mucous\n« Enlarged irregular ovaries\n\n\n« Multiple follicular cysts (unruptured follicles)\n\n\nLabs:\n\n«Low FSH, high LH\n«LH:FSH>2\n\n« Hyperandrogenemia\n« Hyperglycemia\n\n« Hyperinsulinemia\n\n« Hyperlipidemia\n\n\nTreatment:\n\n« Oral contraceptive pills\n\n\n« Weight reduction - v insulin resistance\n« Metformin to reverse hyperinsulinism\n",
+      "fileName": {
+        "full": "polycystic-ovarian-syndrome.jpg",
+        "small": "polycystic-ovarian-syndrome.thumb.jpg"
+      }
+    },
+    "91": {
+      "id": 91,
+      "name": "Osteoporosis",
+      "altText": "OSTEOPOROSIS\n\n« Decrease in bone mineral density\n« Imbalance of bone formation and bone resorption\n\n\nPathophysiology:\n« Estrogen:\n« Inhibits RANKL\n« (+) Osteoprotegerin (OPG) production\n« (+) Osteoclast apoptosis\n« Loss of estrogen:\n« 2 RANKL production\n+vOPG\n« 1 Osteoclast activity\n\n\nSigns and Symptoms:\n« Loss of height\n« Due to compression fractures of vertebra\n« Colles fracture\n« Fracture of surgical neck of femur\n«Normal labs\n« Serum calcium\n« Serum phosphate\n«Alkaline phosphatase\n\n\nRegulators:\n\n« Affect bone resorption\n«(+) PTH\n\n\n« (+) Thyroid hormones\n« (-) Calcitonin\n« (-) Estrogen\n\n« Affect calcium absorption/ reabsorption\n« (+) Vitamin D\n« (+) Estrogen\n« () Glucocorticoids\n\n« Affect bone formation\n«(+) TSH\n« (+) Growth hormone\n« (+) Estrogen\n\n\n« (+) Bone formation:\n\n« v RANKL\n\n+10OPG\n\n« Intermittent PTH, Estrogen\n«(-) Bone formation:\n\n« 2 RANKL\n\n+4v OPG\n\n« # Osteoclasts\n\n« Chronic PTH, estrogen\n\n\nRisk Factors:\n«Non-modifiable\n«Age\n\n\n« Race (White or Asian)\n\n« Low BMI\n\n« Early menopause\n\n« Prior fracture\n\n« Family history of osteoporosis\n« Modifiable\n\n« Calcium and Vitamin D intake\n\n+» Smoking and alcohol use\n\n« Low body weight\n\n« Sedentary lifestyle\n\n\nScreening:\n\n« DEXA bone mineral density scan\n« Osteoporosis <-2.5\n\n«Screen all women at age 65\n\n\n« Screen women at age 50-64 if risk factors present:\n\n\n« History of fragility fracture\n« Parental history of hip fracture\n\n\n« Body weight <127 lbs\n« Current smoker\n+ Alcoholism\n\n\n+ Medical causes of bone loss\n+ Rheumatoid arthritis\n\n\nTreatment:\n« Bisphosphonates\n«Denosumab\n« SERMs (Raloxifene)\n« Teriparatide\n« Lifestyle modifications\n« Weight bearing exercises\n\n\n« Calcium and Vitamin D supplements\n+1000mg - 1200mg / day\n",
+      "fileName": {
+        "full": "osteoporosis.jpg",
+        "small": "osteoporosis.thumb.jpg"
+      }
+    },
+    "92": {
+      "id": 92,
+      "name": "Pregnancy Hormones",
+      "altText": "PREGNANCY HORMONES\n\n\n1 hCG:\n« Multiple gestation\n« Hydatidiform moles\n« Choriocarcinoma\n« Down syndrome\n\nVv hCG:\n« Ectopic pregnancy\n« Failing pregnancy\n« Edwards syndrome\n« Patau syndrome\n\n\nHormone level\n\n\nWeek of pregnancy\n\n\nhee\n« From syncytiotrophoblast\n&placenta |\n\n\n« Removal of progesterone block\n« Placental estriol 4 PRL secretion\n\n\nhpPL\n« From placenta\n\nPRL\n« From anterior pituitary\n\nEstrogen\n« From corpus luteum > estradiol\n+ From placenta » estriol\n\nProgesterone\n+ From corpus luteum & placenta\n\nOxytocin\n« From posterior pituitary\n\nProstaglandins\n« From placenta\n\n\nPREGNANCY:\n Fertilization on day 1 of ovulation\n+Implantation on day 6 > “sticks on 6”\n\n« Syncytiotrophoblasts » hCG\n+hCG maintains corpus luteu first 8-10 wks of pregnancy until placenta takes over\n\n+ Corpus luteum secretes progesterone > estrogen to maintain pregnancy\n\n\n« Placenta secretes:\n« Progesterone\n« Estriol\n«hPL\n+Inhibin A\n«Relaxin\n« Prostaglandins\n+hCG v once placenta s formed\n+ Corpus luteum  Corpus albicans\n\n\nGESTATIONAL DIABETES:\n\nhPL:\n« + maternal insulin resistance\n« # lipolysis in mother > FFA ketones for mother\n« 2 nutrients (glucose) for fetus\n\n« 2 glucose > fetus\n\n« 1 insulin release in fetus\n\n«Insulin acts as growth factor - fetus macrosomia\n\n+ Maternal pancreas + insulin release in response to 4 glucose\n« However, insulin resistance due to hPL  Gestational diabetes\n",
+      "fileName": {
+        "full": "pregnancy-hormones.jpg",
+        "small": "pregnancy-hormones.thumb.jpg"
+      }
+    },
+    "93": {
+      "id": 93,
+      "name": "Ovarian & Uterine Cycle",
+      "altText": "OVARIAN & UTERINE CYCLE\n\n\nHypothalamus\n\n\nGnRH\n\n\nAnterior Pituitary\n\n\n« Pulsatile release of GnRH - stimulates\nAnterior Pituitary to secrete FSH and LH\n\n« Continuous GnRH release - inhibits FSH\nand LH secretion\n\n\nFOLLICULAR PHASE\n\n\nLUTEAL PHASE\n\n\nEstradiol\n\n\nProgesterone\n\n\n1 estrogen due to corpus luteum\n\n\nStratum Functionalis\n\n\nStratum Basale\n\n\n3\nMenses Ovulation\n\n\nFOLLICULAR STEROIDOGENESIS:\n\n\nAMH & Inhibin also produced\n+ AMH restrains growth of 1° follicles\n«Inhibin inhibits FSH secretion\n\n\nLUTEAL STEROIDOGENESIS:\n\n\nProgesterone (-) feedback to anterior\npituitary & hypothalamus\n\n\nFOLLICULAR PHASE (Proliferative):\n\nOvary:\n\n« FSH stimulates recruitment of multiple follicles\n\n« Production of estradiol\n\n« Development of 1 dominant follicle and atresia of others\n« Production of AMH & Inhibin in dominant follicle\n\n«FSH and LH act on granulosa and theca cell > estrogen\n\nEndometrium:\n« Estrogen induces proliferation of endometrium\n« Proliferation of Stratum Functionalis\n\n\nLUTEAL PHASE (Secretory):\n\nOvary:\n\n« LH surge stimulated by + estrogen\n\n« Ovulation occurs and dominant follicle ruptures - Corpus luteum\n« Corpus luteum produces progesterone > estrogen\n\nEndometrium:\n« Progesterone acts on endometrium to induce glandular secretion and growth of spiral arteries\n\n\nSLOUGHING PHASE (Ischemic reperfusion injury):\n«w/o fertilization corpus luteum degrades into corpus albicans\n\n« Estrogen and progesterone levels + and menses occurs\n« Stratum functionalis is sloughed off\n« If fertilization occurs > pregnancy\n",
+      "fileName": {
+        "full": "ovarian-uterine-cycle.jpg",
+        "small": "ovarian-uterine-cycle.thumb.jpg"
+      }
+    },
+    "94": {
+      "id": 94,
+      "name": "Respiratory Microanatomy",
+      "altText": "Sustentacular/Supporting Cells:\n\n1) Ciliated cells with receptors that allow odorants to\nbind and allow us to smell things\n\n2) Most numerous cells in olfactory epithelium\n\n3) Tall columnar cells on apical side\n\n\nBrush cells:\n\n1) Ciliated columnar sensory cells on apical side\n2) Transduction of general sensation via\ntrigeminal nerve (CN V)\n\n\nClub/Clara cells:\n\n1) Non-ciliated cells w/ dome shaped apical surface\n2) Secrete immune molecules and surfactant-like\nsubstances to protect airways\n\n3) Present from trachea to respiratory bronchioles\n\n\nSK'.‘J Keratinized Stratified Squamous Epithelium\n\n\nNASAL VESTBOLE  Nonkeratinized Stratified Squamous Epithelium\n\n\nNASAL- CAWTX®  Respiratory Epithelium (Pseudostratified Ciliated Columnar)\n\n\nOLFACTOR SormislLumM\n\n\nThicker Pseudostratified Ciliated Columnar layer\nNO Goblet cells\n\n\nNASOPHARINK  Respiratory Epithelium\n\n\nOROPRARIY Respiratory Epithelium\n\n\nSPIGLD TS LoGuUAaL SIS\n\n\nNonkeratinized Stratified\nSquamous Epithelium\n\n\nLARYDGEAL SIDE  Respiratory Epithelium\n\n\nLARMNX &\n\n\nFALSE ToLD  Respiratory Epithelium\n\n\nTROE FOLD  Nonkeratinized Stratified Squamous Epithelium\n.\n\n\nINFRAGLSTTC CAUITY g et s quamous Epithelium\n\n\nStratified Squamous Epithelium\nStratified Columnar Epithelium\n\nRespiratory Epithelium\n\n\nTRAWEA\n\n\nBROMOAL\nBROMCANRLE S\n\n\nIrregularly shaped Cartilage plates\nFewergoblet cells, More elastic fibers\n\n\n—TEEMNAL BROVGHIOLE.\n\n\nSimple Ciliated Cuboidal Epithelium\nNo cartilage, goblet cells\n\n\nRESPIRATORY BRINCHIDLE\n\n\nSimple Ciliated Cuboidal\nEpithelium\n\n\nALJEOL © Simple Squamous Epithelium\n\n\nRLZOLAR. RiSG = KRS Simple Ciliated Cuboidal\nEpithelium\n\n\nNo more Club/Clara cells\nAlveolar Macrophages present\n\n\nType | Pneumocytes:\n\n\n2) Fried egg appearance w/ long cytoplasmic extensions\n3) Comprise 95% of alveolar surface\n4) For gas exchange\n\nType Il Pneumocytes:\n\n1) Cuboidal epithelial cells (dome shape of apical\nsurface w/ microvilli)\n\n2) Contain lameliar bodies to s\n\n3) Surfactant producing and St\n\n4) Comprise 5% of alveolar sur\n",
+      "fileName": {
+        "full": "respiratory-microanatomy.jpg",
+        "small": "respiratory-microanatomy.thumb.jpg"
+      }
+    },
+    "95": {
+      "id": 95,
+      "name": "Congenital Lung Diseases",
+      "altText": "CONGENITAL LUNG DISEASES\n\n\nPARENCHYMA\n\n\nNeonatal Respiratory Distress syndrome:\n\n« Lack of mature surfactant production\n+ Most common cause of respiratory failure in newborns\n\n\n«+Associated w/ preterm infants, C-section, maternal diabetes\n+ Chest X-RAY = reticular granular or ground glass\n\n\nMeconium Aspiration syndrome:\n\n« Aspiration of meconium disrupts normal lung function\n«Results in persistent pulmonary hypertension\n\n« Not associated w/ preterm infants\n\n\nPulmonary Hypoplasia:\n\n+ Incomplete development of lung tissue to complete lung aplasia\n+ Severe lesions incompatible w/ life\n\n+Typically due to extreme prematurity\n\n\nCongenital Diaphragmatic Hernia:\n\n Failure of pleuroperitoneal folds to fuse with septum transversum\n«Typically LT sided\n\n+ Hypoplastic ipsilateral lung\n\n+ Abdominal viscera herniate into thorax\n\n\nBronchogenic Cysts:\n\n« Abnormal budding of ventral foregut endoderm in mediastinum\n+ Often asymptomatic\n\n« Can cause airway compression\n\n\nCystic Adenomatoid Malformation:\n« Defect in development of terminal bronchioles\n\n+ Resembles cystic lesion or small airways\n\n« Can cause polyhydramnios or hydrops fetalis\n\nBronchopulmonary Sequestration:\n\n+ LLL with own blood supply and abnormal connection to\ntracheobronchial tree\n\n«Recurrent pneumonias in SAME location\n\n\nCongenital Large Hyperlucent Lob\n« Congenital lobar emphysema: massive overinflation of 1+ lobs (LUL)\n+ Due to disruption in bronchopulmonary development\n\n\n\nPLEURAL\n\nNeonatal Pneumothorax:\n\n«Airfills pleural space\n\n« Often due to rupture of overdistended alveolus\n«More frequent in preterm infants or those w/\nunderlying lung disease (e.g. RDS)\n\n\nPleural Effusion:\n\n« Fluid fills pleural space\n« Chylothorax = lymphatic fluid\n+ Hemothorax = blood\n\n\nAIRWAY\n\nChoanal Atresia:\n\n«Failure in resorption of bucco-pharyngeal membrane\n« Obstruction of nasal passage\n\n« Associated with CHARGE\n\nPierre Robin Sequence:\n« Oral and maxillofacial malformations\n+ Micrognathis, Glossoptosis, Cleft palate, Macroglossia\n\n\nLaryngeal Cleft:\n\n«Failure of primitive tracheoesophageal septum\n\n- split like opening between posterior larynx and esophagus\n« Recurrent aspiration or cyanosis w/ feeding\nLaryngomalacia:\n\n+ Poor epiglottis development/ abnormal muscular tone\n« Most common congenital anomaly of upper airway\n Inspiratory stridor (worse when supine)\n\nLaryngeal Webs/Atresia:\n Failure of recanalization of larynx\n\nSubglottic Stenosis:\n\n«Incomplete recanalization of laryngotracheal tube\n«3rd most common congenital laryngeal anomaly\n«Narrowing of subglottic airway @ cricoid cartilage level\n\n\nTracheoesophageal Fistula:\n\n+ Tracheoesophageal ridges fail to form/ separation of esophagus/trachea\n+Rare H type presents with recurrent aspiration\n\nTracheomalacia:\n\n+ Weakness in tracheal wall\n\n+ Can be congenital or acquire (due to prolonged intubation)\n+ Recurrent wheezing & barky cough\n\nBronchomalacia:\n\n«Weakness of bronchi/lung lobes = Impairment of mucous clearance can\nlead to recurrent pneumonia’s\n«Monophonic wheezing\n\nBronchial Stenosis/Atresia:\n+ Can cause and result from recurrent infection\n\nTracheal Bronchus:\n",
+      "fileName": {
+        "full": "congenital-lung-diseases.jpg",
+        "small": "congenital-lung-diseases.thumb.jpg"
+      }
+    },
+    "96": {
+      "id": 96,
+      "name": "Respiratory Embryology",
+      "altText": "RESPIRATORY EMBRYOLOGY\n\n\nLung bud\n\n\nTrachea\n\n\nBroﬁchial buds\n\n\nMainstem bronchi\n\n\nSecdndary (lobar)\nbronchi\n\n\nTertiary (segmental)\nbronchi\n\n\nEmbryonic Stage\n\n» Weeks 4-7\n\n« Formation of tertiary (segmental) bronchi\n« Esophageal Atresia\n« Tracheoesophageal Fistula\n\nPseudoglandular Stage\n» Weeks 5- 17\n\n\n« Endodermal tubules form terminal bronchioles with modest capillary network\n« Pulmonary Hypoplasia - Potter’s sequence and diaphragmatic hernia\n\nCanalicular Stage\n« Weeks 16-25\n« Respiratory bronchioles form alveolar ducts with prominent capillary network\n\n\n« Pneumocytes and surfactant develop beginning at week 20\n\nSaccular Stage\n« Weeks 26 - birth\n« Alveolar ducts form terminal sacs with 1° septae\n\n\nAlveolar Stage\n\n*Weeks 36 -8yrs\n\n« Formation of adult alveoli with 2° septation\n« Bronchopulmonary dysplasia\n",
+      "fileName": {
+        "full": "respiratory-embryology.jpg",
+        "small": "respiratory-embryology.thumb.jpg"
+      }
+    },
+    "97": {
+      "id": 97,
+      "name": "Congenital Adrenal Hyperplasia",
+      "altText": "CONGENITAL ADRENAL HYPERPLASIA (CAH)\n\n~« Mutations affecting cortisol synthesis - chronic elevation of ACTH > adrenal hyperplasia\n\n\n« Autosomal recessive\n\n\nClinical Presentation:\n\n+ Hypoglycemia\n\n« Adrenal crisis > vomiting, diarrhea, dehydration\n« Hyperpigmentation\n\n\n21-beta hydroxylase deficiency:\n*Most common virilizing CAH (95%)\n\n21-B hydroxylase deficiency Salt wasting CAH\n\n\n« Severe form of 21 B hydroxylase deficiency\n« Metabolic acidosis\n\n« Hyponatremia\n\n« Hyperkalemia\n\n« Hypoglycemia\n\n« Hypotension 5 4 renin\n\n« Hyperpigmentation (POMC > ACTH & MSH)\n\n\n« Virilization in females; precocious puberty in males\n\n21-B hydroxylase deficiency Non-salt wasting CAH\n+Normal electrolytes\n\n« 24 17-hydroxyprogesterone\n\n¥ Cortisol\n\n+ 2 ACTH, DHEA, androstenedione\n\n«Virilization in females; precocious puberty in males\n\n\n11-B hydroxylase deficiency:\n«Hypokalemia\n\n« Hypertension\n\nol renin\n\n\n« 11-deoxycorticosterone (DOC) » mineralocorticoid activity\n+ Metabolic alkalosis\nlization in females; precocious puberty in males\n\n\n\nTreatment:\n\n« Glucocorticoid replacement therapy\n\n+21-B hydroxylase deficiency - Fludrocortisone\n« Salt wasting form - IV fluids\n\n+ 11-B hydroxylase deficiency - Spironolactone\n« 17-a hydroxylase deficiency - Spironolactone\n\n\n17-a hydroxylase deficiency:\n\n¥ renin\n\n- Hypokalemia (d/t 4 mineralocorticoid activity)\n« Hypertension\n\n4 androgens and glucocorticoids\n\n+Metabolic alkalosis\n\n\n«Delayed puberty in females; Under virilization in males\n",
+      "fileName": {
+        "full": "congenital-adrenal-hyperplasia.jpg",
+        "small": "congenital-adrenal-hyperplasia.thumb.jpg"
+      }
+    },
+    "98": {
+      "id": 98,
+      "name": "Glomerular Filtration",
+      "altText": "GLOMERULAR FILTRATION\n\n\nEpithelial layer w/ Podocytes\n(visceral layer of bowman’s capsule)\n\n-Slit diaphragms prevent excessive leak\nof plasma protein\n\n\nGlomerular Basement Membrane\n-adds to selectivity of filtration barrier\n\n\nFenestrated Capillary Endothelium\n-permeable to all but cells and\nplatelets\n\n\nAfferent Arterial\n\n\nProstaglandin\nDilates\nAfferent Arteriole\n\n\nEfferent Arteriole\n\n\nAngiotensin Il\nConstricts\nEfferent Arteriole\n\n\nC(x)=[U(x) *V]/P(x)\nRPF =[U(x) * V] / P(x)\nRBF = RPF /[1-HCT]\nFF=GFR/RPF\n\n« Cx = GFR: no net secretion or reabsorption (ie. Inulin, creatinine)\n« Cx < GFR: net tubular reabsorption (ie. Glucose, cystatin C)\n« Cx> GFR: net tubular secretion (ie. PAH)\n« Estimate of GFR = Inulin or Creatinine\n« Estimate of RPF = PAH\n**Creatinine overestimates GFR in pts w/ low GFR\nAverage Values\n« C creatinine = 125 ml/min\n« Cinulin =125 mi/min\n« C PAH =600 ml/min\n« C glucose = 0 ml/min\n« Csodium = 0.9 ml/min\n« Curea =70 ml/min\n«FF=20%\n\nP(GC) = Hydrostatic Pressure of Glomerular Capillaries\n\n« Driving filtration force\n\n« Constant along length of capillary\n\n« Increases w/ dilation of afferent arteriole or constriction of efferent arteriole\n\n1(GS) = Oncotic Pressure of Glomerular Capillaries\n« Increases along length of capillary\n« Increases w/ increasing protein concentration (Decreases NFP and GFR)\n\nP(BS) = Hydrostatic Pressure of Filtrate in Bowman’s Space\n« Increases w/ constriction of ureters or obstruction\n\nT(BS) = Oncotic Pressure of Bowman’s Space\n« Should be 0 b/c protein should not be in Bowman'’s space\n",
+      "fileName": {
+        "full": "glomerular-filtration.jpg",
+        "small": "glomerular-filtration.thumb.jpg"
+      }
+    },
+    "99": {
+      "id": 99,
+      "name": "Renal Absorption",
+      "altText": "RENAL ABSORPTION\n\n\nPROIGMAL. COMVDLLTED TURLE\nReabsorbs all of glucose via transcellular Na+/glucose symporter (SGLT-2 &1\nReabsorbs 65% of H20 via aquaporins and paracellular transport\n\nReabsorbs 67% of filtered Na+ via Na/H exchanger (NHE3)\nReabsorbs Cl- w/ Na+ via paracellular diffusion\n\nReabsorb 90% of filtered K+ via paracellular transport (in PCT + TAL)\nReabsorbs 50% of filtered urea via paracellular transport\n\nReabsorbs 80% of filtered HCO3- via Na-3HCO3- symporter\nSecretes H+ as NH4+ via Na/NH4 symporter\n\n\n@ THIN TEXENDING, LDOP OF HENLE\n-Reabsorbs 10% of H20\nNot permeable to Cl- and Na+\n\n\n;\n\n@ T ATENDING, LOOP OF HENLE\n-Reabsorb Na+ and Cl-\nNot permeable to H20\n\n\nTHICK. ASCEMDING, LOCR oF HENLE\n“Reabsorbs 25% of filtered Na+ via\nNa+/K/2Cl- symporter (NKCC)\n-Reabsorb 90% of filtered K+ via\nparacellular & NKCC symporter\n\n(in PCT + TAL)\n\nSecrete all of remaining filtered urea\n\nReabhcarbe 10% HCO32-\n\n\n© DSTAL. CoMOLOTED “UBULE\n-Reabsorbs 5% of filtered Na+ via Na+/Cl- symporter (NCC)\n\n-Type A INTERCALATED cell reabsorbs HCO3- via Cl-/HCO3- AE1 antiporter\n&secretes H+ as H2P04 and NH4 via H+ ATPase, H+/K ATPase\n\nType B INTERCALATED cell secrete HCO3- via Cl-/HCO3- pendrin antiporter\n\n\nLORTICAL. COoULECT NG, DT\n\n\n~Reabsorbs 10% of fltered K+ in Type A INTERCALATED cell via H+/K+ ATPase\nVariable Secretion of K+ (due to Na+ in PRINCIPLE cell, diet, aldosterone, Ang)\n\n\n-Reabsorbs 3% of filtered Na+ via ENaC\nin PRINCIPAL cells\n\n\n-Reabsorb 5-24% H20 depending on ADH\n\n\n-Reabsorb 50% of filtered urea\nfilter 50% & excrete 50% of filtered urea\n\n",
+      "fileName": {
+        "full": "renal-absorption.jpg",
+        "small": "renal-absorption.thumb.jpg"
+      }
+    },
+    "100": {
+      "id": 100,
+      "name": "Horomone Effects on the Kidney",
+      "altText": "HORMONE EFFECTS ON THE KIDNEY\n\n\nStimulated by distension of atria (high venous volume)\n1) Inhibit release of renin and actions of Angiotensin Il\n2) Vasodilates afferent arteriole\n“Increases GFR (& Na+ filtration)\n-Increased Na+ excretion and decreased Na+ reabsorption\n-Increased H20 excretion\n\nIncreased GFR w/o compensatory Na+ reabsorption\n\n\nStimulated by increased sodium intake that increases intrarenal dopamine\n\n1) Inhibits Na+ Reabsorption\n2) Reduces Angiotensin Il receptors\n\n- Decreased Na+ Reabsorption and ability to stimulate Na+ Reabsorption\n-Increased Na+ & H20 excretion\n\n\n1) Vasoconstriction of afferent & efferent arterioles (preferentially efferent)\n2) Aldosterone secretion\n\n3) Na+ reabsorption:\n\n-via aldosterone effects\n\n-b/cincreased time to reabsorb Na+ w/ decreased RBF from vasoconstriction\n-increased proximal convoluted tubule reabsorption (Na+/H+ exchanger)\n\n4) 2 Thirst response\n\nIncreased GFR w/ compensatory Na+ reabsorption = protective mechanism\n(+) K+ secretion\n(+) NCC symporter\n(+) NHE3 exchanger\n\n\n-UTA1 & UTA3 transporters translocations to surface\n\n“Increased urea reabsorption in inner medullary collecting tubule\n-UTA2 secretes urea in thin ascending loop of Henle\n\nCOUNTERAERENT MUSTIPLICATION\n\n= large gradient of urea creates MEDULLARY OSMOTIC GRADIENT\n= enables increased H20 reabsorption\n\nMedullary osmotic gradient decreases in hydrated\nstate & increases in dehydrated state (+ADH)\n\n\nWater Balance alters plasma sodium level\nSodium Balance alters TBW/ECV\n\n\nStimulated by Angiotensin Il and increased plasma [K+}\n\n\n1) Increases # of ENaC\n\n-Increases Na+ Reabsorption\n-Increases H20 Reabsorption\n\n-Increases K+ secretion via PRINCIPAL cell\n-Increase H+ secretion via INTERCALATED cell\n",
+      "fileName": {
+        "full": "horomone-effects-on-the-kidney.jpg",
+        "small": "horomone-effects-on-the-kidney.thumb.jpg"
+      }
+    },
+    "101": {
+      "id": 101,
+      "name": "Hyperparathyroidism",
+      "altText": "HYPERPARATHYROIDISM\n\n\n1° HYPERPARATHYROIDISM\n\n« Issue with parathyroid\n\n(e.g. parathyroid adenoma, parathyroid\nhyperplasia, parathyroid carcinoma)\n+«+PTH\n\n« 4 Ca2+blood\n\n+v PO4\n\n« # Ca2+urine\n\n2° HYPERPARATHYROIDISM\n\n« Chronic Kidney Disease\n*«+PTH\n\n« 4 PO4 d/t kidney disease\n+ ¥ Ca2+blood\n\n\nMOA:\n\n« Hyperphosphatemia stimulates FGF23 release from bone\n\n« FGF23 inhibits 1-a-hydroxylase and v 1,25-dihydroxyvitamin D\n«Results in v intestine Ca2+ absorption = hypocalcemia\n\n\n2° HYPERPARATHYROIDISM\n\n« Liver disease\n\n+ ¥ 25-hydroxylase d/t liver disease\n+ ¥ Ca2+blood\n\n+«+PTH\n\n+ 4 PO4 b/c kidneys are ok\n\n\nSQUAMOUS CELL CARCINOMA\n\n« Paraneoplastic lung cancer\n\n« 4 PTHrP (PTH related protein)\n\n« 4 Ca2+blood\n\n« ¥ PTH d/t negative feedback from Ca2+\n« ¥ P04 b/c kidneys are ok\n\n« 4 Ca2+urine\n\n\nFAMILIAL HYPOCALCIURIC HYPERCALCEMIA\n« Defective G-coupled Ca2+ sensing receptors\n\n+«+PTH\n\n« 2 Ca2+blood\n\n+4 PO4 b/c kidneys are ok\n\n* ¥ Ca2+urine\n\n\n« 1 Ca2+ reabsorption in distal tubule\n« ¥ Phosphate reabsorption in proximal tubule\n« Activates vitamin D (1-a-hydroxylase) » calcitriol\n\n\n« 2 Ca2+ absorption in smallintestine\n\n\n« Osteocytic osteolysis\n« Osteoclast bone resorption\n\n\nHYPOCALCEMIA SIGNS:\n\nCHVOSTEK SIGN:\n« Tapping along facial nerve induces muscle contractions of eye, mouth, nose\n\nTROSSEAU SIGN:\n« Carpal spasms induced bly occlusion of circulation to forearm and hand\n",
+      "fileName": {
+        "full": "hyperparathyroidism.jpg",
+        "small": "hyperparathyroidism.thumb.jpg"
+      }
+    },
+    "102": {
+      "id": 102,
+      "name": "Graves Disease",
+      "altText": "GRAVES DISEASE\n\nSYMPTOMS OF HYPERTHYROIDISM:\n\n« Hypermetabolic d/t + synthesis of Na/K pump\n\n« Hypersympathetic d/t » B1 receptors\n\n« Hyperglycemia d/t + gluconeogenesis and glycogenolysis\n« Hypolipidemia d/t + LDL receptors\n\n\n« GRAVES DISEASE\n« Most common cause of hyperthyroidism\n\n« Autoantibodies against TSH receptor - Anti-thyrotropin receptor antibodies (TRAb), Anti-Thyroglobulin antibodies (TgAb)\n«Type Il HSR\n\n\n« SXS: Goiter, Exophthalmos, Pretibial Myxedema d/t fibroblasts and GAGs\n\n\n«Labs:\n\n- HLA-DR3, HLA-DR5\n\n- High T4, Low TSH d/t negative feedback\n« Histo:\n\n- Hyperplasia of follicles\n\n> Tall and crowding follicular epithelium\n\n- Scalloped margins of colloid\n\n\n+ CONGENITAL HYPERTHYROIDISM\n« Transplacental passage of TSH receptor Ab from mother with Graves disease\n\n+ SXS: Premature w/ IUGR, Goiters, Resolves 6-12 wks\n\n+ TOXIC MULTINODULAR GOITER\n« Focal hyper functioning follicular cells\n\n« TSH receptor mutation or chronic iodine deficiency\n« Labs:\n\n> HighT3and T4\n\n\n«THYROID STORM\n\n\n« Hyperthyroidism that worsens in setting of acute stress (e.g. infection, trauma, surgery)\n+ SXS: Fever, Sweating, Tachycardia/AFIB, Delirium, N/V\n« TXT: Propranolol, Propylthiouracil, Prednisone, Potassium lodide\n\n» JOD-BASEDOW PHENOMENON\n« Thyrotoxicosis d/t iodine excess\n« Opposite of Wolff-Chaikoff effect\n",
+      "fileName": {
+        "full": "graves-disease.jpg",
+        "small": "graves-disease.thumb.jpg"
+      }
+    },
+    "103": {
+      "id": 103,
+      "name": "Hypothyroidism",
+      "altText": "HYPOTHYROIDISM\n\n\n1° HYPOTHYROIDISM\n« HASHIMOTO’s THYROIDITIS\n\n« Most common cause of hypothyroidism in iodine sufficient areas\n\n\n+ Autoimmune destruction of thyroid gland > Antithyroid peroxidase (anti-microsomal) antibodies, anti thyroglobulin antibodies\n\n\n«Type IVHSR\n\n- CD8+ T cells target follicular cells\n\n- CD4+ cells release cytokines\n\n- Macrophages invade thyroid\n«Increased risk of developing B cell ymphoma\n+SXS: Nontender thyroid enlargement\n«Labs:\n3 HLA-DR3. HLA-DRS\n\n\n> Initial hyperthyroidism d/t gland destruction » Hypothyroidism\n- Low T4, T3, High TSH\n\n« Histo:\n\n- Lymphoid aggregates w/ germinal centers\n\n= Hurthle cells (eosinophilic metaplasia of cells lining follicles)\n\n\n« MYXEDEMA COMA\n\n~Hypothyroidism d/t acute stress (e.g. infection, stroke)\n+ SXS: Altered mental status, confusion, coma\n\n+ Hypoglycemia, Hypothermia, Hypoventilism\n\n« TXT: High dose Levothyroxine\n\n\n« WOLFF-CHAIKOFF EFFECT\n\n« Hypothyroidism d/t iodine excess\n\n« Protective autoregulation of compensation to prevent a\nhypermetabolic state\n\n« Lasts 10-14 day:\n« 4 lodine » Inhibition of thyroid peroxidase » v T4/T3\n\n\n\n« CREATINISM\n« Congenital hypothyroidism\n« Antibody mediated maternal hypothyroidism\n\n\n+ SXS: Pot bellied, Pale, Puffy faced, Protruding umbilicus, Protuberant tongue, Poor brain development\n\n\n« SUBACUTE GRANULOMATOUS (DE QUERVAIN) THYROIDITIS\n« Self limited diseases preceded by viral infection\n« SXS: Very tender thyroid\n\n+ RIEDEL FIBROSING THYROIDITIS\n\n«Fibrosis of thyroid and can extend to local structures\n« Seen most commonly in middle aged females\n\n« Associated with 1gG4-related systemic diseases\n\n+ SXS: Hard (rock like) non-tender goiter\n\n\n2° HYPOTHYROIDISM\n\n« Hypopituitarism:\n\n\n« Non-secreting pituitary adenoma (in adults), craniopharyngioma (in children)\n\n« Empty sella syndrome - atrophy or compression of pituitary in the sella turcica\n\n« Pituitary apoplexy » sudden hemorrhage of pituitary gland\n\n« Sheehan syndrome - ischemic infarct of pituitary postpartum d/t pregnancy induced pituitary growth which + susceptibility to hypoperfusion\n« Labs: Low T4, T3, Low TSH\n",
+      "fileName": {
+        "full": "hypothyroidism.jpg",
+        "small": "hypothyroidism.thumb.jpg"
+      }
+    },
+    "104": {
+      "id": 104,
+      "name": "Cushing Syndrom",
+      "altText": "CUSHING SYNDROME\n\n\nCauses:\n\n#1 = Exogenous Glucocorticoids (latrogenic)\n\n1) ACTH Dependent = Cushing Disease (ACTH secreting Pituitary adenoma)\n2) ACTH Independent = Adrenal Lesion (Adrenal Adenoma or Carcinoma)\n\n3) Ectopic ACTH Syndrome = Paraneoplastic Syndrome (ie. Small cell lung carcinoma)\n\nPathogenesis:\n\nHYPERGLYCEMIA\n\n1. Glucocorticoids decrease glucose utilization: (+) gluconeogenesis, Glycogenolysis,\nProteolysis, Lipolysis\n\n2. Increase blood glucose => Chronic Insulin Secretion\n\n3. Insulin (+) Lipogenesis => Fat redistribution around trunk and excess fat deposits\n= Central Obesity, Buffalo Hump, Supraclavicular Fat Pads\n\n= Leads to insulin resistance and drives towards a Type 2 Diabetes state\n\n\nHYPERTENSION\n1. Glucocorticoids have some mineralocorticoid activity\n\n=increase Na+ & H20 retention\n\n2. Glucocorticoids increase cardiovascular sensitivity to\ncatecholamines and increase Ang Il effects\n=Vasoconstriction\n\n= Leads to Hypertension\n\nRECURRENT INFECTIONS\n1. Glucocorticoids are immune suppressing\n=Recurrent infections, Impaired Wound healing\n\nOSTEOPOROSIS\n1. Glucocorticoids increase bone resorption\n= Osteoporosis\n\n\nSTRIAE\n1. Glucocorticoids increase catabolism of collagen in SQ tissues\n= Striae, Bruising, Skin thinning\n\nMUSCLE WEAKNESS\n1. Glucocorticoids increase catabolism of muscle (proteolysis)\n=Muscle Weakness, thin arms and legs\n\n\nHIRSUTISM\n\n1. ACTH stimulates zona reticularis = Androgen production\n\n2. Women are more affected b/c adrenals is main place for androgen\nproduction while men also have testses for androgen production\n\n= Hirsutism, Oligomenorrhea\n\nNEUTROPHILS\n1. Glucocorticoids increase circulating WBC and increase\n\ndemargination of neutrophils from endothelial surface\n= Increased WBC (*Neutrophils)\n\n\nComplications:\n\n-Recurrent Infections\n-Hypertension\n-Diabetes Mellitus\n-Osteoporosis\n-Oligomenorrhea\n\nGeneral Labs:\n\n1. Increased WBC (Neutrophils)\n\n2. Hyperglycemia\n\n3. Hypokalemia\n\n4. Metabolic Alkalosis\n\n(due to mineralocorticoid activity\nof cortisol)\n\n\ns\nLow Dose Dexamethasone Suppression Test\n\n\n4 ACTH = ACTH independent\nCushing Syndrome\n\n\n« Exogenous glucocorticoids\n+ Adrenal tumor\n\n\n4 ACTH = ACTH dependent\n— Cushing Syndrome __\n\n\nHigh Dose Dexamethasone\nSuppression Test\n\n\nCRH Stimulation Test\n\n\n«No suppression or stimulation - Ectopic ACTH secretion\n« 4 ACTH w/ High dose dexamethasone or + ACTH/cortisol\nw/ CRH stimulation - Cushing disease (pituitary adenoma)\n\n\nTreatment:\n\n#1 Surgical Resection of Tumor\n\n2. Bilateral Adrenalectomy * May Cause Nelson’s Syndrome\n3. Pituitary Irradiation\n\n4, Glucocorticoids\n",
+      "fileName": {
+        "full": "cushing-syndrom.jpg",
+        "small": "cushing-syndrom.thumb.jpg"
+      }
+    },
+    "105": {
+      "id": 105,
+      "name": "Adrenal Insufficiency (Addision Disease)",
+      "altText": "ADRENAL INSUFFICIENCY (ADDISON DISEASE)\n\n« Deficient production of adrenal gland enzymes\n\n« Can present as:\n« Primary acute adrenocortical insufficiency (adrenal crisis)\n« Primary chronic adrenocortical insufficiency (Addison disease)\n« Secondary adrenocortical insufficiency due to decreased adrenocorticotropic hormone (ACTH) production by pituitary\n« Tertiary adrenal insufficiency due to decreased corticotropin-releasing hormone (CRH) production by hypothalamus\n\n\nHistory\n« Patients with chronic insufficiency:\n« Abdominal Pain\n« Anorexia\n« Diarrhea\n« Fatigue\n« Nausea\n«Vomiting\n« Weakness\n« Weight loss\n\n\nPhysical Exam\n« Acute insufficiency:\n« Hypotension\n«Coma\n« Fever\n« Mental status changes (e.g. Confusion)\n\n« Chronic insufficiency:\n« Hypotension\n« Hyperpigmentation of the skin\n« Weight loss\n\n\nLabs & Diagnostics\n\n« Low cortisol\n\n«Abnormal ACTH\n«High in primary adrenal insufficiency vs. low in\nsecondary and tertiary adrenal insufficiency\n\n« Hyperkalemia with metabolic acidosis\n\n« Hypoglycemia\n\n« Elevated BUN\n\n« Eosinophilia\n\n\nManagement\n«Acute:\n\n« |V fluids to support blood pressure\n« Correction of hypoglycemia if present\n« Glucocorticoids (e.g. Hydrocortisone)\n\n\n« Mineralocorticoids (e.g. Fludrocortisone)\n\n«Long term replacement:\n« Glucocorticoids\n« Mineralocorticoids\n« Androgens\n",
+      "fileName": {
+        "full": "adrenal-insufficiency-addision-disease.jpg",
+        "small": "adrenal-insufficiency-addision-disease.thumb.jpg"
+      }
+    },
+    "106": {
+      "id": 106,
+      "name": "Lysosomal Storage Disorders",
+      "altText": "LYSOSOMAL STORAGE DISORDERS\n\n\nTay Sachs Disease\n\n« Cherry red spot on macula\n« Progressive neurodegeneration + weakness\n\n\n« Developmental delay\n+ Lysosomes look “onion skin”\n« DDX: Niemann Pick Disease\n\n\nMetachromatic\nLeukodystrophy\n\n+ Central & peripheral demyelination\n«Ataxia\n\n\n« Ataxia\n+Dementia\n+ Affects neurons\n\n\nKrabbe Disease\n\n« Optic atrophy\n\n+ Peripheral neuropathy\n\n+ Developmental delay\n\n« Affects neurons >\n\n\nNiemann Pick Disease\n\n« Cherry red spot on macula\n« Progressive neurodegeneration > weakness\n« Hepatosplenomegaly\n\n«DDX: Tay Sachs Disease\n\n\nGaucher’s Disease\n\n« Most common lysosomal storage disease\n+Type 13 > Hepatosplenomegaly, Pancytopenia, Bone crises\n+ Type 2 > Rapid neurodegeneration\n\n« Type 3> Slower neurodegeneration\n\n+ Gaucher cells 5 lipid laden macrophages look “wrinkled”\n\n\nFabry Disease\n\n+ Peripheral neuropathy\n+ Angiokeratomas\n« Hypohidrosis\n\n\n« Late disease -» Renal failure and CV failure\n« Affects arteries and neurons. >\n\n\nHexosaminidase A\n\n\nGalactocerebrosidase\n\n\nSphingomyelinase\n\n\nGlucocerebrosidase\n\n\nAlpha - Galactosidase A\n\n\nArylsulfatase A\n",
+      "fileName": {
+        "full": "lysosomal-storage-disorders.jpg",
+        "small": "lysosomal-storage-disorders.thumb.jpg"
+      }
+    },
+    "107": {
+      "id": 107,
+      "name": "Type II Diabetes Mellitus",
+      "altText": "TYPE Il DIABETES MELLITUS\n\n« Associated with metabolic syndrome\n« Non-insulin dependent and adult-onset\n\n\n« Signs\n\n« Acanthosis nigricans\n« Overweight\n\n« Dehydration\n\n» Symptoms\n«Polyuria\n\n« Polydipsia\n\n« Polyphagia\n«Nocturia\n«Blurry vision\n\n« Risk Factors\n« Obesity\n«1°relatives w/ diabetes\n\n\n« Ethnicity\n\n« Hispanics, Native\nAmericans, African Americans,\nAsian Americans, Pacific Islanders\n«Dvslipidemia\n\n\n« Pathophysiology\n« Insulin resistance and relative insulin deficiency - Hyperglycemia\n« Pancreatic B cell dysfunction\n\n> B cell compensation - 3 cell decompensation > B cell failure\n\n\n« Macrovascular complications\n« Coronary artery disease\n\n« Cerebrovascular disease\n« Peripheral vascular disease\n«Monckeberg arteriosclerosis\n\n« Microvascular complications,\n\n\n« Diabetic retinopathy\n« Blurry vision or vision loss\n« Microaneurysms\n\n\n« Dot/blot or flame hemorrhages\n« Cotton wool spots\n\n« Diabetic nephropathy\n«Edema\n« Proteinuria\n«V GFR\n« Hypertension\n\n« Diabetic peripheral & autonomic neuropathy\n\n\n« Paresthesias\n\n« Loss of sensation\n\n« “Stocking and glove distribution”\n« Muscle atrophy, Charcot foot\n\n« Overflow urinary incontinence\n\n\n« Diabetic gastroperesis\n« Early satiety\n« Abdominal fullness\n« Nausea, vomiting\n",
+      "fileName": {
+        "full": "type-ii-diabetes-mellitus.jpg",
+        "small": "type-ii-diabetes-mellitus.thumb.jpg"
+      }
+    },
+    "108": {
+      "id": 108,
+      "name": "Hyperosmolar Hyperglycemic State",
+      "altText": "HYPEROSMOLAR HYPERGLYCEMIC STATE\n\n« Complication of diabetes mellitus type Il\n« Usually precipitated by infection, majorillness, or inadequate insulin therapy\n\n\nHistory\n\n« Polyuria, Polydipsia\n\n« Change in mental status\n«Seizures\n\n\n«Seen in type Il diabetics with limited ability\nto drink (elderly orimmobile patients)\n\n\nPathophysiology\n« Hyperglycemia\n\n\n+Glucosuria\n« Osmotic Diuresis\n\n« Profound dehydration\n\n\n« Ketogenesis does not occur because there is still\nsome endogenous insulin to suppress lipolysis\n\n\nPhysical Exam\n\n«Altered mental status\n« Decreased skin turgor and dry mucous\nmembranes due to dehydration\n\n\n« Tachycardia\n« Hypotension\n\n\nLabs & Diagnostics\n\n« Hyperglycemia (>600 mg/dL)\n\n« Hyperosmolarity (>333 mOsm/kg)\n«No acidosis or ketones\n\n« Elevated BUN and creatinine\n\n« Pseudohyponatremia\n\n\nManagement\nIV normal saline\n«IVinsulin\n\n\no« K+\n",
+      "fileName": {
+        "full": "hyperosmolar-hyperglycemic-state.jpg",
+        "small": "hyperosmolar-hyperglycemic-state.thumb.jpg"
+      }
+    },
+    "109": {
+      "id": 109,
+      "name": "Tylenol Toxicity",
+      "altText": "TYLENOL TOXICITY\n\n\nAcetaminophen\n\n\nGlucuronidation & Sulfation is saturated\n\n\nNon-Toxic Metabolites\n\n\nExcretion\n\n\nNAPQ1 (Reactive Toxic Intermediates)\n\n\nGlutathione\ndetoxifies NAPQ1\n\n\nNon-Toxic Metabolites\n\n\nReactive Toxic Metabolite\n\n\n- HEPATOTOXICITY\n\n« N-Acetylcysteine treats Acetaminophen\n\noverdose by acting like glutathione\nAssess hepatotoxicity development after acetaminophen toxicity\n\n« Measure acetaminophen levels at least 4 hours post ingestion\n\n\n« Chronic EtOH decreases Glutathione by upregulating CYP450 - increases risk of acetaminophen-induced hepatotoxicity\n« Acute EtOH competitively inhibits CYP450 - potentially reduces acetaminophen-induced hepatotoxicity\n",
+      "fileName": {
+        "full": "tylenol-toxicity.jpg",
+        "small": "tylenol-toxicity.thumb.jpg"
+      }
+    },
+    "110": {
+      "id": 110,
+      "name": "Gastrointestinal Secretions",
+      "altText": "GASTROINTESTINAL SECRETIONS\n\n\nREGULATION:\n\n\n« Protein » Gastrin\n\n« Fat > Secretin\n\n« Protein, Fat » CCK\n\n« Protein, Fat, Glucose - GIP\n\n\nVagus Nerve:\n\n» M3 > Parietal cells\n+GRP > G cells\n\n« Chief cells\n\n«lcells\n\n\nFood & Distension\n\n\nAntrum\n\n\n« G-CELLS - GASTRIN\n« CCKb receptors on ECL cells -» Histamine > H2 receptors on Parietal cells » HC|\n« CCKb receptors on Parietal cells » HCl\n«Vagus nerve\n« ACh > M3 receptors on Parietal cells > HCl\n« GRP - G-cells\n« ACh > Chief cells » Pepsin for protein digestion\n\n\nDuodenum\nJejunum\n\n\n«|-CELLS » CCK\n«Vagus nerve > ACh\n« 2 Pancreatic secretion\n« Gallbladder contraction & Sphincter of Oddi relaxation\n« ¥ Gastric emptying\n\n\nDuodenum «S-CELLS » SECRETIN\n« 2 Pancreatic HCO3- secretion\n« 1 Bile secretion\n« ¥ Gastric acid secretion\n« Pyloric sphincter contraction\n\n\nDecrease in PH\n\n\nPancreas Islets\nGl mucosa\n\n\n« D-CELLS > SOMATOSTATIN\n« ¥ Gastric acid & Pepsi oven secretion\n« ¥ Pancreatic & Small intestine secretion\n« ¢ Gallbladder contraction\n« ¥ Insulin & glucagon secretion\n\n\nDuodenum\nJejunum\n\n\n«K-CELLS > GIP\n« ¥ Gastric acid secretion\n« 2 Insulin secretion\n",
+      "fileName": {
+        "full": "gastrointestinal-secretions.jpg",
+        "small": "gastrointestinal-secretions.thumb.jpg"
+      }
+    },
+    "111": {
+      "id": 111,
+      "name": "Interleukins",
+      "altText": "INTERLEUKINS\n\n\n“HOT T-BONE STEAK”\n\n“Clean up Aisle 8”\n\n«IL-1 > Fever\n\n*IL-2 > T-cells\n\n«IL-3 > Bone Marrow\n\n«IL-4 > IgE\n\n«IL-5> 1gA\n\n« IL-6 > Acute phase reactants\n« IL-8 > Neutrophils\n\n«IL-12 > NK cells, THO > TH1 cells\n« TNFa - DIC, shock, cachexia\n\n\nMacrophages = IL-1, II-6, IL-8, IL-12, TNF a\nTH1=IL-12, IFN-y\n\nTH2 = IL-4, IL-5, IL-6, IL-10, IL-13\nTH17=IL-17, IL-21, 1L-22\n\nTreg = IL-10, IL-35, TGF-B\n\nIL-7 > lymphoid development and maintenance\n\n\nIFN-a\nIFN-B\n\n\nNK cell\n\n\nIFN-y\n\n\nCD16 & CD56 (Fc of IgG)\n\n\nANTIBODY DEPENDENT\nCELLULAR CYTOTOXICITY\n(ADCC)\n\n\nIFN-y\n\n\nMacrophage °\n\n\nIL-12\nIFN-y\n\n\nCELLULAR IMMUNITY\n\n\nIL-12\nIFN-y\n\n\nIL-4\nIL-10\n\n\nHUMORAL IMMUNITY\n\nB CELL\n\n\n«IL-4,1L-13 > IgE\n<-4 > 1gG\n«IL-5, TGF-B > IgA\n\n\nIL-6\nTGF-B\n\n\nCD8 T cell\n\n\nTH17\n\n\n«IL-17 > Neutrophils\n«1L-21 5> TH2,CD8 T cell, NK cell\n«1L-22 5 Innate immunity\n\n\nTGF-B\n\n\nT-REG\n\n\niL-10\n« v Immune response\n« ¥ TH1 cytokines\n«¥ MHCII\n« Inhibit Macrophages & Dendritic cells\n\n\nCell Markers:\n\nHematopoietic stem cells = CD34\n\nB cells =CD19, CD20, CD21, CD40, MHC II, B7\nPlasma cells = no CD20\n\nT cells = CD3, CD28 (binds B7 on APC)\n\nCD4 T cells = CD4, CD40L, CXCR4/ CCR5\n\nCD8T cells=CD8\n\nT-reg cells = CD4, CD25\n\nNK cells=CD16, CD56\n",
+      "fileName": {
+        "full": "interleukins.jpg",
+        "small": "interleukins.thumb.jpg"
       }
     }
   }
