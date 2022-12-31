@@ -12,19 +12,22 @@ $page-column-max-width: 1200px;
 @function color($name, $shade: 'default') {
   @if $name == 'blue' {
     @if $shade == 'darker' {
-      @return #10384D;
+      @return #1A3133;
     }
     @if $shade == 'dark' {
-      @return #17516E;
+      @return #2A4A4D;
+    }
+    @if $shade == 'mid' {
+      @return #456F73;
     }
     @if $shade == 'light' {
-      @return #2EA0D8;
+      @return #60868A;
     }
     @if $shade == 'lighter' {
-      @return #36BDFF;
+      @return #8FAfB3;
     }
     @if $shade == 'lightest' {
-      @return #99DEFF;
+      @return #CFE4E6;
     }
   }
   @else if $name == 'text' {
@@ -46,10 +49,10 @@ $page-column-max-width: 1200px;
   }
   @else if $name == 'grey' {
     @if $shade == 'darker' {
-      @return #263740;
+      @return #292C2E;
     }
     @if $shade == 'lightest' {
-      @return #EBF0F2;
+      @return #EDF2F2;
     }
   }
   @return red;
