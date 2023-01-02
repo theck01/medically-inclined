@@ -246,7 +246,19 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            66,
+            70,
+            112,
+            95,
+            99,
+            100,
+            113,
+            114,
+            57,
+            60,
+            59
+          ]
         },
         {
           "id": 14,
@@ -258,7 +270,17 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            115,
+            87,
+            88,
+            86,
+            85,
+            84,
+            116,
+            117,
+            109
+          ]
         },
         {
           "id": 15,
@@ -270,7 +292,16 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            118,
+            119,
+            91,
+            120,
+            92,
+            89,
+            93,
+            90
+          ]
         },
         {
           "id": 16,
@@ -282,7 +313,17 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129
+          ]
         },
         {
           "id": 17,
@@ -294,7 +335,13 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            41,
+            98,
+            100,
+            114,
+            99
+          ]
         },
         {
           "id": 18,
@@ -306,19 +353,47 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            57,
+            67,
+            69,
+            68,
+            47,
+            48,
+            43,
+            63,
+            64,
+            61,
+            62,
+            60,
+            59,
+            49,
+            50,
+            51,
+            80,
+            81,
+            54,
+            53,
+            52,
+            56,
+            55,
+            96
+          ]
         },
         {
           "id": 19,
-          "name": "Behavioral  Science",
+          "name": "Endocrine",
           "coverImg": {
             "fixed": {
-              "fileName": "behavioral-science.webp",
-              "altText": "Baby, child, and adolescent"
+              "fileName": "endocrine.webp",
+              "altText": "Human body with indecipherable anatomical labels"
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            106,
+            97
+          ]
         }
       ]
     },
@@ -1216,6 +1291,168 @@
       "fileName": {
         "full": "interleukins.jpg",
         "small": "interleukins.thumb.jpg"
+      }
+    },
+    "112": {
+      "id": 112,
+      "name": "2° Causes of Hypertension",
+      "altText": "2° CAUSES OF HYPERTENSION\n\n\nBlood Pressure\n\n\nCardiac Output\n\n\nStroke Volume\n\n\nHeart Rate\n\n+ PHEOCHROMOCYTOMA: due to + catecholamines/ SNS\n\n\n4\n\nMyocardial\nContractility\n\n« PHEOCHROMOCYTOMA: due\nto 4 catecholamines/ SNS\n\n\nVenous Return\n\n\n» HYPERTHYROIDISM\n\n\nBlood Volume\n\n\nVenous Tone\n\n\nTotal Peripheral Resistance\n\n\nArteriolar Compliance\n\n\nArteriolar Tone\n\n\nRAAS\n\n« RENAL ARTERY STENOSIS: underperfusion and v GFR triggers renin system based HTN\n« CHRONIC KIDNEY DISEASE: v GFR causes ¥ Na+/H20 excretion\n\n+ HYPERALDOSTERONISM: aldosterone producing tumor (Conn’s syndrome) or renin\nsecreting tumor (aldosterone + Na+ reabsorption/ K+ excretion & H20 follows Na+)\n\n« HYPERCORTISOLISM: due to excess cortisol (Cushing Syndrome) or excess cortisol 2°\nexcess ACTH (Cushing Disease) = cortisol binds mineralocorticoid receptor\n\n+ COARCTATION OF AORTA: narrowing of aorta = lower blood pressure in legs\n\nSympathetic tone\n\n« SLEEP APNEA: + SNS activity due to repeated arterial desaturation sensitizing\ncarotid body chemoreceptors\n\n+ PHEOCHROMOCYTOMA: 4 catecholamines from adrenal tumor + SNS (+ HR\nand contractility)\n\n+ HYPERTHYROIDISM: 4 expression of B receptors 4 catcholamine sensitivity and\nthyroid hormones stimulate Na+/K+ pumps in kidney (+ Na+/H20 resorption)\n",
+      "fileName": {
+        "full": "2-causes-of-hypertension.jpg",
+        "small": "2-causes-of-hypertension.thumb.jpg"
+      }
+    },
+    "113": {
+      "id": 113,
+      "name": "Autonomic Nervous System & Heart",
+      "altText": "1) Release of Norepinephrine binds B1 adrenergic receptors\n*B1 adrenergic receptors respond stronger to Epinephrine\n(secreted into blood by adrenal gland)\n\n\nNE > a receptors\nEPI- a &  receptors\n\n\n1) Stimulates SA node to pace faster\n2) Improves AV node conduction\n3) Increases force of myocardial contraction\n\n\n4) Increases irritability of atrial and junctional automaticity foci\n\n\nG a stimulatory\nCAMP pathway to increase contractility and HR (increase CO)\n\n\n1) Constriction of arteries\n\n\nNorepinephrine binds al arterial adrenergic receptors —\n\n*al adrenergic receptors respond stronger to Norepinephrine than Epinephrine\n\n\nGag\nPhospholipase C pathway\n-IP3 increases myosin light chain kinase to increase vasoconstriction of vessels\n\n\nG ainhibitory\n\ncAMP pathway to increase myosin light chain kinase and increase vasoconstriction (think\nmuscle contraction w/ myosin kinase)\n\nDecreased NE or ACh release b/c less Ca2+ for vesicle fusion and neurotransmitter release\n\n\nG a stimulatory\ncAMP pathway to inhibit myosin light chain kinase to vasodilation of vessels\n\n\nSympathetic Response\n* Baroreceptors detect low blood pressure and constrict peripheral\narteries during standing\n\n\n* Orthostatic hypotension=abrupt fall in blood pressure due to failure\nof compensatory sympathetic mechanisms during upon standing\n\n\nSympathetic Response + Paradoxical Parasympathetic Reflex\n* Prolonged standing increases rate of sinus pacing but vasoconstriction\nin peripheral arteries fail in some elderly patients\n\n* Partially filled ventricles contract vigorously and triggers\nparasympathetic system to decrease force of contraction\n\n\n1) Stimulated by Vagus Nerves\n2) Release of Acetylcholine to bind\ncholinergic receptors\n\n\n1) Inhibits SA Node, decreasing heart rate\n\n2) Decreases speed and force of myocardial contraction\n3) Depresses AV node\n\n4) Decreases irritability of automaticity foci\n\n\n1) Inhibits SA Node, decreasing heart rate\n\n2) Decreases speed and force of myocardial contraction\n3) Depresses AV node\n\n4) Decreases irritability of automaticity foci\n\n\nG ainhibitory\ncAMP pathway to decrease HR\n\n\n\nAcetylcholine binds arterial cholinergic receptors\n\n1) Dilation of arteries\n\n2) Indirect inhibitory effect on sympathetic ganglia that send nerve\nfibers to vessels\n\n\nGaq\n\nPhospholipase C pathway\n\n-DAG increases PKC to alter enzyme activity\n\n-IP3 increases Ca2+ which increases NO synthesis to vasodilate vessels\n\n-M3 on smooth muscle -» vasoconstriction\n\n\nParasympathetic Reflex\n\n* Induced by severe pain or seeing own blood\n\n1. Slows SA Node pacing -> Bradycardia\n\n2. Dilates systemic arteries -> Hypotension\n\n3. Reduces brain’s blood supply to point of syncope\n\n\n* b/cvagus nerve stimulates Gl and inhibits cardiac (stimulates parasympathetic)\n1. Induced Gagging\n2. Carotid Sinus massage\n\n* Inhibits irritable foci (ie. Atrial or AV junctional) ie. Converts supraventricular\n\ntachycardia to sinus rhythm\n*Inhibits SA &AV Node and increases refractoriness ie. Acts as a diagnostic aid for\n\n2:1AV block or atrial flutter\n",
+      "fileName": {
+        "full": "autonomic-nervous-system-heart.jpg",
+        "small": "autonomic-nervous-system-heart.thumb.jpg"
+      }
+    },
+    "114": {
+      "id": 114,
+      "name": "Autoregulation",
+      "altText": "AUTOREGULATION\n\nTo maintain constant RBF & GFR given change in renal perfusion pressure\n\n\n+ in systemic BP stretches afferent arteriole walls\n\nv\n\nStretch- activated channels of smooth muscle cells\nv\n\n4 intracellular Ca2+ = smooth muscle contraction\nv\n\nVASOCONSTRICT AFFERENT ARTERIOLE - + resistance and + RBF\n\n« ¥ systemic BP » vasodilation - ¢ resistance and + RBF\n\n\n+ Renal arterial pressure\nv\n\n+ Fluid delivery/flow\nv\n\n+ GFR = 4 NaCl reabsorption\nv\n\nMacula densa releases ADENOSINE\n\n\n+ Adenosine constricts afferent arteriole (+ GFR & + RBF)\n+Inhibits renin release\n\n\n+ Renal arterial pressure\n+\n+ Fluid delivery/flow\n\n\nv\n+ GFR=4 NaClreabsorption\n\nv\nMacula densa releases PGE2 & NO\n\n+ PGE2 & NO dilate afferent AND efferent arteriole (+ GFR & v RBF)\n« Stimulates renin release\n\n\nJuxtaglomerular apparatus\n\n\nMacula Densa -\n\n\nDistal Convoluted Tubule\n\n\nEfferent Arteriole\n\n\nAfferent Arteriole\n\n\nMesangial Cells )\n\n\nAfferent arteriole constriction\nAfferent arteriole dilation\nEfferent arteriole constriction\n\nEfferent arteriole dilation\n\n\nConstriction (afferent or efferent) = Decrease RPF\nDilation (afferent or efferent) = Increase RPF\n\n\nKidneys maintain GFR by Prostaglandins and Angiotensin Il\nNSAIDS and ACE inhibitors block these protective mechanisms\n\n\n\n1. LOW PERFUSION PRESSURE\n\n- low blood pressure/ low circulating volume\n\n2. LOW NaCl DELIVERY\n\n-sensed by macula densa and triggers tubuloglomerular feedback\n3. SYMPATHETIC SYSTEM\n\n-activates B and a receptors on afferent/efferent arterioles\n\n\n+ Na+ reabsorption\n+ K+ secretion\n+ H+ secretion\n",
+      "fileName": {
+        "full": "autoregulation.jpg",
+        "small": "autoregulation.thumb.jpg"
+      }
+    },
+    "115": {
+      "id": 115,
+      "name": "OX PHOS",
+      "altText": "OX PHOS\n\nNADH & FADH2 (from glycolysis and TCA) are oxidized back to NAD+ and FAD+\n\n\nComplex|\n\n1) NADH dehydrogenase converts NADH to NAD\n\n2) e-is pumped through iron cluster to Coenzyme Q (ubiquinone)\n**Produces free radicals\n\nComplex Il\n\n1) Succinate dehydrogenase converts FADH2 to FAD using CoQ\n2) e- are added to the CoQ pool\n\n\nComplex il\n1) Shuttles e- to cytochrome ¢ (mobile e- carrier)\n\nCytochrome B complex can form superoxide and Cytochrome C can form H202\n**Produces free radicals\n\nComplex IV\n\n1) Cytochrome c brings e- to to cytochrome ¢ oxidase\n2) Final e- acceptor = oxygen and is reduced to H20\nComplexV\n\n1) Shuttle of electrons allows H+ to be pumped to inter membrane space = creating electrochemical gradient\n2) H+ flows back down gradient through Complex V and ATP synthase makes ATP\n\n**Thermogenin (Dinitrophenol) = OXPHOS uncoupler\n\n\nCoQ:\n+ Membrane bound receptor that shuttles e- between Complex I, I &Il\n+ Becomes fully reduced to Hydroquinone if accepts 2 e-\n\n+ Becomes reduced to Semiquinone if accepts 1 e- (free radical)\n\n\nROS\n\nMitochondrial OX PHOS = main source of ROS\n\n+ Mitochondrial DNA and Fe$ are susceptible to oxidative damage\n«ROS are generated thrcugh Fenton Reaction and Haber Weiss reaction\n« Superoxide dis tase, Catalase and Glutathione Peroxidase\n",
+      "fileName": {
+        "full": "ox-phos.jpg",
+        "small": "ox-phos.thumb.jpg"
+      }
+    },
+    "116": {
+      "id": 116,
+      "name": "Purine & Pyrimidine Metabolism",
+      "altText": "PURINE & PYRIMIDINE METABOLISM\n\n\nPURINE SALVAGE\n\n\nPURINE EXCRETION\n\n\nPURINE DE NOVO SYNTHESIS\n\n\nPYRIMIDINE DE NOVO SYNTHESIS\n\n\nSEVERE COMBINED IMMUNODEFICIENCY (SCID)\n\n«Adenosine deaminase deficiency\n\n+ Autosomal recessive inheritance\n\n> Accumulation of toxic metabolites (deoxyadenosine and dATP)\n- Decreased activity of ribonucleotide reductase\n\n- Loss of B-cell and T-cells » Decreased immune response\n\n- Severe, recurrent infections\n\n\nLESCH-NYHAN SYNDROME\n\n+ HGPRT deficiency\n\n\n+ Impaired purine salvage pathway - Overproduction of Uric acid\n« “He’s Got Purine Recovery Troubles”\n\n+ Hyperuricemia\n\n« Gout\n\n+ Poor intellect\n\n+ Rage/aggression = self-mutilation behavior\n\n+ Abnormal muscle Tone\n\n\nSecondary Gout\n«Overproduction of Uric acid\n> Excess monosodium urate crystals\n\n- Release of inflammatory mediators\n> Neutrophil influx\n",
+      "fileName": {
+        "full": "purine-pyrimidine-metabolism.jpg",
+        "small": "purine-pyrimidine-metabolism.thumb.jpg"
+      }
+    },
+    "117": {
+      "id": 117,
+      "name": "Autoimmunity",
+      "altText": "AUTOIMMUNITY\n\n\n1. Central Tolerance\n\n\n« Testing of T-cells and B-cells w/ strong self antigen:\n\n\nThymus\n« Positive selection: tests if T-cell recognizes MHC\n«+ Negative selection: tests if MHC binds self Ag\n\n\n\n« Deletion/ Apoptosis\nT-cell binds self Ag w/ high affinity\n-\n\n\n« T-reg cell develops\nT-cell binds self Ag w/ low affinity\n\n\nBone Marrow ‘\n«B-cell Selection: tests if B-cell binds self Ag\n\n\n«Multivalent Self Ag\nB-cell recognizes multivalent self Ag\n(co-receptors crosslink)\n\n\n+Univalent Self Ag\n\n\n\nB-cell recognizes univalent self Ag.\n\n\n« Receptor Editing\nSomatic recombination to\nmake new light chain/receptor\n\n\n« Deletion/Apoptosis\nUnsuccessful receptor editing\n\n\n+ Anergy/\nInactivation\n\n\n2. Peripheral Tolerance\n« Suppression of reactive T-cells and B-cells in\nperipheral tissues by T-reg cells .\n\n\n+AIRE\nPresents self-Ag from peripheral tissues\nto T-cells during central tolerance\n\n\n« T-cell recognizes self Ag in peripheral tissues\n\n\n«Anergy/\nInactivation\n\n\n*Suppression\nby T-reg cells\n\n\n- Deletion\n\n\n« B-cell recognizes self Ag in peripheral tissues\n\n\n+Anergy/\nInactivation\n\n\n« Suppression\nby T-reg cells\n\n\n«Deletion\n\n\nMechanisms of Autommunity:\n\n- Self tolerance error:\n« T-cells react to self-Ag\n\n« Bystander Activation:\n\n\n« Microbe induces activation of APC > stimulates self-reactive T-cells\n\n+ Molecular Mimicry:\n+ Foreign Ag resembles self Ag  activated T-cell recognizes foreign AND self Ag\n\n\n+Cryptic Epitope\n\nImmune system is presented an Ag previously\nunseen b/c Ab-Ag complex formation undergoes\nconformational change that now allows presentation\nof an Agimmune system has not previously acquired\ntolerance towards\n\n\nAutoimmune Development:\n\n+ Susceptibility phase: 1+ preconditions for later autoimmune disease\n+Impaired tolerance induction (e.g. AIRE deficiency)\n+Impaired production of T-reg cells\n« Altered immune signaling thresholds\n- Initiation phase: before onset of clinical disease but autoimmune response present\n« 4 threshold for autoantigens\n« Non-tolerized structure\n«+ Pro-immune contact (e.g. infection, malignancy, other exposure)\n. Propagation phase: onset of clinical disease w/ propagation-specific immune response\n« Disease specific autoantigens\n« 1 autoantigens expression in target tissue\n« Immune effector pathways further propagate immune response\n+ Regulation/Resolution phase:\n+ Immunoregulatory pathways activated that may inhibit disease later on\n",
+      "fileName": {
+        "full": "autoimmunity.jpg",
+        "small": "autoimmunity.thumb.jpg"
+      }
+    },
+    "118": {
+      "id": 118,
+      "name": "Uterus Pathology",
+      "altText": "UTERUS PATHOLOGY\n\n\nEndometrium\n\n« Acute Endometritis\n« Bacterial infection\n\n\n« Occurs after pregnancy or miscarriage\n« Fever, AUB, pelvic pain\n« Neutrophils in stroma or glands\n\n« Chronic Endometritis\n« Chronic PID, retained products, IUDs\n\n« Plasma cells and lymphocytes in stroma\n\n« Endometriosis\n\n\n« Bleeds cyclically\n\nb- Dysmenorrhea, dyspareunia, pelvic pain, infertility\n« 2 risk of endometrioid and clear cell carcinoma\n\n\n« Endometriomas “Chocolate cysts” in ovaries\n« “Gun powder” lesions in peritoneum\n\n\n+Adenomyosis\n\n\n« Endometrial tissue in myometrium\n« Not cyclical pain, irregular and heavy menses\n« Thickened uterine wall\n\n\n« Endometrial Polyps\n« Hyperplastic protrusion into endometrial cavity\n« Painless AUB or asymptomatic\n\n\n« Endometrial Hyperplasia\n«Glands > stroma\n« PTEN mutation\n\n\n« 1 risk of endometrioid carcinoma\n« Risks: prolonged estrogen stimulation\n\n\nMalignant Endometrium\n« Type 1 Endometritis adenocarcinoma\n« Hyperplasia pathway\n\n« PTEN mutation ‘\n\n\n« Gland forming > endometrioid histology\n\n\n+ Obese, post-menopausal woman w/ AUB and endometrial hyperplasia\n\n\n« Type 2 Serous and Clear cell carcinoma\n\n\n« Sporadic pathway\n\n« Background atrophy\n\n« p53 mutation\n\n« Not estrogen dependent\n« Not gland forming\n\n\n« Papillae and tufts (serous) vs. Hobnails and clear cells (clear cell)\n\n\nMyometrium\n« Leiomyoma\n\n\n« Most common tumor in premenopausal women\n« Asymptomatic\n« Whorled mass of smooth muscle\n« Multiple fibroids\n« Leiomyosarcoma\n« Most common in post-menopausal women\n\n\n« Malignant and arises de novo\n« Hemorrhage and necrosis\n« Solitary lesion\n",
+      "fileName": {
+        "full": "uterus-pathology.jpg",
+        "small": "uterus-pathology.thumb.jpg"
+      }
+    },
+    "119": {
+      "id": 119,
+      "name": "Placenta Pathology",
+      "altText": "PLACENTA PATHOLOGY\n\n\nPlacenta Abnormalities\n« Placenta Previa\n« Covers internal cervical os\n« PainLESS vaginal bleeding\n\n\n«Vasa Previa\n\n\n« Fetal blood vessels cover internal cervical os\n« PainLESS vaginal bleeding\n\n\n« Placenta Accreta\n\n« Attaches to myometrium\n« Placenta Increta\n\n« Invades into myometrium\n\n\n« Placenta Percreta\n\n\n« Through myometrium to uterine serosa/organs\n\n- Severe postpartum hemorrhage\n\n\n« Placental Abruption\n\n\n« Partial or complete placental detachment\n« Painful vaginal bleeding, fetal distress, shock\n« Retroplacental hematoma\n\n\n«Velamentous Umbilical Cord\n\n\n« Umbilical cord inserts onto chorioamniotic membrane\n« Fetal vessels travel to placenta unprotected by Wharton’s jelly\n\n\n« Twin placentas\n« Twin-twin transfusion syndrome\n\n\n« Chorioamnionitis\n\n\n« Bacterial infection ascends through birth canal\n« Cloudy foul-smelling amniotic fluid\n\n« Discolored- gray placenta\n\n« Can - PROM and preterm delivery\n\n« Prelabor Rupture of Membrane (PROM)\n« After 37 wks gestation & before labor\n\n« Preterm Prelabor Rupture of Membrane (PPROM)\n« Before 37 wks gestation\n\n\nGestational Trophoblastic Disease\n« Complete Hydatidiform Mole\n\n« No fetal tissue\n\n« Polyspermy = 46 XX or XY\n\n\n« Painful vaginal bleeding, hyperemesis gravidarum\n« Risk of malignancy - Choriocarcinoma or invasive mole\n« Swelling of chorionic villi w/ trophoblastic proliferation\n\n\n« Partial Hydatidiform Mole\n« Fetal tissue present\n« Triploidy - 69 XXY, 69 XXX\n« No risk of malignancy\n\n\n« Swelling of some chorionic villi and some trophoblastic proliferation\n\n\n« Choriocarcinoma\n\n\n« Previous normal or abnormal pregnancy\n+ Metastasizes widely - lungs and vagina\n\n\n« Malignant growth of cytot}ophobla;ts & syncytiotrophoblasts\n«No chorionic villi\n\n\n« Chemotherapy\n\n\n« Invasive Mole\n« Hydropic chorionic villi invade myometrium\n« Locally invasive\n« Chemotherapy\n\n\n« Placental Site Trophoblastic Tumor\n« Neoplastic intermediate trophoblasts\n« Invades endomyometrium, no villi\n\n\n. Choriocarcinoma, Invasive Mole\n2. Complete mole > Partial mole\n\n3. Placental Site trophoblastic tumor\n4. Down syndrome\n\n5. Multiple gestation\n\n\n4 B-hCG\n",
+      "fileName": {
+        "full": "placenta-pathology.jpg",
+        "small": "placenta-pathology.thumb.jpg"
+      }
+    },
+    "120": {
+      "id": 120,
+      "name": "Pregnancy Pathology",
+      "altText": "PREGNANCY PATHOLOGY\n\n\nEarly Pregnancy\n\n\n« Spontaneous abortion\n+<20wks\n\n\n+ Due to fetal c’somal abnormalities\n« Intrauterine fetal demise\n«>20 wks\n\n« Ectopic pregnancy\n« Most common @ ampulla\n« Risks: PID, endometriosis, IUD use\n« Hematosalpinx\n« Chorionic villi in Fallopian tube\n\n\n« Labor Dystocia\n« Cause of 1° intrapartum C-section\n« Arrest of labor\n« 3 P’s > Power, Passenger, Passage\n\n\n« Shoulder Dystocia\n« Can cause brachial plexus injuries\n\n\nHypertension\n\n\n« Gestational Hypertension\n«>20 wks\n\n\n« No proteinurea or end organ damage\n\n\n« Preeclampsia\n*>20 wks\n»New onset HTN\n« Proteinurea and end organ dysfunction\n« Due to abnormal spiral arteries\n« Usually 1st pregnancy, last trimester\n\n\n« Ecclampsia\n+>20wks\n« +seizures\n\n\n« IV Magnesium sulfate or deliver baby\n\n\n*HELLP\n« Severe form of preeclampsia\n« Hemolysis\n« Elevated Liver enzymes\n+ Low Platelets\n« Hepatic scapular hematoma\n« Deliver baby\n\n\n<20 wks\n\n\n« Chronic HTN\n\n\n« Molar pregnancy\n\n\nLate Pregnancy\n\n\n« Gestational Diabetes\n« Insulin resistance from hPL\n\n\n« Impaired fasting glucose and + HgB A1C\n« 1 risk of Type 2 Diabetes Mellitus\n\n\n« Thyroid physiology changes\n",
+      "fileName": {
+        "full": "pregnancy-pathology.jpg",
+        "small": "pregnancy-pathology.thumb.jpg"
+      }
+    },
+    "121": {
+      "id": 121,
+      "name": "Cerebellum Output",
+      "altText": "CEREBELLUM OUTPUT\n\n« Deep Cerebellar Nuclei are the only output from the cerebellum\n\n\n«Vermis & Flocculonodular\n\n\n1. Fastigial Nuclei\n\n2. Thalamus\n\n3. Motor Cortex\n\n« Anterior Corticospinal Tract\n\n-+ Proximal limb and trunk motor\n\n\n« Reticular Formation (Reticulospinal tract\n- Reflexes and motor movements\n\n« Tectum (Tectospinal tract)\n\n- Balance\n\n+Vestibular nuclei (Vestibulospinal tract)\n\n\n- Balance\n\n\n«Vestibular Nucleus (Medial Longitudinal Fasciculus)\n> Equilibrium, balance, Vestibulo-ocular reflex, smooth pursuit\n\n\n+ Origin: Fastigial Nuclei\n«Output:\n+ Anterior Corticospinal tract (VL thalamus)\n+ Tectospinal tract\n+ Reticulospinal tract\n+Vestibulospinal tract\nMLF\n« Function:\n+ Medial motor\n+Balance\n+ Eye movements\n\n\n+ Origin:Emboliform & Globose Nuclei\n«Output:\n\n+ Lateral Corticospinal tract (VL thalamus)\n\n+ Magnocellular Red Nucleus (Rubrospinal tract)\n\n\n+ Function:\n« Lateral motor\n\n\n« Lateral Hemispheres\n\n\n1. Dentate Nuclei\n\n2. Superior Cerebellar Peduncle\n3. Thalamus\n\n4. Motor Cortex\n\n+ Lateral Corticospinal tract\n\n> Motor planning for extremities\n\n\n1. Dentate Nuclei\n\n2. Parvocellular Red Nucleus\n3. Inferior Olivary Nucleus\n4. Lateral hemispheres\n\n\n1. Dentate Nuclei\n2. Thalamus\n\n3. Prefrontal Cortex\n> Cognition\n\n\n+ Origin: Dentate Nuclei\n+Output:\n« Lateral Corticospinal tract (VL thalamus)\n« Parvocellular Red Nucleus\n« Function:\n\n+ Lateral motor\n\n« Motor planning/ coordination\n\n\n\nLesions » Ataxia:\n« Ataxia is ipsilateral to side of cerebellar lesion\n\n\n«Midline lesions of cerebellar vermis or flocculonodular lobes - truncal ataxia, disequilibrium, eye movement abnormalities\n« Lesions of intermediate and lateral cerebellar hemispheres  appendicular ataxia\n« Lesions of DCML  sensory ataxia\n",
+      "fileName": {
+        "full": "cerebellum-output.jpg",
+        "small": "cerebellum-output.thumb.jpg"
+      }
+    },
+    "122": {
+      "id": 122,
+      "name": "Cerebellum Input",
+      "altText": "CEREBELLUM INPUT\n\n\nCerebral Cortex\n\n1. Cerebral cortex, Brainstem, Spinal\nCord + Red Nucleus (climbing fibers)\n¥\n2. Olivocerebellar Fibers (Inferior\nOlivary nucleus)\n¥\n3. Climbing fibers\n¥\n4. Inferior Cerebellar Peduncle\nv\n5. Entire Cerebellar Cortex\n\n=Motor planning\n\n\nCerebral Cortex\n\n1. Frontal, Temporal, Parietal, Occipital Lobes\nv\n2. Pontocerebellar/ Corticopontine fibers\n(Pontine nuclei)\nv\n3. Mossy fibers\nv\n4. Middle Cerebellar Peduncle\nv\n5. Entire Cerebellar cortex\n\nMotor planning\n\n\nSpinal Cord\n\n1. Spinocerebellar Tracts\nv\n2. Mossy fibers\nv\n3. Inferior Cerebellar Peduncle\nand Superior Cerebellar Peduncle\n\n=Ipsilateral proprioceptive\ninformation\n\n\nVestibular nerve\n\n1. Vestibular Sensory Neurons\nv\n2. Mossy fibers\nv\n3. Inferior Vermis &\nFlocculonodular\n\n= Ipsilateral proprioception\ninformation\n\n\n«Climbing Fibers\n\n\n«Mossy Fibers\n\n\n«Granule cells\n\n\n. Purkiﬁje cells\n\n\n« Deep Cerebellar Nuclei\n\n\nSummary:\n\n« Cerebrocerebellum (Lateral hemispheres)\n« IN: Sensory from cerebral cortex\n« OUT: Motor planning\n\n« Spinocerebellum (Vermis + Intermediate hemispheres)\n«IN: Propioception\n\n« OUT: Motor coordination and execution\n\n«Vestibulocerebellum (Flocculonodular + Inferior Vermis)\n\n\n« IN: Vestibular nuclei\n« OUT: Balance & ocular movements\n",
+      "fileName": {
+        "full": "cerebellum-input.jpg",
+        "small": "cerebellum-input.thumb.jpg"
+      }
+    },
+    "123": {
+      "id": 123,
+      "name": "Basal Ganglia Indirect Pathway",
+      "altText": "BASAL GANGLIA INDIRECT PATHWAY\n\n\nIndirect Pathway:\n\n1. Cortex (+) Striatum\n\n2. Striatum (-) GPe\n\n3. Removes inhibition on STN\n4. Allows STN to (+) GPi\n\n5. GPi can now (-) Thalamus\n=4 Motor activity\n\n\nAChinputs:\n1. ACh interneurons (-) Striatal neurons of direct pathway\n\n2. ACh interneurons (+) Striatal neurons of indirect pathway\n=¥ motor activity\n\n\n\nExcitatory (glutamate):\n« Motor cortex\n«Thalamus\n\n«STN\n\n\nInhibitory (GABA):\n« Striatum\n\n+GPi\n\n«GPe\n\n\nCortex\n\n\nBrainstem & Spinal Cord\n\n\nStriatum\n\n\nSubstantia Nigra pars compacta (SNc¢)\n\n\nSubstantia Nigra pars reticulata (SNr)\n\n\nThalamus\n\n\nSubthalamic Nucleus (STN)\n\n\nGlobus Pallidus internus (GPi)\n\n\nGlobus Pallidus externus (GPe)\n",
+      "fileName": {
+        "full": "basal-ganglia-indirect-pathway.jpg",
+        "small": "basal-ganglia-indirect-pathway.thumb.jpg"
+      }
+    },
+    "124": {
+      "id": 124,
+      "name": "Adult Brain Tumors",
+      "altText": "ADULT BRAIN TUMORS\n\n\nGLIOBLASTOMA\n\n+ Most common primary malignant tumor in adults\n\n+ Highly malignant\n\n« Rapidly cross corpus callosum > “butterfly” tumor\n\n+ IDH wild type (90%)\n\n IDH mutant has better prognosis - P53 mutation\n\n» MICRO: Pseudo-palisading cells are viable cells\nalong edges of necrotic area\n\n\nMENINGIOMAS\n\n+ Most common primary benign tumor in adults\n\n« Arise from meningothelial cells of arachnoid\n\n+ Adheres to dura along falx and tentorium\n+1°sporadic 5 NF2 mutation\n\n+ Progesterone receptor (+)\n\n«MICRO: Whorled pattern w/ psammoma bodies\n\n\nOLIGODENDROGLIOMA\n\n+ Frontal lobes of 40-50 yo\n+Can become malignant\n\n\n«IDH mutation + 1p/19q codeletion\n«MICRO: Fried egg cells in grade |\n\n\nChicken wire blood vessels in grade Il\n\n\nHEMANGIOBLASTOMA\n« Cerebellum\n« Associated w/ Von Hippel Lindau disease\n« Secrete EPO - Polycythemia\n«MICRO: Vacuolated cells\nDense capillary vasculature\n\n\nPRIMARY CNS LYMPHOMA\n+ Most common CNS neoplasm inimmunosuppressed patients\n\n\n« Mostly B cell lymphoma\n\n+AIDS definingillness\n\n«Associated w/ EBV\n\n+MICRO: Diffuse periventricular lining\n\n\nDIFFUSE ASTROCYTOMA\n« Cerebral hemispheres of 40-60 yo\n\n+MICRO: + well differentiated astrocytic cells\n2 cellularity, pleomorphic, mitotoses\n\n\nin Anaplastic Astrocytoma\n",
+      "fileName": {
+        "full": "adult-brain-tumors.jpg",
+        "small": "adult-brain-tumors.thumb.jpg"
+      }
+    },
+    "125": {
+      "id": 125,
+      "name": "Pediatric Brain Tumors",
+      "altText": "PEDIATRIC BRAIN TUMORS\n\n\nPILOCYTIC ASTROCYTOMA\n\n+ Most common pediatric tumor\n\n+ BRAF mutation > MAPK pathway\n+ Slow growing tumor\n\n«MICRO: Rosenthal fibers\n\n\nEosinophilic granular bodies\n\n\nPLEIOMORPHIC XANTHOASTROCYTOMA\n\n+ Temporal lobe\n\n« BRAF mutation\n\n+Poorly controlled seizures\n\n+MICRO: Pleomorphic cells w/o necrosis and mitotic\n\n\nactivity\n\n\nSUBEPENDYMAL GIANT CELL ASTROCYTOMA\n« Lateral ventricle\n\n\n« Tuberous sclerosis » TSC1 and TSC2 mutation » mTOR pathway\n\n\n+ Can lead to obstructive hydrocephaly\n\n«Slow growing\n\n« MICRO: Globular eosinophilic cytoplasm w/ marked\nnucleoli\n\n\nEPENDYMOMA\n\n+ Near 4th ventricle in 0-20 yo > hydrocephaly\n. Supratentorial or spinal cord tumor in adults\n\n\n« NF2 gene mutation\n«MICRO: Perivascular pseudorosettes\n\n\nTrue pseudorosettes\n\n\n« Myxopapillary Ependymoma:\nFilum terminale of spinal cord &\nMyxomatosis background\n\n« Posterior Fossa tumors:\n\nCSF dissemination » worst outcome\n\n\nMEDULLOBLASTOMA\n+ Most common malignant embryonal tumor\n+Cerebellum\n\n+ Rapid growth blocking CSF - hydrocephalus\n\n\n+WNT and SHH signaling\n+ CSF spread - drop metastases\n\n\n+ Highly malignant but responds well to treatment\n\n\n* Small blue cells\nHomer wright rosettes\n\n\nDensely cellular\n\n\nCHOROID PLEXUS PAPILLOMA\n- Lateral ventricles - hydrocephaly\n\n\n+MICRO: Papillary architecture of choroid plexus\n\n\nATYPICAL TERATOID/RHABDOID TUMOR\n+ Highly malignant tumor\n+IN-Linactivation\n\n+ Rhabdoid tumor predisposition\n\n+Doesn’t respond to treatment\n\n+ MICRO: Rhabdoid cells > plump hyper\neosinophilic cytoplasm\n\n\nCOLLOID CYST OF THIRD VENTRICLE\n« Non-neoplastic enlarging cyst\n« Positional headache\n\n\n« Cyst blocks CSF > non-communicating hydrocephaly\n\n\nCRANIOPHARYNGIOMA\n« Sella turcica and suprasellar region\n« Supratentorial tumor in children from Rathke’s pouch\n+ Presents with endocrine and visual symptoms\n*MICRO: sheets of squamous epithelium\n\nAggregates of keratinocytes > wet keratin\n\n\nKeratinocyte degeneration > motor oil\n",
+      "fileName": {
+        "full": "pediatric-brain-tumors.jpg",
+        "small": "pediatric-brain-tumors.thumb.jpg"
+      }
+    },
+    "126": {
+      "id": 126,
+      "name": "Sleep Wake Cycle",
+      "altText": "SLEEP\n\n\nDarkness input from retina\n\nv\nSuprachiasmatic nucleus (SCN)\nv\nReleases inhibition on sympathetic nervous system (SNS) by SCN\nv\n4 SNS outflow to pineal gland\nv\nNorepinephrine released onto pinealocytes\nv\nConversion of serotonin to melatonin\nv\nMelatonin acts at SCN to inhibit wake signal and promote sleep\nv\n\nSCN connects to posterior and lateral hypothalamus\n\n+\nPosterior and lateral hypothalamus INITIATES sleep\n\n\nNREM\n\n\nVentrolateral preoptic nucleus (VLPO) inhibits all diffuse\nneuromodulatory pathways\n\n\n\n\nPontine reticular formation containing these REM-ON and REM- OFF cells\nmodulates switch between REM and NREM\n+\nAcetylcholine neurons activate Ponto-Geniculate-Occipital (PGO)\npathway > induces dream imagery and REM\n+\nAcetylcholine neurons project to thalamus and cortex resulting in\nactivating changes resembling awake state\nv\nFeedback to acetylcholine neurons in brainstem shuts down REM sleep\n\n\nAWAKE\n\n\nLight input from retina\nv\nSCN\n\n+\nSCN inhibits SNS outflow to pineal gland\n+\n+ melatonin\n\n+\n\n Posterior and lateral hypothalamus sleep signal\n&\n\nAscending activating reticular system inhibits VLPO\n\n\nLaterodorsal Tegmental area and Pedunculopontine (Brainstem) *ACh\n\nVentral preaqueductal gray area (Midbrain) *Dopamine\n\n\nREM-ON cells:\n« Acetylcholine\n\n- Dopamine\n\n+ Glutamate\n\n\nREM-OFF cells:\n«Norepinephrine\n\n« Serotonin\n\n« Histamine\n\n+Orexin\n",
+      "fileName": {
+        "full": "sleep-wake-cycle.jpg",
+        "small": "sleep-wake-cycle.thumb.jpg"
+      }
+    },
+    "127": {
+      "id": 127,
+      "name": "Sleep",
+      "altText": "SLEEP\n\n\nSuprachiasmatic nucleus (SCN)\n1. Neurons of retina\n\n\n2. SCN synchronizes circadian rhythm of sleep-wake cycle to light-dark cycles\n\n\n3. Posterior and lateral hypothalamus INITIATES sleep and its function is synced to circadian rhythm\n\n\nSleep promoting:\n\n\n«Ventrolateral preoptic nucleus (VLPO)\n1.GABAergic neurons in VLPO inhibit neurons of ascending activating pathways\n\n\n« Melatonin\n1. Onset of darkness\n2. SNS activation of pineal gland\n\n\n3. Releases norepinephrine to activate enzymes that convert serotonin to melatonin\n4. Melatonin diffuses out into blood stream\n5. Melatonin acts at SCN to dampen wake-promoting signal and promote sleep\n\n\n+Adenosine\n\n1. Adenosine levels accumulate during the day > reaches a threshold concentration\n2. Inhibits activity of wake-promoting CNS regions\n3. Activates VLPO > promotes sleep\n\n\n« Cytokines\n« Prostaglandin D2\n\n\n« Growth hormone releasing hormone\n\n« Medullary reticular formation and Nucleus solitarius\n\n+ Sleep promoting regions in medulla\n\n\nSwitch between REM and NREM sleep\n\n« Pontine reticular formation = contains REM-off and REM-on cells\n\nREM-ON cells: REM-OFF cells:\n\n+ Acetylcholine +Norepinephrine\n+Dopamine +Serotonin\n- Glutamate  Histamine\n\n«Orexin\n\n\nWake promoting:\n\n« Ascending reticular activating system (ARAS)\n\n+ Projects to thalamus and cerebral cortex\n+ Results in cerebral cortical activation during wakefulness\n\n\nNeuromodulation\n«Norepinephrine\n+Serotonin\n\n« Histamine\n\n- Orexin\n\n« Acetylcholine\n\n- Dopamine\n\n«Glutamate\n\n\n1. During wakefulness, all neurotransmitters are ON\n\n2. During NREM sleep all neurotransmitters are inhibited by GABAergic neurons in VLPO\n(since they promote wakefulness)\n\n3. During REM, REM-ON cells and VLPO further inhibit Norepinephrine and Serotonin so\nREM-ON cells can increase activity in brainstem for REM sleep.\n\n4. Acetylcholine neurons in brainstem project to thalamus and cortex » activating changes\nof REM sleep seen on EEG that resembles awake state\n\n5. Brainstem acetylcholine neurons activate Ponto-Geniculate-Occipital (PGO) pathway >\ninduces dream imagery and REM\n\nWhy don’t we move our limbs during REM sleep if our motor\ncortex is active?\n\n+ Glutaminergic REM-ON cells in pontine reticular formation activate inhibitory\nGlycine in medulla and spinal cord to inhibit lower motor neuron activity\n\n+ This decreases muscle tone\n\n+ Eye movement is not inhibited by this circuit > REM = “rapid eye movement”\n",
+      "fileName": {
+        "full": "sleep.jpg",
+        "small": "sleep.thumb.jpg"
+      }
+    },
+    "128": {
+      "id": 128,
+      "name": "Migraine Headaches",
+      "altText": "MIGRAINE HEADACHES\n\n« Disturbance of cortical, brainstem and hypothalamic excitability\n\n\nMIGRAINE PATIENTS\n\n« Hyperexcitable brainstem and hypothalamus\n+ Results in abnormal activity of raphe nuclei, locus ceruleus, and periaqueductal gray area\n+ These areas fire without a pain signal\n+ Leads to associated migraine symptoms: Photophobia, phonophobia, nausea, vomiting, and allodynia\n«Hypersensitivity to dopamine and serotonin\n« Low baseline serotonin\n\n\n\n\n« Posterior hypothalamus INITIATES migraine\n+ 2 blood flow to hypothalamus, periaqueductal gray\narea, locus ceruleus, and ventral tegmental area\n+ Input ascends to Trigeminal cervical center\n+ Hypothalamus regulates symptoms:\n\n+Mood changes\n\n« Fatigue\n\n« Irritability\n\n+ Food cravings\n\n« Stiff neck\n\n« Phonophobia\n\n\nAURA\n\n\n« Cortical Spreading Depression > Aberrant firing of neurons:\n+ Wave of hyperexcitability that spreads through cortex\n« Followed by prolonged widespread neuronal inhibition\n+ Linked to initiation of headache phase and activation of\ntrigeminal system\n\n\nHEADACHE\n\n\n« Activation of nociceptive nerves of Trigeminal cervical\ncenter (contains trigeminal nerve and cervical nerves)\n« Nerve fibers project to leptomeningies, dural vessels,\n\n\nand cerebral arteries\n« Results in pain of headache\n\n\nPOSTDROME\n\n\nTrigemino-vascular response\n\n\n«Activation of trigeminal pain pathway\n\n+Releases Substance P and CGRP\n\n+Results in neurogenic inflammation of pain sensitive meninges and\ndilation of cranial vessels\n\n+Also feedbacks to prolong pain experience resulting in central\nsensitization (maintenance and development of chronic pain)\n\n\nTrigemino-autonomic reflex\n\n« Trigeminal cervical center activates Superior salivatory nucleus\n\n« Superior salivatory nucleus drives parasympathetic vasodilator pathway\n\n« Hypothalamus modulates descending inhibitory pain pathways through its\nconnections to superior salivatory nucleus, periaqueductal gray area, locus\nceruleus, raphe nuclei, and trigeminal complex\n",
+      "fileName": {
+        "full": "migraine-headaches.jpg",
+        "small": "migraine-headaches.thumb.jpg"
+      }
+    },
+    "129": {
+      "id": 129,
+      "name": "Neuromodulatory Projection Pathways",
+      "altText": "NEUROMODULATORY PROJECTION PATHWAYS\n\n\nNOREPINEPHRINE\n\n\nLocus ceruleus\n(Rostral pons)\n\n\n« Attention\n+Mood\n«+Sleep-wake\n«Pain\n\n\nLateral tegmental area\n(Pontine & medullary reticular formation)\n\n\n«+ BP control\n*RR\n\n\nSEROTONIN\n\n\nRaphe nuclei\n(Midbrain, pons, medulla)\n\n\n«Awareness of pain\n+Mood modulation\n«Sleep regulation\n\n\n«Breathing\n+Vomiting\n+Temp regulation\n\n\nHISTAMINE\n\n\nTuberomammilary nucleus\n(Posterior hypothalamus)\n\n\n«Alert state\n\n\n\n\nPosterior lateral hypothalamus\n\n\n+Food intake (reward)\n«Arousal, wakefulness\n\n\nACETYLCHOLINE\n\n\nBrainstem\n\n\nLaterodorsal\ntegmental area\n\n\n+Arousal\n\n\nPedunculopontine\nnucleus\n\n\n« Movement coordination\n\n\nBasal Forebrain\n\n\nNucleus Basalis\n\n\n«Arousal\n\n\nMedial Septal\nNucleus\n\n\n+ Declarative memory\n\n\nDOPAMINE\n\n\nSubstantial Nigeria\n(Mesostriatal pathway)\n\n\n+«Movement\n\n\nVentral Tegmental area\n(Mesolimbic pathway)\n\n\nReward\nAddiction\n\n\nVentral PAG\n(Mesocortical pathway)\n\n\n+Working memory\n+ Motor initiation\n« Executive function\n",
+      "fileName": {
+        "full": "neuromodulatory-projection-pathways.jpg",
+        "small": "neuromodulatory-projection-pathways.thumb.jpg"
       }
     }
   }
