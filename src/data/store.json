@@ -422,7 +422,13 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            130,
+            131,
+            132,
+            133,
+            134
+          ]
         },
         {
           "id": 21,
@@ -434,7 +440,26 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            104,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151
+          ]
         },
         {
           "id": 22,
@@ -446,7 +471,17 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            114,
+            152,
+            153,
+            100,
+            154,
+            98,
+            155,
+            156,
+            99
+          ]
         },
         {
           "id": 23,
@@ -1453,6 +1488,249 @@
       "fileName": {
         "full": "neuromodulatory-projection-pathways.jpg",
         "small": "neuromodulatory-projection-pathways.thumb.jpg"
+      }
+    },
+    "130": {
+      "id": 130,
+      "name": "Ovarian Cycle",
+      "altText": "Ovarian Cycle Follicular Phase luteal phase endometrium ovulation oocyte maturation cumulus expansion luteinization",
+      "fileName": {
+        "full": "ovarian-cycle.jpg",
+        "small": "ovarian-cycle.thumb.jpg"
+      }
+    },
+    "131": {
+      "id": 131,
+      "name": "Male Reproductive System",
+      "altText": "Male reproductive system Spermatogeneesis spermatogonial proliferation meiosis spermiogenesis spermiation seminal fluid seminal vesicles prostage gland bulourethral bland fluid secretion from tubules leydig cell functions sertoli cell functions penis urethral ejaculatory ducts testicles vas deferens",
+      "fileName": {
+        "full": "male-reproductive-system.jpg",
+        "small": "male-reproductive-system.thumb.jpg"
+      }
+    },
+    "132": {
+      "id": 132,
+      "name": "Genital Embryology",
+      "altText": "Genital embryology epiblast mesoderm endoderm ectoderm cloaca anorectal canal urogenital sinus phallic region urethra bladder prostate paraurethral bartholin bulbourethral prostate utricle vagina penis scrotum clitoris labia minora majora penile urethra vestible",
+      "fileName": {
+        "full": "genital-embryology.jpg",
+        "small": "genital-embryology.thumb.jpg"
+      }
+    },
+    "133": {
+      "id": 133,
+      "name": "Pelvic arteries",
+      "altText": "Pelvic arteries common iliac external iliac internal iliac iliolumbar lateral sachral superior gluteal inferior gluteal internal pudendal middle rectal perineal posterior labial scrotal clitoris penis doral deep umbilical superior vesical obturator inferior",
+      "fileName": {
+        "full": "pelvic-arteries.jpg",
+        "small": "pelvic-arteries.thumb.jpg"
+      }
+    },
+    "134": {
+      "id": 134,
+      "name": "Urethral Rupture",
+      "altText": "More common in males b/c abrupt change in\ndirection between membranous urethra and\nspongy urethra\n\n\nRupture of Urethra + Buck’s Fascia is INTACT\n\n\nUrine extravasates into penis and perineum\n\n\nRupture of Urethra + Rupture of Buck’s Fascia\n\n\nUrine extravasates into penis and perineum\n+scrotum & abdominal wall\n\n\nRupture of Membranous Urethra\n\n\nUrine extravasates into pelvic cavity\n",
+      "fileName": {
+        "full": "urethral-rupture.jpg",
+        "small": "urethral-rupture.thumb.jpg"
+      }
+    },
+    "135": {
+      "id": 135,
+      "name": "Metabolism in Diabetes",
+      "altText": "Glucose toxicity oxidation superoxide production nonenzymatic glycation fructose sorbitol hap dag pkc activation insulin secretion glycolysis epinephrine adrenergic receptors pancreas hypertriglyceridemia diabetes insulin resistance",
+      "fileName": {
+        "full": "metabolism-in-diabetes.jpg",
+        "small": "metabolism-in-diabetes.thumb.jpg"
+      }
+    },
+    "136": {
+      "id": 136,
+      "name": "Diabetes",
+      "altText": "t2dm insulin resistance relative insulin deficiency hyperglycemia impaired insulin-mediated glucose update pathogensis hyperglycemia t1dm autoimmune b cells lada latent autoimmune diabetes of adulthood gdm gestational diabetes mody maurity onset diabetes of the young",
+      "fileName": {
+        "full": "diabetes.jpg",
+        "small": "diabetes.thumb.jpg"
+      }
+    },
+    "137": {
+      "id": 137,
+      "name": "PTH",
+      "altText": "secretion bone osteoblasts kidney hydroxylase intestine calcium reabsorption osteocytic osteolysis osteoclast bone resorption hypercalciuria hyperphosphaturia",
+      "fileName": {
+        "full": "pth.jpg",
+        "small": "pth.thumb.jpg"
+      }
+    },
+    "138": {
+      "id": 138,
+      "name": "Tolerance",
+      "altText": "Central tolerance thymus selection positive negative b cell selection peripheral tolerance anergy deletion supression immunogenic immunological autoimmunity",
+      "fileName": {
+        "full": "tolerance.jpg",
+        "small": "tolerance.thumb.jpg"
+      }
+    },
+    "139": {
+      "id": 139,
+      "name": "Thyroid Pathology",
+      "altText": "Hyperthyroidism blummer toxic multinodular tsh secretion pituitary adenoma hcg producing tumors subclinical hypothyroidism cretinism congenital hypothyroidism iodine deficiency myxedema coma iatrogenic thyroidectomy autoimmune subacut lymphocytic thyroiditis de quervain granulomatous infection reidiel radioiodine induced",
+      "fileName": {
+        "full": "thyroid-pathology.jpg",
+        "small": "thyroid-pathology.thumb.jpg"
+      }
+    },
+    "140": {
+      "id": 140,
+      "name": "Parathyroid Pathology",
+      "altText": "Hyperparathyroidism parathyroid adendma sporatic parathyroid hyperplasia carcinoma paraneoplastic syndrome renal cell carcinoma hypoparathyroidism iatrogenic pseudohypoparathyroidism albright hereditary osteodystrophy chvostek trosseau",
+      "fileName": {
+        "full": "parathyroid-pathology.jpg",
+        "small": "parathyroid-pathology.thumb.jpg"
+      }
+    },
+    "141": {
+      "id": 141,
+      "name": "Adrenal Pathology",
+      "altText": "Adrenal lesions hyperplasia adenoma carcinoma diffuse hyperplasia nodular macronodular micronodular adrenocortical hyperfunction hyperaldosteronism conn syndrome bilateral idopathic glucocorticoid remediable hypercortisolism cushing disease acth dependent ectopic acth syndrome primary adrenal lesion virilizing syndrome congenital adrenal hyperplasia salt wasing late onset adreenal insufficiency chronic acute waterhouse-friderichsen addisons insufficiency",
+      "fileName": {
+        "full": "adrenal-pathology.jpg",
+        "small": "adrenal-pathology.thumb.jpg"
+      }
+    },
+    "142": {
+      "id": 142,
+      "name": "Steroidogenesis",
+      "altText": "atch glucocorticoid synthesis mineralocorticoid sex steroid cholesterol pregnenolone progesterone deoxycortisone corticosterone aldosterone mineralcorticoids ketoconazole hydroxypregnenolone hydroxyprogesterone deoxicortisol cortisol cortisone glucocorticoids dehydroepiandrosterone dhea androstenodione testosterone estradiol sex steroids",
+      "fileName": {
+        "full": "steroidogenesis.jpg",
+        "small": "steroidogenesis.thumb.jpg"
+      }
+    },
+    "143": {
+      "id": 143,
+      "name": "Hypothalmus Pituitary Axis",
+      "altText": " Parvicellular neurons pevh pvh paraventricular nucleas of hypothalamus magnicellular neurons pupraoptic nucleus ocytocin dopamine prolactine growth horomone somatostatin",
+      "fileName": {
+        "full": "hypothalmus-pituitary-axis.jpg",
+        "small": "hypothalmus-pituitary-axis.thumb.jpg"
+      }
+    },
+    "144": {
+      "id": 144,
+      "name": "Feedback Loops",
+      "altText": "prolactin hypothalmus pituitary breast fsh ls gonads acth adrenal gland gh liver muscle adipose tsh thyroid dopamine prolactine somatostatin  growth horomone oxytocin",
+      "fileName": {
+        "full": "feedback-loops.jpg",
+        "small": "feedback-loops.thumb.jpg"
+      }
+    },
+    "145": {
+      "id": 145,
+      "name": "B-Oxidation",
+      "altText": "b oxidation long chain fa carnitine deficiency medium systemic b oxidation spiral alternate fa oxidation pathways",
+      "fileName": {
+        "full": "b-oxidation.jpg",
+        "small": "b-oxidation.thumb.jpg"
+      }
+    },
+    "146": {
+      "id": 146,
+      "name": "Fatty Acid Synthesis",
+      "altText": "- Linoleic acid (w-6) and Linolenic acid (w-3) = essential fatty acids obtained from diet\n\n\nCarbon Sources for Acetyl CoA:\n-Monosaccharides\n\n-EtOH\n\nAA\n\n\n\nStarting Material for FA synthesis:\n-Acetyl CoA\n\n\n\nMain source of Acetyl CoA:\n~Excess carbs and protein\n\n\n1. NADPH from PPP\n2. Malate conversion to Pyruvate\n=NADPH required for FA synthesis\n\n\nPhosphatase\n\n\nAcetyl CoA Carboxylase\n\n\nAMP-activated protein kinase\n\n\nInhibits ATP consumption:\n-FA synthesis\n-Gluconeogenesis\n-Protein synthesis\n-Glycogen synthesis\n~Cholesterol synthesis\n\n\nStimulates ATP production:\n-B- oxidation\n~Glycolysis\n\n\nStimulated by:\n-Insulin\n\n-Citrate (substrate)\n-High Calorie diet\n\nInhibited by:\n\n-Palmitoyl CoA (product)\ngy\n\n\nFatty acid synthase catalyze elongation of FA\nchains by adding 2 carbon malonyl groups\n\n\nCitrate shuttles EXCESS Acetyl CoA from mitochondria to cytosol for fatty acid synthesis\n\nPyruvate replenishes TCA cycle intermediate via Pyruvate Carboxylase so cell can still make ATP\n\n\nBiotin (B7) cofactor required for carboxylase enzymes!\n(le. Pyruvate carboxylase, Acetyl CoA carboxylase)\n\n\nBiotin Deficiency:\n-mental status changes\n\n\n -dermatitis\n\n-alopecia\n",
+      "fileName": {
+        "full": "fatty-acid-synthesis.jpg",
+        "small": "fatty-acid-synthesis.thumb.jpg"
+      }
+    },
+    "147": {
+      "id": 147,
+      "name": "Metabolic Pathways",
+      "altText": "(+) Hexokinase (Glucokinase in liver)\n(+) Phosphofructokinase (PFK-1)\n(+) Pyruvate Kinase\n\n\n(+) Glucose-6-phosphatase\n(+) Fructose 1,6- bisphosphatase\n(+) PEP carboxykinase\n\n\nPFK-2 Regulation of Glycolysis and Gluconeogenesis:\n\n\n1. Liver requires citrate to make FA in gluconeogenesis\n2. But + citrate and ATP negatively feedback to PFK-1 = inhibits glycolysis\n\n3. Fructose-6-phosphate accumulates and is shunted to Fructose 2,6- phosphate by PFK-2\n\n4. Fructose 2,6-phosphate overrides inhibition on glycolysis and stimulates PFK-1 & inhibits Fructose 1,6-bisphosphatase\n= provides liver with citrate for FA synthesis\n\n\n\nPFK-2 Stimulated by:\n-Insulin\n\n\nPFK-2 Inhibited by:\n~Glucagon\n\n\nFructose 2,6-bisphosphate inhibits\nFructose 1,6-bisphosphatase\n\n\nPhosphofructokinase-2\n\n\nPFK-1 Stimulated by:\n-Fructose 2,6-bisphosphate\n-AMP\n\nPFK-1Inhibited by:\n~citrate\nLATP\n\n\nPhosphofructokinase-1\n\n\nGlucose-6-Phosphate Dehydrogenase\n\n\nGluconeogenesis Starting Materials:\n“Glycerol\n-Lactate\n-AA\n\n\nRequired Enzymes:\n1) Glycerol Kinase:\n\n~converts Glycerol to Glycerol-3-P\n\n2) Lactate dehydrogenase:\n\n-converts Lactate to Pyruvate\n\n3) PEP carboxykinase:\n\n~converts OAA to Phosphoenolpyruvate\n\n\nOccurs when high rate of beta oxidation\nand excess Acetyl CoA i present\n(TCA cycle is slower than B oxidation)\n\n\nGlucose-6-phosphatase-dehydrogenase deficiency\n\n-more severe hypoglycemia b/c G6PDH is required for Glycogenolysis AND\nGluconeogenesis (removes phosphate so glucose can exit)\n\n-G6P accumulation shunts over to PPP = hyperuricemia\n\nlactic acidosis + hepatomegaly\n\n\nHepatic glycogen phosphorylase deficiency\n-affects only Glycogenolysis\nless severe hypoglycemia + hepatomegaly\n\n\nMuscle glycogen phosphorylase deficiency\n\n\nExcess ketone production can lead to:\n-increased acetone production\n\n-ketonuria\n-metabolic acidosis *“DKA, alcoholics, starvation\n\n\nUrine dipstick detects acetoacetate only (not B-hydroxybutyrate)\n= can lead to false negative result b/c B-hydroxybutyrate levels > acetoacetate in fasting\n*Measure B-hydroxybutyrate in serum\n",
+      "fileName": {
+        "full": "metabolic-pathways.jpg",
+        "small": "metabolic-pathways.thumb.jpg"
+      }
+    },
+    "148": {
+      "id": 148,
+      "name": "Fed State",
+      "altText": "Fed state FA sythesis insulin glucagon cortisol epinephrine glucose phosphate dehydrogenase citrate lysase malic enzyme acetyl coa carboxylase synthase glycolysis hexokinase glucokinase liver phsophofructokinase pyruvate kindase tyrosine monosaccharides adipose",
+      "fileName": {
+        "full": "fed-state.jpg",
+        "small": "fed-state.thumb.jpg"
+      }
+    },
+    "149": {
+      "id": 149,
+      "name": "Fast State",
+      "altText": "fast state overnight strenous exercise glycogenolysis gluconeogenesis liver fa atp glucose phosphate fructose bisphosphate pep caroxykinase insulin tyrosine kinase glucagon epinephrine gpcr cortisol monosaccharides",
+      "fileName": {
+        "full": "fast-state.jpg",
+        "small": "fast-state.thumb.jpg"
+      }
+    },
+    "150": {
+      "id": 150,
+      "name": "Metabolism",
+      "altText": "metabolism fed fast glucose triclyceride glucogenolysis gluconeogenesis overnight proloned beta oxidation anaerobic glycolysis ketone synthesis lipolysis aerobic proeolysis ammonia urea fa synthesis protien insuline tyrosine kinase",
+      "fileName": {
+        "full": "metabolism.jpg",
+        "small": "metabolism.thumb.jpg"
+      }
+    },
+    "151": {
+      "id": 151,
+      "name": "Lipid Metabolism",
+      "altText": "lipid metabolism bile salt synthesis hydroxylase hd synthesis liver small intestine exogenous triglycerides cholesterol monoacylglycerols chylomicron assembly maturation endogenous vldl ldl uptake hypertriglyceridemia diabetes insulin resistance",
+      "fileName": {
+        "full": "lipid-metabolism.jpg",
+        "small": "lipid-metabolism.thumb.jpg"
+      }
+    },
+    "152": {
+      "id": 152,
+      "name": "Na+ & H2O Balance",
+      "altText": "na+ h20 sodium water circulating tbw ecn blood pressure sympatheic system raas reabsoption excretion balance in out chronic edema pitting jugular vein distension pulmonary edema adh neurohumoral drive renin angiotensin aldosterone catecholamines natriuritic",
+      "fileName": {
+        "full": "na-h2o-balance.jpg",
+        "small": "na-h2o-balance.thumb.jpg"
+      }
+    },
+    "153": {
+      "id": 153,
+      "name": "Renal Blood Flow",
+      "altText": "Renal blood flow glomerulotubular balance reabsorption gfr filtered load renal artery segmental interlobar arcuate afferent glomeruli efferent arterioles vasa recta raas stimuli renin release perfusion pressure nacl delivery sympatheic system myogenic response focal necrosis kidney cysts",
+      "fileName": {
+        "full": "renal-blood-flow.jpg",
+        "small": "renal-blood-flow.thumb.jpg"
+      }
+    },
+    "154": {
+      "id": 154,
+      "name": "Acute Kidney Injury",
+      "altText": "Acute kidney injury rapid decline gfr accumulation metabolic waste disturbance fluids electrolytes acid base tubular damage nephrotoxic exogenous induced rapidi contrast nephropathy ethylene glycol poisoning acute phosphate endogenous myoglobin muscle injury hemoglobin uric acid light chains ischemic intrarenal vasoconstriction raas sublethal endothelial injury interstitial damage drug induced nsaids abx pps wbc edema acute intersititial nephritis chronic intestinal infection acute pyelonephritis chronic vascular nephrosclerosis malignant benign renal artery stenosis cholesterol atheroembolic disease",
+      "fileName": {
+        "full": "acute-kidney-injury.jpg",
+        "small": "acute-kidney-injury.thumb.jpg"
+      }
+    },
+    "155": {
+      "id": 155,
+      "name": "Acidosis & Alkalosis",
+      "altText": "acidosis alkalosis major acid c02 major base hc03 metabolic respiratory compensation correction",
+      "fileName": {
+        "full": "acidosis-alkalosis.jpg",
+        "small": "acidosis-alkalosis.thumb.jpg"
+      }
+    },
+    "156": {
+      "id": 156,
+      "name": "Urea Cycle",
+      "altText": "urea cycle aspartate carbamoyl phosphate ornithine citulline aspartate argininosuccinate fumarate arginine",
+      "fileName": {
+        "full": "urea-cycle.jpg",
+        "small": "urea-cycle.thumb.jpg"
       }
     }
   }
