@@ -29,6 +29,7 @@ export const Search: React.FC = () => {
     (e: React.MouseEvent<HTMLElement>) => {     
       if (document.activeElement) {
         (document.activeElement as HTMLElement).blur();
+        setSearchInput('');
       }
     },
     []
