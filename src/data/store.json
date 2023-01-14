@@ -551,7 +551,35 @@
             }
           },
           "childType": "img",
-          "children": []
+          "children": [
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215
+          ]
         },
         {
           "id": 26,
@@ -2053,6 +2081,249 @@
       "fileName": {
         "full": "coagulation-cascade.jpg",
         "small": "coagulation-cascade.thumb.jpg"
+      }
+    },
+    "189": {
+      "id": 189,
+      "name": "Head and Neck Vessels",
+      "altText": "head and neck vessels thyroid infraorbital supraorbital suprascapular brachiocephalic subclavian right left common throacic Anastomoses of cerebral and internal carotid arteries\n1) Posterior Cerebral artery\n2) Posterior Communicating artery\n\n\n3) Internal Carotid artery\n4) Anterior Cerebral artery\n5) Anterior Communicating artery\n\n\nVertebral arteries originate from subclavian arteries and travel\nthrough transverse foramina of cervical vertebrae and enter\n\n\nskull through foramen magnum\n\n\n1) Vertebral Arteries\n2) Posterior Inferior Cerebral Arteries\n3) Basilar Artery\n\n4) Anterior Inferior Cerebral Arteries\n\n\n5) Superior Cerebellar Arteries\n6) Posterior Cerebral Arteries\n\n\n7) Posterior Communicating Arteries\n8) Internal Carotid Arteries\n\n9) Middle Cerebral Arteries\n\n10) Anterior Cerebral Arteries\n\n11) Anterior Communicating Artery\n\n\nEnters skull via carotid canal in temporal bone\n\n\n1- Superior thyroid artery\n2-Lingual artery\n\n3-Facial artery\n\n4-Occipital artery\n\n5- Maxillary artery\n\n6- Superficial temporal artery\n",
+      "fileName": {
+        "full": "head-and-neck-vessels.jpg",
+        "small": "head-and-neck-vessels.thumb.jpg"
+      }
+    },
+    "190": {
+      "id": 190,
+      "name": "Visual Field Defects",
+      "altText": "visual field defects bitemporal hemianopia temporal nasal retinal field pituitary tumor anterior cerebral artery stroke contralateral homonymous hemianopia pca stroke contralateral superior quadrantanopia temporal lobe damage middle cerebral artery stroke contral lateral inferior quadrantanopia parietal lobe damage middle cerebral artery stroke ",
+      "fileName": {
+        "full": "visual-field-defects.jpg",
+        "small": "visual-field-defects.thumb.jpg"
+      }
+    },
+    "191": {
+      "id": 191,
+      "name": "Eye Overview",
+      "altText": "eye overview phototranduction photoreceptors bipolar cells ganglion cells extrageniculate pathway pupillary light reflex accomadation reflex vergence vertical gaze rostral interstitial nucleus pretectum superior colliculus horizontal gaze abducens nucleus vestibuld ocular reflex medial longitudinal fasciculus vestibulospinal tracts lateral medial retinogeniculate pathway magnocellular parvocellular dorsal pathway ventral pathway optokinetic nystagmus ",
+      "fileName": {
+        "full": "eye-overview.jpg",
+        "small": "eye-overview.thumb.jpg"
+      }
+    },
+    "192": {
+      "id": 192,
+      "name": "Eye Circuits",
+      "altText": "eye circuits cn iii palsy oculomotor nucleus ipsilateral innervation contralateral bilateral oculomotor nucleus lesion nerve lesion cn iv palsy vertical diplopia cn vi palsy horizontal diplopia horizontal saccade lateral medial rectus smoothe pursuit reflexive saccades vertical rostral interstitial nucleus medial longitudinal fasciculus pretectum vergeance KO All extraocular muscles except Superior\nOblique and Lateral Rectus = Eye is Down and Out\n+Ptosis (KO Levator Palpebrae Superior)\n+Mydriasis (KO Edinger Westphal Nucleus)\n\n\n-Inferior Rectus\n-Medial Rectus\n_Inferior Oblique\n\n\n-Superior Rectus\n\n\n~Levator Palpebrae Superior\n-Pupillary Constrictors/ Lens Ciliary Muscles\n\n\nCut before crossing = ipsilateral deficits of IR, MR, 10 + deficit in contralateral\nSuperior Rectus but Levator Palpebraes and Pupillary Constrictors are OK\n\n\nCut s/p B/Linput from both nuclei = Unilateral weakness on side of lesion\n\n\nKO Superior Oblique = Eye s up and in b/c\nInferior Oblique is unopposed\n\n\nKO Lateral Rectus = Eye is adducted\n\n\n2) Superior Colliculus projects to\ncontralateral PPRF and Abducens (or\nPPRF projects to ipsilateral Abducens)\n\n\n2) Superior Colliculus\nprojects to contralateral\nfiMLF and Pretectum\n\n\n3) Projection ventrally controls\ndowngaze, dorsally controls upgaze\n\n\n1) Parietal Eye Field projects to ipsilateral\npons, cerebellum, and ipsilateral horizontal\ngaze center and vertical gaze center\n\n\n1) Parietal Eye Fields project to\nipsilateral Superior Colliculus\n2) Superior Colliculus generates\ncontralateral reflexive saccades\n\n\n1) Frontal Lobe projects to\nipsilateral Superior Colliculus\n\n\n1) Frontal Lobe projects to\nipsilateral Superior Colliculus\n\n\n-Pupillary Constrictors/\nLens Ciliary Muscles\n\n\n3) EWN project via CN Il to ciliary\nganglia to pupillary constrictors for\naccommodation and constriction\n\n\n3) CN lIT Nuclei project to\nmedial recti for convergence\n\n\n2) Pretectal Nuclei project to B/L Edinger Westphal\nNucleior B/L CN Il Nuclei\n\n\n1) Visual cortex projects to Pretectal Nuclei\n(diff from pupillary light reflex area)\n",
+      "fileName": {
+        "full": "eye-circuits.jpg",
+        "small": "eye-circuits.thumb.jpg"
+      }
+    },
+    "193": {
+      "id": 193,
+      "name": "Vestibular Pathways",
+      "altText": "vestibular pathways angular acceleration semicircular canals vestibo-ocular reflex optokinetic nystagmus otolithic organ medial longitudinal fasciculus vestibulospinal tracts pons medulla rostral caudal cervical cord lumbar cupula otoliths saccule utricle vestibular parietal eye fields 1) k+ depolarize inner hair cells\n2)Ca2+ channels open\n3) Increase release of Glutamate onto CN VIll\n\n\n1) Horizontal head rotation displaces endolymph in opposite direction\n2) Cupula deflects and moves stereocilia of hair cells\n3) If stereocilia move toward kinocilium, pulls on tip-links = opens k+\n\n\nCN VIil lesion:\n\n-Reduced frequency of impulses in ipsilateral\nafferent fibers or no impulse transmission\n-Equal to inhibition of affected side\n\n\n-Unaffected side will consistently receive higher\nfomniatan Roamiiano i\n\n\nUtricle - more sensitive to head tilt when upright\nSaccule - more sensitive to head tilt when supine\n\n\n1) Any head tilt is detected by hair cells in macula b/c\nkinocilia face in multiple directions\n\n2) Hair cells are embedded in otolithic membrane\n(Otoliths amplify tilt)\n\n3) Bending of cilia = afferent activity to CN VIl\n\n\nActivation of one semicircular canal inhibits other semicircular canal in pair:\n1) B/L Horizontal canals\n\n2) RT anterior canal & LT posterior canal\n\n3) RT posterior canal & LT anterior canal\n\n\nStabilizes eyes on image to keep center on fovea\n1) Turning head activates semicircular canal\n\n2) Activates vestibular nucleus\n\n3) Activates contralateral abducens nucleus\n\n\nEye follows objects in motion while head is stationary\n1) Eye alternates between smooth pursuit and corrective\nsaccades in opposite direction\n\n\n1) ExtraOcular motor nuclei\n2) VPL for conscious perception of movement and gravity\n3) Cerebellum for coordinating postural adjustments\n\n\n1) Position of head and neck bilaterally\n\n\n1) Maintain posture and balance of ipsilateral muscles\n\n\nTest Lateral Vestibulospinal Tract\nw/ Romberg test. Lesion = fall on\nipsilateral side\n\n\nNystagmus = normal physiologic response when head\nrotations are too large to be compensated by VOR\n",
+      "fileName": {
+        "full": "vestibular-pathways.jpg",
+        "small": "vestibular-pathways.thumb.jpg"
+      }
+    },
+    "194": {
+      "id": 194,
+      "name": "Auditory Pathways",
+      "altText": "auditory pathways inner ear cochlear duct organ of corti inner hair cells cochlear nerve super temporal cyrus medial geniculate body inferior colliculus later lemniscus dosal cochlear nucleus dorsal ventral inferior spiral ganglion 1) Stapes transmits sound wave to oval window\n2) Pressure impulse to scala vestibuli through perilymph\n\n\n\n1) Tensor Tympani muscle dampens malleus movements\n2) Stapedius muscle dampens stapedius movements\n\n3) Superior Olivary Complex sends inputs to outer hair\ncells to decrease amplification\n\n\n- Stereocilia insert into\ntectorial membrane\n\n- Efferent\n\n« Amplifiers\n\n\n- Stereocilia don’t insert into tectorial membrane\n- Afferent\n\n\n1) Wave hits area of cochlear duct where basilar membrane is the right frequency\n2) Activates hair cells in Organ of Corti with movement of cochlear duct\n3) Vibrations of basilar membrane cause oscillations of outer hair cells\n\n\n1) Oscillations move endolymph and stimulate inner hair cells\n2) Movement of stereocilia of inner hair cells toward kinocilium\npulls tip links open = K+ influx\n\n\n1) K+ depolarize inner hair cells\n2)Ca2+ channels open\n3) Increase release of Glutamate onto CN VIl\n\n\nHigh frequencies = Cochlea base\nLow frequencies = Cochlea apex\n\n\nLesion above level of cochlear nuclei\nMUST be bilateral to see deficit EXCEPT if\ndeficit is in determining onset/duration\n(b/c Dorsal pathway is contralateral)\n\n\nIntegration and association of auditory\ninformation based on tonotopic map\n\n\nSupports basic auditory functions\n(frequency discrimination and sound location)\n\n\nUnilateral deficit = lesion of\ncochlear nerve or nuclei\n",
+      "fileName": {
+        "full": "auditory-pathways.jpg",
+        "small": "auditory-pathways.thumb.jpg"
+      }
+    },
+    "195": {
+      "id": 195,
+      "name": "Visual Processing",
+      "altText": "visual processing center curround ganglion cells photoreceptors bipolar cells ganglion cells lateral geniculate nucleus magnocellular parvocellular retinotopic organization extrageniculate pathway retinogeniculate pathway calcarine fissure superior inferior visual cortex association dorsal pathway ventral pathway parietal eye fields frontal pretectum -Large cell bodies\n\n~Large receptive fields\n-Project to Magnocellular\nlayers\n\n\n-small cell bodies\n-small receptive fields\n-Project to Parvocellular\nlayers\n\n\nProjects to Pretectum and Superior Colliculus\n*Important for directing visual attention to stimuli\n\n\nSynapses on LGN to Primary Visual Cortex\n\n\nContralateral input = Layers 1,4,6\nIpsilateral input = Layers 2, 3,5\n\n\n-Info for each eye is kept separate from LGN to\nPrimary Visual Cortex\n-Integration begins in Area 18\n\n\n1) Analyze motion and spatial relationships between\nobjects and between body and visual stimuli\n2) Project to parieto-occipital association cortex\n\n\n1) Analyze form, colors, faces, letters\n\n\n2) Projéct to occipitotemporal association cortex-\n",
+      "fileName": {
+        "full": "visual-processing.jpg",
+        "small": "visual-processing.thumb.jpg"
+      }
+    },
+    "196": {
+      "id": 196,
+      "name": "Phototransduction",
+      "altText": "phototransduction fovea rodopsin trasducin ganglion cells surround receptive field primary visual cortex Rods\n\nHorizontal Cell\n\nolar Cell\n\n\nAmacrine Cell\n\nGanglion Cell\n\n\nCones\n\nPhotoreceptors release Glutamate\n\n\nBipolar and Horizontal cells release Glutamate\n\n\nAmacrine cells release GABA and Glycine\n\nGanglion cells release Glutamate\n\n\nIn the DARK:\n\n1) Photoreceptors are relatively depolarized at baseline (-40 mV) b/c:\n-cGMP concentration is high\n\n~channels are open for Na+/Ca2+ influx and K+ efflux\n\n-Ca2+ influx allows release of GLUTAMATE via vesicles into synaptic cleft\n\n\nIn the LIGHT:\n\n1) Light isomerizes 11-cis retinal to 11-trans retinal\n\n2) Transducin is activated. GDP exchanged for GTP\n\n3) cGMP phosphodiesterase hydrolyzes cGMP, closing Na+/Ca2+ channel\n4) Membrane hyperpolarization and lack of Ca2+ stops glutamate release\n\n\nEach photoreceptor synapses with a\nbipolar cell (ON/OFF) and depends on\nwhich photoreceptors receive light\n\n\nReceptive field depends on:\n\n\n- if photoreceptors synapses of ON-Center or OFF-Center bipolar cell\n-if photoreceptor synapses with center or surround receptors of\nbipolar cell\n\n\nON Center Bipolar Cells:\n\n- Hyperpolarized by Glutamate\n\n- Depolarizes when photoreceptors that synapse with it are in the light\n=allow us to see light objects against a dark background\n\n\nOFF Center Bipolar Cells:\n- Depolarized by Glutamate\n\n\n- Depolarizes when photoreceptors that synapse with it are in the dark\nallow us to see dark objects against a light background\n\n\n\nLight hits ON center of ON-BC:\n-BC depolarizes\n\n\nLight hits surround of ON-BC:\n-BCis hyperpolarized b/c only\nreceptors in surround are lit\n\n\nBipolar cell releases glutamate Less glutamate released\n\n\nOFF Center Bipolar Cells:\n- Depolarized by Glutamate\n\n\n- Depolarizes when photoreceptors that synapse with it are in the dark\n=allow us to see dark objects against a light background\n\n\nLight hits OFF center of OFF-BC:\n-BC hyperpolarizes\n\n\nLight hits surround of OFF-BC:\n-BCis depolarized b/c only receptors in\nsurround are lit and OFF center is in the dark\n\n\nIncrease firing of action potentials ~ Decrease firing of action potentials\n\n\nReceptive field (ON/OFF center) of Bipolar\ncell determines receptive field of ganglion\ncell (ON/OFF center)\n",
+      "fileName": {
+        "full": "phototransduction.jpg",
+        "small": "phototransduction.thumb.jpg"
+      }
+    },
+    "197": {
+      "id": 197,
+      "name": "Eye Movements",
+      "altText": "eye movements parinauds syndrome vergeance vertical gaze ciliary ganglion oculomotor nucleus lateral medial rectus edinger westphal nucleus visual cortext medial longitudinal fasciculus abducens nucleus paramedian pontine reticular formation 1) Impaired vertical gaze (upwards*)\n2) Large irregular pupils (no light rxn)\n3) Eyelid abnormalities\n\n4) Impaired convergence\n\n\n1) Abducens controls abduction of ipsilateral eye\n(lateral rectus)\n\n2) Abducens projects to contralateral eye via MLF to\nadduct (medial rectus)\n\n*PPRF is additional horizontal gaze center that\nprovides inputs from cortex to abducens. PPRF goes.\nto ipsilateral Abducens\n\n\n1) Frontal Eye Fields generate voluntary saccades.\n2) Project to Superior Colliculus\n\n3) Project to contralateral Horizontal gaze center of\nVertical gaze center\n\n*Unilateral damage to frontal lobe = reduced ability to\nproduce contralateral horizontal saccades\n*Bilateral damage required to affect vertical saccades\n\n\n1) Parietal Eye Fields track moving object\n2) Project to FEF and brainstem\n\n3) Project toipsilateral pons, cerebellum, vestibular\nnuclei, PPRF and horizontal/vertical gaze centers\n\n*RT PEF controls RT smooth pursuit\n\n\n1) Visual information comes into visual cortex via LGN\n2) Visual cortex projects to Edinger Westphal Nucleus to\nconstrict pupils (parasympathetic pathway)\n\n3) Visual cortex also projects to CN lll nucleus for\nconvergence (medial recti)\n\n\n1) riMLF and Pretectal area project to CN Il nucleus\n2) CN Il nucleus control Superior and Inferior Rectus\n\n\n*Lesions must be B/L\n\n\nB/L lesions of ventral portion of vertical gaze center = downgaze deficits\nOf dorsal portion = upward gaze deficits\n",
+      "fileName": {
+        "full": "eye-movements.jpg",
+        "small": "eye-movements.thumb.jpg"
+      }
+    },
+    "198": {
+      "id": 198,
+      "name": "The Eye",
+      "altText": "the eye limbus sclera iris chroid cornea lens retin fovea centralis optic disc central artery of the retina posterior cavity ciliary body anterior cavity anterior chamber posterior chamber canal of schlemm Thickening of epithelium posterior to intersection of\ncorneal epithelium and conjunctiva\nTransition from stratified squamous to stratified columnar\n\n\n- opaque layer covering posterior 5/6 of eye\n- dense rregular CT\n- covered w/ conjunctiva (stratified columnar w/ goblet cells)\n\n\n1. Fibrous Tunic = Cornea + Sclera\n2. Vascular Tunic = Iris + Ciliary body + Choroid\n3. Retinal Tunic = Retina\n\n\n-highly vascularized and pigmented\n~blocks light from entering, reducing scatter and glare\n\n\nArea of highest visual acuity\nDense concentration of elongated cones\n\n\nWhere optic nerve leaves\neye (blind spot)\n-Lacks photoreceptors\n\n\n- only blood supply to inner retinal layers\n(inner nuclear layer)\n\n- branch of ophthalmic artery\n\n* occlusion of this artery quickly leads to visual\ndefects\n\n\n1) Ciliary muscle is relaxed so Zonular Fibers are tight = flattens lens\n2) Keeps light horizontal to focus on object far away\n\n1) Ciliary muscle contracts (due to parasympathetics) and Zonular\nFibers loosen = rounder lens\n2) Increases refraction to see near object\n\n\n-contains ciliary muscles and ciliary\nprocesses (contains zonular fibers\nfor accommodation)\n\n\nConsists of:\n\n1) Lens capsule: thick basal lamina\n\n2) Subscapular epithelium (cuboidal cells)\n\n3) Lens fibers (packed with protein crystalline)\n\n\nAge related conditions: b\n1) Presbyopia: diminished ability to focus on\n\nnear objects b/c loss of lens elasticity\n\n2) Cataracts: lens lose transparency\n\n\nFilled with Vitreous Humor\n_> shock absorber to protect retina\n\n\nFilled with Aqueous Humor\n> provides nutrients and 02\nto cornea & lens\n\n\nEye color- derived from light reflecting on\nposterior pigmented layer\n\n-Increase # of melanocytes for darker\ncolored eyes p\n\n\n-accounts for 2/3 of eye's refractive power\n- transparent layer from precise order of\ndense reg CT\n\n\n-anterior extension of ciliary body\n\n\n-anterior portion contains sphincter papillae (parasympathetics)\n-posterior portion contains dilator papillae (sympathetic)\n",
+      "fileName": {
+        "full": "the-eye.jpg",
+        "small": "the-eye.thumb.jpg"
+      }
+    },
+    "199": {
+      "id": 199,
+      "name": "Glaucoma",
+      "altText": "glaucoma autonomic control of eye sypatheics parasympathetics mydriasis miosis dilator pupillae muscle sphincter pupillae ciliary epithelium ciliary muscle aqueous humor intraocular pressure carbonic anhydrase open angle glaucoma atrophy of optic nerve head angle-closure glaucoma anterior chamber drainage damage optic nerve conjunctival hyperemia corneal edema ",
+      "fileName": {
+        "full": "glaucoma.jpg",
+        "small": "glaucoma.thumb.jpg"
+      }
+    },
+    "200": {
+      "id": 200,
+      "name": "Eye Reflexes",
+      "altText": "eye reflexes corneal blink reflex chief sensory nucleus spinal trigeminal nucleus facial motor nucleus damage afferent efferent decreased ipsilateral response damage higher structures no blink pupillary light reflex ciliary ganglion edinger westphal nucleus lateral geniculate pretectal accomodation response argyll roberston pupil adie's myotonic pupil gostganglionic parasymphatics pupillary dilator reflex hypothalmic carotid plexus interomediolateral cell column sympatheic chain ganglia horner's syndrome cranial sympathetic ipsilateral miosis ptosis 1) Pupillary Constriction\n2) Accommodation of Lens Ciliary Muscle\n3) Convergence of Eye\n\n\nActivated by visual signals relayed to visual cortex:\n\n1) Pretectal nuclei are activated and parasympathetic\npathways activate bilateral pupillary constriction\n\n2) Motor neurons of CN Il also contract medial rectus to\nconverge eyes\n\n\n1) Light hits retinal ganglion cells in an eye\n\n\n2) Optic nerve takes info and crosses over at\noptic chiasm to project to both optic tracts.\n\n\n3) Fibers continue in brachium of superior\ncolliculus past LGN to pretectal area\n\n\n4) Axons synapse to BILATERAL\nEdinger Westphal nuclei\n\n\n5) Preganglionic parasympathetic\nneurons travel on CN lll to\nBILATERAL ciliary ganglia\n\n\n6) Postganglionic parasympathetics\ncontinue to pupillary constrictor\nmuscles\n\n\n1) Descending sympathetic pathway from\nhypothalamic nuclei reach T1 and T2\n\n\n2) Preganglionic sympathetic neurons in\nInteromedialateral cell column are activated\nand exit ventral T1 and T2\n\n\n3) Axons join paravertebral sympathetic\nchain and ascend to superior cervical\nganglion\n\n\n4) Postganglionic sympathetic fibers ascend\nthrough carotid plexus to cavernous sinus\n\n\n5) Via Ophthalmic branch (V1) of CNV to\nlong ciliary nerves to pupillary dilator\nmuscle\n",
+      "fileName": {
+        "full": "eye-reflexes.jpg",
+        "small": "eye-reflexes.thumb.jpg"
+      }
+    },
+    "201": {
+      "id": 201,
+      "name": "Brain Vascular Supply",
+      "altText": "brain vascular supply posterior cerebral artery superior basilar artery circumferential branches paramedian branches anterior inferior cerebellar posterior vertebral artery lateral paramedian branches spinal artery infarct of midbrain basis weber's tegmentum claude's infarct of medial pontine basis dysarthia hemiparesis ataxic hemiparesis aka syndrome medial medullary syndrome wallenberg's lateral medullary syndrome KO: CN IIl nerve, Red nucleus, superior cerebellar peduncle\n\nSXs:\n-Ipsilateral CN 11l palsy\n\n~Contralateral ataxia (+ tremor, involuntary movements in Claude’s)\n~Contralateral hemiparesis (Claude’s\n\n\nKO: Pyramidal tract (Lateral Corticospinal Tract), Medial\nLemniscus, CN XII nucleus\n\nSXS:\n\n~Contralateral arm/leg weakness\n\n~Contralateral decreased position/ vibration sense\nIpsilateral tongue weakness\n\n\nKO: Corticospinal/bulbar tracts, Pontine nuclei and\npontocerebellar fibers\n\nSXs:\n-Contralateral face, arm/leg weakness, Dysarthria\n-Contralateral ataxia\n\n\nKO: Middle cerebellar peduncle, CN VIl nuclei, Trigeminal\nnucleus/tract, STT, Descending sympathetic fibers, Inner Ear\n\nSXS:\n\n-Ipsilateral ataxia\n\n-Vertigo, nystagmus\n\n-Ipsilateral facial decreased pain and temp sense\n~Contralateral body decreased pain and temp sense\n-Ipsilateral Horner’s syndrome\n\nIpsilateral hearing loss\n\n\nKO: Inferior cerebellar peduncle, CN VIIl nuclei, STT,\nTrigeminal nucleus/tract, Descending sympathetic fibers,\nNucleus Ambiguus & Solitarius\n\nSXs:\n\n-Ipsilateral ataxia, vertigo, nystagmus, nausea\n-Ipsilateral facial decreased pain and temp sense\n~Contralateral body decreased pain and temp sense\n-Ipsilateral Horner’s syndrome\n\n“Hoarseness, Dysphagia\n\n-Ipsilateral decreased taste\n",
+      "fileName": {
+        "full": "brain-vascular-supply.jpg",
+        "small": "brain-vascular-supply.thumb.jpg"
+      }
+    },
+    "202": {
+      "id": 202,
+      "name": "Thalamus Relay Nuclei",
+      "altText": "thalamus relay nuclei anterior nuclei cingulate gyrus medial nuclei frontal lob lateral nuclei association cortices parietal temporal lobe pulvinar parieto-occipital cortex medial geniculate primary auditory cortex lateral geniculate nucleus primary visual cortext extra-intralaminar nuclei diffuse projection nuclei ventral anterior frontal cortex motor cortex ventral lateral primary motor cortext ventral posterior somatosensory cortext working meory movement planning touch proprioception eye head movement neocortex layers unimodal association cortext heteromodal 1) Adjacent to primary sensory or primary motor cortex\n2) Processes single sensory or motor modality\n\n\n1) Adjacent to two or more unimodal association cortices\n2) Integrates information from two or more sensory or motor modalities\n(le. Secondary somatosensory cortex and limbic cortex)\n\n\nLayers 1-3: Associational Connections\nolecular layer\n\n\n\n2/3 = External Granular & Pyramidal layers for cortical- cortical connection’\n\n\nLayer 4 = Afferent Connections\n-Internal Granular layer receives input from Thalamus\n\nLayer 5 = Efferent Connections\n~Large Pyramidal layer sends output to brainstem, basal ganglia, spinal cord\n\nLayer 6 = Associational Connections\n-Polymorphic layer sends outputs to thalamus\n",
+      "fileName": {
+        "full": "thalamus-relay-nuclei.jpg",
+        "small": "thalamus-relay-nuclei.thumb.jpg"
+      }
+    },
+    "203": {
+      "id": 203,
+      "name": "Brainstem Structures",
+      "altText": "brainstem structures isolate brainstem lesions midbrain cerebral aqueduct superior colliculus visual pathways inferior auditory pathways periaqueductal gray tectum tegmentum red nucleus substantia nigra cerebral peduncle medial longitudinal fasciculus medisal lemniscus tract spinothalamic tract mesencephalic nucleus edinger-westphal oculomotor corticospinal corticobulbar pons mesencephalic nucleus chiefe sensory trigeminal motor abducens facial motor spinothalamic medial lemniscus corticospinal corticobulbar cerebellar penducle cerebellum medulla dorsal motor nucleus solitarius hypoglossal trigeminothalamic spinal trigeminal spinothalamic ambiguus pyramids fasciculus gracilis corneatus olivary nucleus 1) 4 CNs in each: Medulla, Pons and Above Pons\n\n2) 4 CNs divide into 12 (motor nuclei are midline): lll, IV, VI, X1l\n\n3) 4 CNs do not divide by 12 (nuclei are lateral): V, VI, IX, XI\n\n4) The 4 M’s (midline columns): Motor nucleus, Motor pathway, MLF, Medial lemniscus\n5) The 4 S's (lateral columns): Sympathetic, Spinothalamic, Sensory, Spinocerebellar\n\n\n1) Which CN are affected? (Medulla, Pons, or Midbrain)\n2) Which tracts are affected? (Medial or Lateral)\n",
+      "fileName": {
+        "full": "brainstem-structures.jpg",
+        "small": "brainstem-structures.thumb.jpg"
+      }
+    },
+    "204": {
+      "id": 204,
+      "name": "Trigeminal Somatosensory Tracts",
+      "altText": "trigeminal somatosensory tracts lesions ipsilateral sensory loss afferants dorsal column medial lemniscus somato sensory homunculus medial lemniscus tract dorsal root ganglion proprioception trigeminal neuralgia blink reflex gag reflex glossopharyngeal neuralgia spinothalamic trigeminothalamic somatotopic referred trigeminal neck pain ",
+      "fileName": {
+        "full": "trigeminal-somatosensory-tracts.jpg",
+        "small": "trigeminal-somatosensory-tracts.thumb.jpg"
+      }
+    },
+    "205": {
+      "id": 205,
+      "name": "Corticobulbar Tracts",
+      "altText": "corticobulbar tracts lateral cortical spinal tract cortex motor cortex internal capsule midbrain pons rostral medulla decussate cervicomedullary junction caudal medulla caudal medulla lateral ventral horn motor neurons spinal cord lateral column ventral horn posterior limb internal capsule contralateral trigeminal motor nucleus bilateral innervation mastication jaw jerk reflex jaw deviation facial motor nucleus  nucleus ambiguus pseudobulbar palsy bulbar palsy hypoglossal nucleus tongue deviation accessory motor nucleus ",
+      "fileName": {
+        "full": "corticobulbar-tracts.jpg",
+        "small": "corticobulbar-tracts.thumb.jpg"
+      }
+    },
+    "206": {
+      "id": 206,
+      "name": "Brainstem Nuclei",
+      "altText": "Brainstem nuclei moto rule of four sensory midbrain edinger-westphal nucleus oculomotor trochlear pons trigeminal motor superior salivatory mescencephalic chief sensory spinal trigeminal medulla facial abducens inferior salivatory hypoglossal dorsal motor ambiguus spinal accessory vestibular dorsal ventral cochlear solitarius gustatory caudal cardiorespiratory ",
+      "fileName": {
+        "full": "brainstem-nuclei.jpg",
+        "small": "brainstem-nuclei.thumb.jpg"
+      }
+    },
+    "207": {
+      "id": 207,
+      "name": "Extraocular Muscles",
+      "altText": "extraocular muscles orbicularis oculi palpebral part orbital levator palpebrae superioris superior tarsal horner's syndrome damage sympathetic nerves of face ptosis superior rectus oblique lateral medial palsy rotation view mydriasis ",
+      "fileName": {
+        "full": "extraocular-muscles.jpg",
+        "small": "extraocular-muscles.thumb.jpg"
+      }
+    },
+    "208": {
+      "id": 208,
+      "name": "Triangles of Neck",
+      "altText": "Triangles of neck anterior triangle superficial anterior jugular vein submandibular gland internal carotid artery mylohyoid stylohyoid digastric posterior geniohyoid thryohyoid sternothyroid sternohyoid omohyoid  suprahyoid infrahyoid rectus capitis posterior minor rectus capitis posterior major obliquus capitis superior suboccipital triangle vertebral artery suboccipital nerve greater occipital nerve suboccipital triangle obliquus capitis sternocleidomastoid obliquus capitisis inferior innervates rectus capitis extensors head neck spine semispinalis capitis cervicis posterior triangle trapezius levator scapulae middle scalene sternocleidomastoid clavicle anterior scalene ",
+      "fileName": {
+        "full": "triangles-of-neck.jpg",
+        "small": "triangles-of-neck.thumb.jpg"
+      }
+    },
+    "209": {
+      "id": 209,
+      "name": "CN V & CN VII",
+      "altText": "cn v cn vii trigeminal ganglion sensory motor frontal nerve supraorbital supratochlear lacrimal nerve communicating branch external nasal anterior ethmoidal infratrochlear ciliary ganglion nerves middle meningeal nerve zygomatic zygomaticotemporal zygomaticafacial infraorbinal alveolar pterygopalatine anterior middle posterior medial lateral nasal nasopalatine palatine greater lesser pterygoid canal petrosal geniculate stylomastoid foramen temporal zygomatic buccal mandibular posterior auricular cervical branch petrosal nerve postganglionic sympathetics greater petrosal chroda tympani nerve ",
+      "fileName": {
+        "full": "cn-v-cn-vii.jpg",
+        "small": "cn-v-cn-vii.thumb.jpg"
+      }
+    },
+    "210": {
+      "id": 210,
+      "name": "Facial Nerve",
+      "altText": "facial nerve somatic motor muscles of facial expression stapedid stylohyoid posterior belly of digastric visceral motor greater petrosal nerve pterygopalatine ganglion chorda tympani submandibular gland special sensory chorday tympani somatic sensory posterior ear skin temporal branch nerve of pterygoid canal trigeminal nerve internal acoustic meatus geniculate petrous part of temporal bone pterygopalatine ganglion chroda tympani stylomastoid foramen process mastoid buccal zygomatic lingual submandibular ganglion gland mandibular branch cervical chorda tympani join lingual pre-synaptic parasympathetics pterygoid canal pterygopalatine post-synaptic parasympathetics lacrimal glad air sinuses palate nasal cavity ",
+      "fileName": {
+        "full": "facial-nerve.jpg",
+        "small": "facial-nerve.thumb.jpg"
+      }
+    },
+    "211": {
+      "id": 211,
+      "name": "Trigeminal Nerve",
+      "altText": "trigeminal nerve sensory face dura mater cornea conjunctiva mucosa nose mouth paranasal sinuses anterior tongue teeth moto mastication muscles temporalis masseter medial lateral pterygoids mylohyliod anterior belly of digastric tensor veli palatini tensor tympani supraorbital supraochlear nerve lacrimal gland trigeminal ganglion nasociliary nerve ciliary ganglion infratrochlear anterior ethmodial zygomaticotemporal zygomatic external nasal anterior superior alveolar middle infraorbital posterior lateral nasal branches nasopalatine greater and lesser palatine pterygopalatine ganglion meningel branch auriculotemporal submandibular gland inferior mental buccal ",
+      "fileName": {
+        "full": "trigeminal-nerve.jpg",
+        "small": "trigeminal-nerve.thumb.jpg"
+      }
+    },
+    "212": {
+      "id": 212,
+      "name": "Macillary Artery Branches",
+      "altText": "maxillary artery branches opthalmic artery internal carotid posterior ethmoidal anteroir ethmoidal septal branches sphenopalatine forame pterygoid canal deep temporal middle meningeal superficial maxillary external inferior alveolar mental masseteric medial lateral pterygoid descending palatine greater lesser posterior superior infraorbital dental branches septal kiesselbach's area ",
+      "fileName": {
+        "full": "macillary-artery-branches.jpg",
+        "small": "macillary-artery-branches.thumb.jpg"
+      }
+    },
+    "213": {
+      "id": 213,
+      "name": "Veins and Dural Venous Sinuses",
+      "altText": "emmisary veins parietal occipital mastoid condylar internal jugular superior opthalmic inferior superficial temporal pterygoid plexus maxillary angular deep vein deep facial retro mandibular anterior internal external brachiocephalic vens dural venous sinuses tunica intima superior sagittal sinus inferior straight sinus confluence of sinuses transvers sinus cavernous sinus superior petrosal sinus sigmoidal subclavian veins Drain veins outside of cranium\nthrough scalp to connect to\nvenous sinuses\n\n\nCan drain into Deep Facial Vein\nor Retromandibular Vein\n\n\nConnection between cavernous\nsinuses to facial vein via superior\nophthalmic vein can allow\nretrograde infection\n\n\nCN I, IV, V1, V2 and VI & internal carotid artery\ntravel through cavernous sinus\n\nSince the pituitary gland lies between the two\ncavernous sinuses, a growing tumor can\nexpand and compress on the cavernous sinus\nand affects these nerves or an internal carotid\nartery rupture can cause a fistula and affect\nthe nerves\n",
+      "fileName": {
+        "full": "veins-and-dural-venous-sinuses.jpg",
+        "small": "veins-and-dural-venous-sinuses.thumb.jpg"
+      }
+    },
+    "214": {
+      "id": 214,
+      "name": "Ventricles of the Brain",
+      "altText": "ventricles of the brain lateral ventricles left right third cerebral fouth median and lateral apertures central canal subarachnoid space arachnoid villi superior sagittal sinus interventricular foramen cerebral aqueduct foramen of luschka spinal cord chordid plexus ependymal cells capillary pia mater csf exits into ventricle ",
+      "fileName": {
+        "full": "ventricles-of-the-brain.jpg",
+        "small": "ventricles-of-the-brain.thumb.jpg"
+      }
+    },
+    "215": {
+      "id": 215,
+      "name": "Cranial Nerves",
+      "altText": "cranial nerves cn i sensory olfactory ii sensory optic iii motor oculomotor iv motor trochlear v both trigeminal vi motor abducent vii both facial viii sensory vestibocochlear ix both glossopharyngeal x both vagus xi motor spinal accessory xii motor hyoglossal cribriform foramina optic canal superior orbital fissure foramen rotundum ovale spinosum lacerum internal acoustic meatus jugular stylomastoid hypoglossal magnum hyophyseal fossa lesser wing sphenoid bone greater anterior clinoid process posterior petrous part of temporal bone ",
+      "fileName": {
+        "full": "cranial-nerves.jpg",
+        "small": "cranial-nerves.thumb.jpg"
       }
     }
   }
